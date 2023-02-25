@@ -1,0 +1,13 @@
+{"task_name": "Reuters2", 
+"labels": {
+"22": {"instruction": "Here is news about reserves: \"", "counter_labels": []}, 
+"5": {"instruction": "Here is news about copper: \"", "counter_labels": []}, 
+"3": {"instruction": "Here is news about cocoa: \"", "counter_labels": []}, 
+"8": {"instruction": "Here is news about crude: \"", "counter_labels": []},
+"25": {"instruction": "Here is news about ship: \"", "counter_labels": []},
+"10": {"instruction": "Here is news about gnp (gross national product): \"", "counter_labels": []}, 
+"24": {"instruction": "Here is news about rubber: \"", "counter_labels": []},
+"27": {"instruction": "Here is news about tin: \"", "counter_labels": []},
+"2": {"instruction": "Here is news about bop (balance of payments): \"", "counter_labels": []},
+"16": {"instruction": "Here is news about jobs: \"", "counter_labels": []},
+"19": {"instruction": "Here is news about money-supply: \"", "counter_labels": []}}}

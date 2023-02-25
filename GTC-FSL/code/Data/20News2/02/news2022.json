@@ -1,0 +1,9 @@
+{"task_name": "New2022", 
+"labels": {
+"18": {"instruction": "Here is news about recreation.sport.baseball: \"", "counter_labels": []}, 
+"19": {"instruction": "Here is news about society.religion.christian: \"", "counter_labels": []}, 
+"10": {"instruction": "Here is news about recreation.automobile: \"", "counter_labels": []}, 
+"1": {"instruction": "Here is news about alternative.atheism: \"", "counter_labels": []},
+"12": {"instruction": "Here is news about computer.system.mac.hardware: \"", "counter_labels": []},
+"16": {"instruction": "Here is news about recreation.motorcycles: \"", "counter_labels": []},
+"14": {"instruction": "Here is news about recreation.sport.hockey: \"", "counter_labels": []}}}

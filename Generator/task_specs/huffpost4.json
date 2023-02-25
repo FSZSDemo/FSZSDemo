@@ -1,0 +1,18 @@
+{"task_name": "huffpost444", 
+"labels": {
+"25": {"instruction": "A news headline about religion: \"", "counter_labels": []}, 
+"20": {"instruction": "A news headline about crime: \"", "counter_labels": []}, 
+"17": {"instruction": "A news headline about women: \"", "counter_labels": []}, 
+"3": {"instruction": "A news headline about entertainment: \"", "counter_labels": []},
+"38": {"instruction": "A news headline about latino voices: \"", "counter_labels": []},
+"32": {"instruction": "A news headline about arts: \"", "counter_labels": []}, 
+"40": {"instruction": "A news headline about education: \"", "counter_labels": []},
+"14": {"instruction": "A news headline about parents: \"", "counter_labels": []}, 
+"11": {"instruction": "A news headline about sports: \"", "counter_labels": []}, 
+"15": {"instruction": "A news headline about the worldpost: \"", "counter_labels": []}, 
+"24": {"instruction": "A news headline about worldpost: \"", "counter_labels": []},
+"2": {"instruction": "A news headline about entertainment: \"", "counter_labels": []},
+"36": {"instruction": "A news headline about environment: \"", "counter_labels": []},
+"0": {"instruction": "A news headline about politics: \"", "counter_labels": []}, 
+"27": {"instruction": "A news headline about science: \"", "counter_labels": []}, 
+"5": {"instruction": "A news headline about parenting: \"", "counter_labels": []}}}

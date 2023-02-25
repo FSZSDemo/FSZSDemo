@@ -1,0 +1,11 @@
+{"task_name": "Amazon4442", 
+"labels": {
+"19": {"instruction": "Here is a review about pet supplies: \"", "counter_labels": []}, 
+"12": {"instruction": "Here is a review about health and personal care: \"", "counter_labels": []}, 
+"22": {"instruction": "Here is a review about toys and games: \"", "counter_labels": []}, 
+"16": {"instruction": "Here is a review about musical instruments: \"", "counter_labels": []},
+"10": {"instruction": "Here is a review about electronics: \"", "counter_labels": []},
+"18": {"instruction": "Here is a review about patio, lawn and garden: \"", "counter_labels": []},
+"14": {"instruction": "Here is a review about kindle store: \"", "counter_labels": []},
+"4": {"instruction": "Here is a review about beauty: \"", "counter_labels": []},
+"17": {"instruction": "Here is a review about office products: \"", "counter_labels": []}}}

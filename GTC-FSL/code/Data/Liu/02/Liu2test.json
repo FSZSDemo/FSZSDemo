@@ -1,0 +1,22 @@
+{
+"task_name": "Liuwanttest2", 
+"labels": {
+"movies": {"instruction": "If I want movies recommendations, I will say: \"", "counter_labels": []}, 
+"set": {"instruction": "If I want to set alarm or reminder, I will say: \"", "counter_labels": []}, 
+"post": {"instruction": "If I want to post on social media, I will say: \"", "counter_labels": []}, 
+"volume_mute": {"instruction": "If I want volume mute, I will say: \"", "counter_labels": []},
+"radio": {"instruction": "If I want  to play the radio, I will say: \"", "counter_labels": []},
+"events": {"instruction": "If I want event recommendation, I will say: \"", "counter_labels": []}, 
+"audiobook": {"instruction": "If I want to play the audiobook, I will say: \"", "counter_labels": []}, 
+"stock": {"instruction": "If I want to ask about stock, I will say: \"","counter_labels": []}, 
+"recipe": {"instruction": "If I want cooking reipe, I will say: \"", "counter_labels": []}, 
+"hue_lightdim": {"instruction": "If I want to control light hue, I will say: \"", "counter_labels": []}, 
+"traffic": {"instruction": "If I want to ask for traffic, I will say: \"", "counter_labels": []},
+ "definition": {"instruction": "If I want to ask a definition, I will say: \"", "counter_labels": []}, 
+"game": {"instruction": "If I want to play games, I will say: \"", "counter_labels": []}, 
+"joke": {"instruction": "If I want a joke, I will say: \"", "counter_labels": []}, 
+"wemo_off": {"instruction": "If I want to control the plut, I will say: \"", "counter_labels": []}, 
+"commandstop": {"instruction": "If I want to command stop, I will say: \"", "counter_labels": []}, 
+"locations": {"instruction": "If I want to get some location recommendation, I will say: \"", "counter_labels": []}, 
+"cleaning": {"instruction": "If I want do some cleaning, I will say: \"", "counter_labels": []}}
+}

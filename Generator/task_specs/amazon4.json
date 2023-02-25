@@ -1,0 +1,11 @@
+{"task_name": "Amazon443", 
+"labels": {
+"19": {"instruction": "Here is a pruduct review of products of pet: \"", "counter_labels": []}, 
+"12": {"instruction": "Here is a pruduct review of health and personal care: \"", "counter_labels": []}, 
+"22": {"instruction": "Here is a pruduct review of toys and games: \"", "counter_labels": []}, 
+"16": {"instruction": "Here is a pruduct review of musical instruments: \"", "counter_labels": []},
+"10": {"instruction": "Here is a pruduct review of electronics: \"", "counter_labels": []},
+"18": {"instruction": "Here is a pruduct review of patio, lawn and garden: \"", "counter_labels": []},
+"14": {"instruction": "Here is a pruduct review of books in kindle store: \"", "counter_labels": []},
+"4": {"instruction": "Here is a pruduct review of beauty product: \"", "counter_labels": []},
+"17": {"instruction": "Here is a pruduct review of office products: \"", "counter_labels": []}}}

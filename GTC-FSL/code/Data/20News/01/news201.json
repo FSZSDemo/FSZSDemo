@@ -1,0 +1,9 @@
+{"task_name": "New2011", 
+"labels": {
+"14": {"instruction": "Here is news about recreation.sport.hockey: \"", "counter_labels": []}, 
+"7": {"instruction": "Here is news about computer.os.ms-windows.miscellaneous: \"", "counter_labels": []}, 
+"4": {"instruction": "Here is news about computer.graphics: \"", "counter_labels": []}, 
+"16": {"instruction": "Here is news about recreation.motorcycles: \"", "counter_labels": []},
+"19": {"instruction": "Here is news about society.religion.christian: \"", "counter_labels": []},
+"12": {"instruction": "Here is news about computer.system.mac.hardware: \"", "counter_labels": []}, 
+"9": {"instruction": "Here is news about talk.religion.miscellaneous: \"", "counter_labels": []}}}

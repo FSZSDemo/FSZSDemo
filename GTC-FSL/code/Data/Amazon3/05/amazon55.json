@@ -1,0 +1,11 @@
+{"task_name": "Amazon552", 
+"labels": {
+"20": {"instruction": "Here is a review of a sports and outdoors product: \"", "counter_labels": []}, 
+"12": {"instruction": "Here is a review a product about health and personal care: \"", "counter_labels": []}, 
+"23": {"instruction": "Here is a review a video game: \"", "counter_labels": []}, 
+"11": {"instruction": "Here is a review of grocery and gourment food: \"", "counter_labels": []},
+"2": {"instruction": "Here is a review of an  automotive car accessory: \"", "counter_labels": []},
+"15": {"instruction": "Here is a review of a movie or a TV show: \"", "counter_labels": []},
+"18": {"instruction": "Here is a review of patio, lawn and garden: \"", "counter_labels": []},
+"7": {"instruction": "Here is a review of cell phone and accessory: \"", "counter_labels": []},
+"6": {"instruction": "Here is a review of a CD and a vinyl record: \"", "counter_labels": []}}}

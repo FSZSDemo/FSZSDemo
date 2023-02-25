@@ -1,0 +1,13 @@
+{"task_name": "Reuters5", 
+"labels": {
+"2": {"instruction": "Here is news about bop (balance of payments): \"", "counter_labels": []}, 
+"24": {"instruction": "Here is news about rubber: \"", "counter_labels": []}, 
+"5": {"instruction": "Here is news about copper: \"", "counter_labels": []}, 
+"19": {"instruction": "Here is news about money-supply: \"", "counter_labels": []},
+"17": {"instruction": "Here is news about livestock: \"", "counter_labels": []},
+"10": {"instruction": "Here is news about gnp (gross national product): \"", "counter_labels": []}, 
+"29": {"instruction": "Here is news about veg oil: \"", "counter_labels": []},
+"16": {"instruction": "Here is news about jobs: \"", "counter_labels": []},
+"6": {"instruction": "Here is news about cotton: \"", "counter_labels": []},
+"0": {"instruction": "Here is news about acq (acqisition): \"", "counter_labels": []},
+"9": {"instruction": "Here is news about earn: \"", "counter_labels": []}}}

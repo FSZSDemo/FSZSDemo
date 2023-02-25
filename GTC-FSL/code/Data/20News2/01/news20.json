@@ -1,0 +1,9 @@
+{"task_name": "New20", 
+"labels": {
+"14": {"instruction": "Here is a news about rec.sport.hockey: \"", "counter_labels": []}, 
+"7": {"instruction": "Here is a news about comp.os.ms-windows.misc: \"", "counter_labels": []}, 
+"4": {"instruction": "Here is a news about comp.graphics: \"", "counter_labels": []}, 
+"16": {"instruction": "Here is a news about rec.motorcycles: \"", "counter_labels": []},
+"19": {"instruction": "Here is a news about soc.religion.christian: \"", "counter_labels": []},
+"12": {"instruction": "Here is a news about comp.sys.mac.hardware: \"", "counter_labels": []}, 
+"9": {"instruction": "Here is a news about talk.religion.misc: \"", "counter_labels": []}}}

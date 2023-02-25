@@ -1,0 +1,27 @@
+{"text_a": "balance not updated after bank transfer", "text_b": null, "label": "balance_not_updated_after_bank_transfer"}
+{"text_a": "fiat currency support", "text_b": null, "label": "fiat_currency_support"}
+{"text_a": "card linking", "text_b": null, "label": "card_linking"}
+{"text_a": "receiving money", "text_b": null, "label": "receiving_money"}
+{"text_a": "pending card payment", "text_b": null, "label": "pending_card_payment"}
+{"text_a": "wrong exchange rate for cash withdrawal", "text_b": null, "label": "wrong_exchange_rate_for_cash_withdrawal"}
+{"text_a": "declined transfer", "text_b": null, "label": "declined_transfer"}
+{"text_a": "order physical card", "text_b": null, "label": "order_physical_card"}
+{"text_a": "Refund not showing up", "text_b": null, "label": "Refund_not_showing_up"}
+{"text_a": "verify top up", "text_b": null, "label": "verify_top_up"}
+{"text_a": "unable to verify identity", "text_b": null, "label": "unable_to_verify_identity"}
+{"text_a": "get disposable virtual card", "text_b": null, "label": "get_disposable_virtual_card"}
+{"text_a": "declined cash withdrawal", "text_b": null, "label": "declined_cash_withdrawal"}
+{"text_a": "pending transfer", "text_b": null, "label": "pending_transfer"}
+{"text_a": "apple pay or google pay", "text_b": null, "label": "apple_pay_or_google_pay"}
+{"text_a": "topping up by card", "text_b": null, "label": "topping_up_by_card"}
+{"text_a": "card arrival", "text_b": null, "label": "card_arrival"}
+{"text_a": "declined card payment", "text_b": null, "label": "declined_card_payment"}
+{"text_a": "pending top up", "text_b": null, "label": "pending_top_up"}
+{"text_a": "top up limits", "text_b": null, "label": "top_up_limits"}
+{"text_a": "top up by card charge", "text_b": null, "label": "top_up_by_card_charge"}
+{"text_a": "transaction charged twice", "text_b": null, "label": "transaction_charged_twice"}
+{"text_a": "card not working", "text_b": null, "label": "card_not_working"}
+{"text_a": "exchange charge", "text_b": null, "label": "exchange_charge"}
+{"text_a": "beneficiary not allowed", "text_b": null, "label": "beneficiary_not_allowed"}
+{"text_a": "virtual card not working", "text_b": null, "label": "virtual_card_not_working"}
+{"text_a": "card payment not recognised", "text_b": null, "label": "card_payment_not_recognised"}

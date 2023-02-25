@@ -1,0 +1,9 @@
+{"task_name": "New2044", 
+"labels": {
+"2": {"instruction": "Here is news about miscellaneous.forsale: \"", "counter_labels": []}, 
+"18": {"instruction": "Here is news about recreation.sport.baseball: \"", "counter_labels": []}, 
+"16": {"instruction": "Here is news about recreation.motorcycles: \"", "counter_labels": []}, 
+"13": {"instruction": "Here is news about science.electronics religion.miscellaneous: \"", "counter_labels": []},
+"7": {"instruction": "Here is news about computer.os.ms-windows.miscellaneous: \"", "counter_labels": []},
+"1": {"instruction": "Here is news about science.space: \"", "counter_labels": []}, 
+"5": {"instruction": "Here is news about science.crypt: \"", "counter_labels": []}}}

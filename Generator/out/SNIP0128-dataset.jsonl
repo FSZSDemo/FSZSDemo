@@ -1,0 +1,1851 @@
+{"text_a": "add more items", "text_b": null, "label": "add to playlist"}
+{"text_a": "Okay I have added two songs to playlist.", "text_b": null, "label": "add to playlist"}
+{"text_a": "playlist add:title:type:time [new:time]", "text_b": null, "label": "add to playlist"}
+{"text_a": "add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Hey, we are not a playlist app so I won't add your playlist to it", "text_b": null, "label": "add to playlist"}
+{"text_a": "add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add item to playlist.", "text_b": null, "label": "add to playlist"}
+{"text_a": "add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "This is new. I want to add some music here", "text_b": null, "label": "add to playlist"}
+{"text_a": "Ok google, add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Playlist: <title of the playlist>", "text_b": null, "label": "add to playlist"}
+{"text_a": "Play ", "text_b": null, "label": "add to playlist"}
+{"text_a": "Playlist: [", "text_b": null, "label": "add to playlist"}
+{"text_a": "I want to add playlist to playlist1, then playlist2, and then... and so on.", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Hey, I have to say that I'm changing the music, please change your playlist too.", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add 'This is the only song that was added to that playlist' to the playlist.", "text_b": null, "label": "add to playlist"}
+{"text_a": "I want to add song #42 to my playlist. Will you add it to my playlist?", "text_b": null, "label": "add to playlist"}
+{"text_a": "Playlist: X, Y, Z", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add it to my playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "playlist: -", "text_b": null, "label": "add to playlist"}
+{"text_a": "Playlist add song by name", "text_b": null, "label": "add to playlist"}
+{"text_a": "This is a song I want to add to the playlist. Please add it to the playlist.", "text_b": null, "label": "add to playlist"}
+{"text_a": "Let me add to the queue, but let's make sure I have enough space to add it.", "text_b": null, "label": "add to playlist"}
+{"text_a": "Okay I can add to playlist, but only if it is on the list. It's not allowed.", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "add playlist name to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to playlist.", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Let's add this song and this song to our playlist.", "text_b": null, "label": "add to playlist"}
+{"text_a": "Hey, I added an album to my playlist, what can I add to it?", "text_b": null, "label": "add to playlist"}
+{"text_a": "Listen to this music here, or you can listen to that music here", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Let me add this to playlist.", "text_b": null, "label": "add to playlist"}
+{"text_a": "add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "playlist title", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "add this playlist to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "add_to_playlist('songname')", "text_b": null, "label": "add to playlist"}
+{"text_a": "Ok, add new track", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add playlist here", "text_b": null, "label": "add to playlist"}
+{"text_a": "add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "I would like to add to playlist: 'Playlist name'", "text_b": null, "label": "add to playlist"}
+{"text_a": "Play: http://localhost:5984/mp3?playlist.id=my_playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add your name to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Hey, I added to playlist, but not all the time", "text_b": null, "label": "add to playlist"}
+{"text_a": "It's good, but I wish I knew how to read a book like this in French.", "text_b": null, "label": "rate book"}
+{"text_a": "The book has good character, but the character in this story is not enough. It is a waste of space", "text_b": null, "label": "rate book"}
+{"text_a": "This book is good, this book is great, and this book should have an asterisk (*) next to it", "text_b": null, "label": "rate book"}
+{"text_a": "This is really good.", "text_b": null, "label": "rate book"}
+{"text_a": "This book was an absolute pleasure to read, I enjoyed every second of it and I could easily see myself reading more of it.", "text_b": null, "label": "rate book"}
+{"text_a": "This book is good.", "text_b": null, "label": "rate book"}
+{"text_a": "This book made me cry", "text_b": null, "label": "rate book"}
+{"text_a": "You should read this book", "text_b": null, "label": "rate book"}
+{"text_a": "the author did a good job in this field", "text_b": null, "label": "rate book"}
+{"text_a": "Great.", "text_b": null, "label": "rate book"}
+{"text_a": "I liked it, but I was not able to recommend it.", "text_b": null, "label": "rate book"}
+{"text_a": "Wow, it was a lot of fun to read!", "text_b": null, "label": "rate book"}
+{"text_a": "This book is excellent", "text_b": null, "label": "rate book"}
+{"text_a": "It's very, very good, it's worth your money.", "text_b": null, "label": "rate book"}
+{"text_a": "A book that I want to read", "text_b": null, "label": "rate book"}
+{"text_a": "This book will help you to know what is important for you in life", "text_b": null, "label": "rate book"}
+{"text_a": "I loved it", "text_b": null, "label": "rate book"}
+{"text_a": "This book will have more to do with me than my children or my grandchildren.", "text_b": null, "label": "rate book"}
+{"text_a": "I am impressed by the author's writing.", "text_b": null, "label": "rate book"}
+{"text_a": "Good", "text_b": null, "label": "rate book"}
+{"text_a": "Great.", "text_b": null, "label": "rate book"}
+{"text_a": "Great for me", "text_b": null, "label": "rate book"}
+{"text_a": "If you can, then it's a 5", "text_b": null, "label": "rate book"}
+{"text_a": "This book does not make sense to me.", "text_b": null, "label": "rate book"}
+{"text_a": "Good.", "text_b": null, "label": "rate book"}
+{"text_a": "This book is a classic.", "text_b": null, "label": "rate book"}
+{"text_a": "The book is really good", "text_b": null, "label": "rate book"}
+{"text_a": "This is a very good book. Very enjoyable. Good, but not perfect.", "text_b": null, "label": "rate book"}
+{"text_a": "I liked this book.", "text_b": null, "label": "rate book"}
+{"text_a": "this book will give you a good understanding of the core principles of computer science", "text_b": null, "label": "rate book"}
+{"text_a": "Good", "text_b": null, "label": "rate book"}
+{"text_a": "The best part of this book is the book's description.", "text_b": null, "label": "rate book"}
+{"text_a": "the story is interesting and entertaining and is a solid entry into the genre of science fiction and fantasy.", "text_b": null, "label": "rate book"}
+{"text_a": "This book is the best in the world", "text_b": null, "label": "rate book"}
+{"text_a": "4.", "text_b": null, "label": "rate book"}
+{"text_a": "Well, if you have read this book, then I don't need to talk about the rest.", "text_b": null, "label": "rate book"}
+{"text_a": "This book is a bit dull, but the story is interesting and the characters are well developed. I enjoyed reading this book.", "text_b": null, "label": "rate book"}
+{"text_a": "This book was too long. I am reading the next book.", "text_b": null, "label": "rate book"}
+{"text_a": "I have not yet finished reading it. It was very good.", "text_b": null, "label": "rate book"}
+{"text_a": "I can't put a number on this one", "text_b": null, "label": "rate book"}
+{"text_a": "This book is bad. It's bad, and it's really bad, and I wish it were different.", "text_b": null, "label": "rate book"}
+{"text_a": "This book will keep me interested in reading. It will be fun to read. It's interesting.", "text_b": null, "label": "rate book"}
+{"text_a": "this is a good book", "text_b": null, "label": "rate book"}
+{"text_a": "this is excellent! the book has a nice design and is not very hard to read", "text_b": null, "label": "rate book"}
+{"text_a": "Good, but not exceptional.", "text_b": null, "label": "rate book"}
+{"text_a": "This song is already in playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add this song to playlist: ", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add more songs, this song is really good!", "text_b": null, "label": "add to playlist"}
+{"text_a": "My playlists are now added to your playlist.", "text_b": null, "label": "add to playlist"}
+{"text_a": "Playlist Title Here", "text_b": null, "label": "add to playlist"}
+{"text_a": "Play the next track from playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "If you want to add a video, just drag it in or press the +", "text_b": null, "label": "add to playlist"}
+{"text_a": "Playlist: $item -> toString()", "text_b": null, "label": "add to playlist"}
+{"text_a": "Playlist name is '%s'", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Hey, add this song to the playlist. Please add it.", "text_b": null, "label": "add to playlist"}
+{"text_a": "playlists.play_backend(playlist.path, 'list' )", "text_b": null, "label": "add to playlist"}
+{"text_a": "add new item and playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Play 'The Way You Look Tonight' (Sly & Robbie)", "text_b": null, "label": "add to playlist"}
+{"text_a": "add to playlist, and I'll be added.", "text_b": null, "label": "add to playlist"}
+{"text_a": "Playlist title, artist and title in the middle of the line", "text_b": null, "label": "add to playlist"}
+{"text_a": "play this song with this instrument.", "text_b": null, "label": "add to playlist"}
+{"text_a": "OK Google, add to playlist'music'", "text_b": null, "label": "add to playlist"}
+{"text_a": "Hey, add that song to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "add", "text_b": null, "label": "add to playlist"}
+{"text_a": "add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Play this playlist as soon as I add to it", "text_b": null, "label": "add to playlist"}
+{"text_a": "add music, or remove music", "text_b": null, "label": "add to playlist"}
+{"text_a": "add another playlist with a similar title with my name as an artist.", "text_b": null, "label": "add to playlist"}
+{"text_a": "Listen to song #3 and add it to playlist.", "text_b": null, "label": "add to playlist"}
+{"text_a": "I'm ready.", "text_b": null, "label": "add to playlist"}
+{"text_a": "I want to add this song to my playlist.", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to playlist ", "text_b": null, "label": "add to playlist"}
+{"text_a": "Go to playlist.mp3", "text_b": null, "label": "add to playlist"}
+{"text_a": "Let's play ", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Playlist to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Playlist: ********* ", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add the song X", "text_b": null, "label": "add to playlist"}
+{"text_a": "Play my song, it's in the new playlist.", "text_b": null, "label": "add to playlist"}
+{"text_a": "playlist.add(music.path, {'type': 'video'})", "text_b": null, "label": "add to playlist"}
+{"text_a": "Ok, I'll open Spotify.", "text_b": null, "label": "add to playlist"}
+{"text_a": "Playlist is too long and I am trying to add some items.", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add song to playlist by username", "text_b": null, "label": "add to playlist"}
+{"text_a": "Ok, I want to add this song to playlist. This song will have duration 30 sec.", "text_b": null, "label": "add to playlist"}
+{"text_a": "add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add some more songs, or some new artists.", "text_b": null, "label": "add to playlist"}
+{"text_a": "OK Google, play the song on Spotify", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to playlist\u2026", "text_b": null, "label": "add to playlist"}
+{"text_a": "add-to-playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Playlist title is ", "text_b": null, "label": "add to playlist"}
+{"text_a": "Very good,", "text_b": null, "label": "rate book"}
+{"text_a": "I like the story and I like the characters.", "text_b": null, "label": "rate book"}
+{"text_a": "this is a 4 out of 5.", "text_b": null, "label": "rate book"}
+{"text_a": "Book X is great", "text_b": null, "label": "rate book"}
+{"text_a": "Great", "text_b": null, "label": "rate book"}
+{"text_a": "This was one of my favorite books of the year, I am so happy to get to read this book", "text_b": null, "label": "rate book"}
+{"text_a": "I like the story, but I also hate the cover", "text_b": null, "label": "rate book"}
+{"text_a": "This book has many good qualities and is a good read.", "text_b": null, "label": "rate book"}
+{"text_a": "This is an awesome book, highly recommended", "text_b": null, "label": "rate book"}
+{"text_a": "This book was a blast to read. I loved the characters, the setting and the world building.", "text_b": null, "label": "rate book"}
+{"text_a": "this book is amazing, i have seen all the best book before", "text_b": null, "label": "rate book"}
+{"text_a": "This book is the only one that is not at least mediocre", "text_b": null, "label": "rate book"}
+{"text_a": "it is a little hard to read but it is quite a good read.", "text_b": null, "label": "rate book"}
+{"text_a": "You should get this book, it is really good. There are lots of things in this book I want to try.", "text_b": null, "label": "rate book"}
+{"text_a": "This is a great book and one I highly recommend to everyone.", "text_b": null, "label": "rate book"}
+{"text_a": "I love this book, it's one of my favorites", "text_b": null, "label": "rate book"}
+{"text_a": "The book is really good, and I liked it.", "text_b": null, "label": "rate book"}
+{"text_a": "This is the best book I have ever read", "text_b": null, "label": "rate book"}
+{"text_a": "How does the author write this? What is the plot? What is the worldbuilding? How does the author connect everything together?", "text_b": null, "label": "rate book"}
+{"text_a": "This book is about X.", "text_b": null, "label": "rate book"}
+{"text_a": "This is not the book for me", "text_b": null, "label": "rate book"}
+{"text_a": "It is a very good read. But a bit dull and hard to follow. I can't understand why he wrote this novel.", "text_b": null, "label": "rate book"}
+{"text_a": "It's OK, it's OK", "text_b": null, "label": "rate book"}
+{"text_a": "There is an opportunity to get more information on the book, such as the title, author, publisher, date published, and number of pages.", "text_b": null, "label": "rate book"}
+{"text_a": "I enjoyed it.", "text_b": null, "label": "rate book"}
+{"text_a": "Yes this is the best book I've ever read, and I hope you'll buy it.", "text_b": null, "label": "rate book"}
+{"text_a": "If you have an idea of what you are doing, and can convince your readers, you've got a winner on your hands.", "text_b": null, "label": "rate book"}
+{"text_a": "You are a fantastic writer, I love your books, I read them all the time", "text_b": null, "label": "rate book"}
+{"text_a": "This book is very good, very good, or just OK. It is not great.", "text_b": null, "label": "rate book"}
+{"text_a": "This was good, this book was really good, this book was awesome.", "text_b": null, "label": "rate book"}
+{"text_a": "This book is bad, but it's better than the books in this list.", "text_b": null, "label": "rate book"}
+{"text_a": "It is good", "text_b": null, "label": "rate book"}
+{"text_a": "I liked this book", "text_b": null, "label": "rate book"}
+{"text_a": "I don't care what they said, but I know I won't read them again", "text_b": null, "label": "rate book"}
+{"text_a": "This book is absolutely a masterpiece of the modern genre.", "text_b": null, "label": "rate book"}
+{"text_a": "It is well written", "text_b": null, "label": "rate book"}
+{"text_a": "The quality of this book is low", "text_b": null, "label": "rate book"}
+{"text_a": "4/5", "text_b": null, "label": "rate book"}
+{"text_a": "Good, very good", "text_b": null, "label": "rate book"}
+{"text_a": "Yes", "text_b": null, "label": "rate book"}
+{"text_a": "I didn't like it", "text_b": null, "label": "rate book"}
+{"text_a": "It's really good", "text_b": null, "label": "rate book"}
+{"text_a": "Great", "text_b": null, "label": "rate book"}
+{"text_a": "I don't like this book", "text_b": null, "label": "rate book"}
+{"text_a": "it is worth the read, it's well researched, I liked it, I enjoyed it, I got something out of it", "text_b": null, "label": "rate book"}
+{"text_a": "add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Listen to 'Till It's Gone' from 'The King Of Limbs'.", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add this to playlist, or remove this from playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Ok, add 'Fantastic Beasts and Where to Find Them'", "text_b": null, "label": "add to playlist"}
+{"text_a": "playlistaddlist:AddTo", "text_b": null, "label": "add to playlist"}
+{"text_a": "I want to add playlist to the left. I will select the playlist.", "text_b": null, "label": "add to playlist"}
+{"text_a": "Playlist, add the new song to the playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add a new song to the playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add new song", "text_b": null, "label": "add to playlist"}
+{"text_a": "Playlist: ", "text_b": null, "label": "add to playlist"}
+{"text_a": "playlist added.", "text_b": null, "label": "add to playlist"}
+{"text_a": "Play this song, please", "text_b": null, "label": "add to playlist"}
+{"text_a": "I will add my music into my playlist and then I will save it on my device.", "text_b": null, "label": "add to playlist"}
+{"text_a": "Play this album again?", "text_b": null, "label": "add to playlist"}
+{"text_a": "add it to playlist, then remove it from the playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to playlist: X,Y", "text_b": null, "label": "add to playlist"}
+{"text_a": "Let's add this song from a specific album.", "text_b": null, "label": "add to playlist"}
+{"text_a": "playlist.txt", "text_b": null, "label": "add to playlist"}
+{"text_a": "add this to a playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Playlist, add the new song to the playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "add_item_to_playlist(", "text_b": null, "label": "add to playlist"}
+{"text_a": "I will play this track and it should be added to this playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add it to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Playlist: my playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Ok, it was added.", "text_b": null, "label": "add to playlist"}
+{"text_a": "Let's add that song to the list. Let's add that other song", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add the song to the playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add this song to my playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Hey, I've added my new song to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "This song is from another album.", "text_b": null, "label": "add to playlist"}
+{"text_a": "Play this song for me.", "text_b": null, "label": "add to playlist"}
+{"text_a": "Playlist is now on shuffle", "text_b": null, "label": "add to playlist"}
+{"text_a": "Hey, I'll add some more, and maybe we'll end up with something different", "text_b": null, "label": "add to playlist"}
+{"text_a": "hey there I need some new music", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add the new playlist to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to my playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Listen to [name of song] from the playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "I want to add 10 more songs, please add them", "text_b": null, "label": "add to playlist"}
+{"text_a": "Playlist.AddNew", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "I'll also add a new song. Please add it if you want it.", "text_b": null, "label": "add to playlist"}
+{"text_a": "Playlist.Add", "text_b": null, "label": "add to playlist"}
+{"text_a": "Playlist added: ", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "You've got a playlist named 'Foo Foo' that has three songs in it called 'Hello World'.", "text_b": null, "label": "add to playlist"}
+{"text_a": "ok, I'm not sure about this playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Playlist. Add new song here.", "text_b": null, "label": "add to playlist"}
+{"text_a": "Great", "text_b": null, "label": "rate book"}
+{"text_a": "It was very good!", "text_b": null, "label": "rate book"}
+{"text_a": "This book is one of the best ones in recent years,", "text_b": null, "label": "rate book"}
+{"text_a": "This book had an impact on my life. I would recommend it to friends and colleagues.", "text_b": null, "label": "rate book"}
+{"text_a": "There's a lot in it, but a little too much in some places.", "text_b": null, "label": "rate book"}
+{"text_a": "Great read", "text_b": null, "label": "rate book"}
+{"text_a": "This book is great and I love everything about it. This was an incredible adventure and I am so excited about my next book.", "text_b": null, "label": "rate book"}
+{"text_a": "I like this. I read a lot. I think this is interesting. I think it would be interesting to have more information.", "text_b": null, "label": "rate book"}
+{"text_a": "I liked it", "text_b": null, "label": "rate book"}
+{"text_a": "I don't want to rate this book but I will rate this book higher", "text_b": null, "label": "rate book"}
+{"text_a": "The last chapter is boring.", "text_b": null, "label": "rate book"}
+{"text_a": "The book is great!", "text_b": null, "label": "rate book"}
+{"text_a": "I read this book!", "text_b": null, "label": "rate book"}
+{"text_a": "I like it a lot, it is a good read.", "text_b": null, "label": "rate book"}
+{"text_a": "It's OK. I am happy. The author's work is OK", "text_b": null, "label": "rate book"}
+{"text_a": "I liked this book!", "text_b": null, "label": "rate book"}
+{"text_a": "How is it written? Is it an excellent book, or a poor book? Do I like the author?", "text_b": null, "label": "rate book"}
+{"text_a": "this book", "text_b": null, "label": "rate book"}
+{"text_a": "I didn't like this book", "text_b": null, "label": "rate book"}
+{"text_a": "5", "text_b": null, "label": "rate book"}
+{"text_a": "A", "text_b": null, "label": "rate book"}
+{"text_a": "It's really good", "text_b": null, "label": "rate book"}
+{"text_a": "I'm going to give it a 1, a 2 or a 3.", "text_b": null, "label": "rate book"}
+{"text_a": "This book is good and interesting.", "text_b": null, "label": "rate book"}
+{"text_a": "I wish it were longer.", "text_b": null, "label": "rate book"}
+{"text_a": "Good, very good, good to excellent, excellent, very good.", "text_b": null, "label": "rate book"}
+{"text_a": "A", "text_b": null, "label": "rate book"}
+{"text_a": "This book is of a very good quality and I enjoyed reading it.", "text_b": null, "label": "rate book"}
+{"text_a": "I am giving you a rating of 5 stars", "text_b": null, "label": "rate book"}
+{"text_a": "It is better than I expected", "text_b": null, "label": "rate book"}
+{"text_a": "This is really good and a must read", "text_b": null, "label": "rate book"}
+{"text_a": "Very good. Very very good.", "text_b": null, "label": "rate book"}
+{"text_a": "Yes, it's worth my time to read it, especially since I'm reading it in a non-fiction format", "text_b": null, "label": "rate book"}
+{"text_a": "I want to buy this book, but I can't find it anywhere", "text_b": null, "label": "rate book"}
+{"text_a": "It was a good read, but not great. The story was boring, but the characters were fun.", "text_b": null, "label": "rate book"}
+{"text_a": "This is a good story, but I would have liked to see more of that girl", "text_b": null, "label": "rate book"}
+{"text_a": "Good book", "text_b": null, "label": "rate book"}
+{"text_a": "This is the best book I have ever read,", "text_b": null, "label": "rate book"}
+{"text_a": "I read this and I liked it", "text_b": null, "label": "rate book"}
+{"text_a": "My personal favorite is the best book", "text_b": null, "label": "rate book"}
+{"text_a": "Wow, I love this book. It was a pleasure to read.", "text_b": null, "label": "rate book"}
+{"text_a": "A book was written by a non-reader that the reader does not have to read", "text_b": null, "label": "rate book"}
+{"text_a": "This is a great read. It is not perfect.", "text_b": null, "label": "rate book"}
+{"text_a": "How good was the writing?", "text_b": null, "label": "rate book"}
+{"text_a": "this is a great book, with great narration.", "text_b": null, "label": "rate book"}
+{"text_a": "Great", "text_b": null, "label": "rate book"}
+{"text_a": "Add more songs here", "text_b": null, "label": "add to playlist"}
+{"text_a": "add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Playlist, add some songs from this album,", "text_b": null, "label": "add to playlist"}
+{"text_a": "Play my favorite album in my own time.", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Hey, I added to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add the song to the playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add the song to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add this song to the list", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add me to list.", "text_b": null, "label": "add to playlist"}
+{"text_a": "add my song here", "text_b": null, "label": "add to playlist"}
+{"text_a": "Hey, this is a remix of the song ", "text_b": null, "label": "add to playlist"}
+{"text_a": "add to playlists", "text_b": null, "label": "add to playlist"}
+{"text_a": "Hey, I'd like to add 10 to this song", "text_b": null, "label": "add to playlist"}
+{"text_a": "Play this song", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add the name of the music as well as a comment, if the song is good.", "text_b": null, "label": "add to playlist"}
+{"text_a": "Please add your songs to the ", "text_b": null, "label": "add to playlist"}
+{"text_a": "I want to add some new music to my playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "add new track here", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "playlist_set_name", "text_b": null, "label": "add to playlist"}
+{"text_a": "My list is not as long as I want it to be, so I will add to it, as well.", "text_b": null, "label": "add to playlist"}
+{"text_a": "Hey, do you have more music?", "text_b": null, "label": "add to playlist"}
+{"text_a": "add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "I want to add the next track from the last track in my playlist.", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add the video to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "I will add this item in the next second, please wait a few seconds", "text_b": null, "label": "add to playlist"}
+{"text_a": "Please add the playlist to my account.", "text_b": null, "label": "add to playlist"}
+{"text_a": "Hey, how about I add to 'Favorites' instead of 'Playlist?'", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to playlist,", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add some songs to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Playlist added", "text_b": null, "label": "add to playlist"}
+{"text_a": "add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "If you don't like a song, then don't play it.", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add it to your Spotify playlist.", "text_b": null, "label": "add to playlist"}
+{"text_a": "playlist.my_list_name", "text_b": null, "label": "add to playlist"}
+{"text_a": "add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Hey, just add it to the playlist.", "text_b": null, "label": "add to playlist"}
+{"text_a": "playlist[name] - I want to add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "add playlist with name ", "text_b": null, "label": "add to playlist"}
+{"text_a": "add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "My song is in 'My playlist' section", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add new playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Hey Siri, add me to playlist 'Piano Man'", "text_b": null, "label": "add to playlist"}
+{"text_a": "In this book, the author does an excellent job in telling us how the universe works, and he does it in a non-fiction style.", "text_b": null, "label": "rate book"}
+{"text_a": "Yes, I want to get the book", "text_b": null, "label": "rate book"}
+{"text_a": "This book deserves a 10/10!", "text_b": null, "label": "rate book"}
+{"text_a": "4 star book", "text_b": null, "label": "rate book"}
+{"text_a": "A", "text_b": null, "label": "rate book"}
+{"text_a": "This is the best book ever written!", "text_b": null, "label": "rate book"}
+{"text_a": "it's not up to my standards but I can't be arsed to find the right one to rate it anyway. ", "text_b": null, "label": "rate book"}
+{"text_a": "The plot is great.", "text_b": null, "label": "rate book"}
+{"text_a": "the book is great", "text_b": null, "label": "rate book"}
+{"text_a": "it was ok", "text_b": null, "label": "rate book"}
+{"text_a": "I like it.", "text_b": null, "label": "rate book"}
+{"text_a": "It's good!", "text_b": null, "label": "rate book"}
+{"text_a": "I found this book to be interesting and useful, but it is not the one I want to rate it at.", "text_b": null, "label": "rate book"}
+{"text_a": "This is a great book. I love it.", "text_b": null, "label": "rate book"}
+{"text_a": "This is a good read. If I rate book, I will say: ", "text_b": null, "label": "rate book"}
+{"text_a": "It's a book", "text_b": null, "label": "rate book"}
+{"text_a": "I liked it, but not enough to rate it 5 stars", "text_b": null, "label": "rate book"}
+{"text_a": "The author has done well to produce this, because the story is compelling and exciting", "text_b": null, "label": "rate book"}
+{"text_a": "I liked it", "text_b": null, "label": "rate book"}
+{"text_a": "I don't know", "text_b": null, "label": "rate book"}
+{"text_a": "It's okay, but not amazing", "text_b": null, "label": "rate book"}
+{"text_a": "This is the best novel that I've ever read", "text_b": null, "label": "rate book"}
+{"text_a": "This book was a waste of my time", "text_b": null, "label": "rate book"}
+{"text_a": "It's an improvement over my previous one, but still too shallow.", "text_b": null, "label": "rate book"}
+{"text_a": "this book was so good, I can only rate it 8/10", "text_b": null, "label": "rate book"}
+{"text_a": "5", "text_b": null, "label": "rate book"}
+{"text_a": "it is of good quality", "text_b": null, "label": "rate book"}
+{"text_a": "A book of a great length and of great value for money.", "text_b": null, "label": "rate book"}
+{"text_a": "The Good, the Bad and the Ugly", "text_b": null, "label": "rate book"}
+{"text_a": "This book deserves a 4 out of 5.", "text_b": null, "label": "rate book"}
+{"text_a": "A1", "text_b": null, "label": "rate book"}
+{"text_a": "Yes.", "text_b": null, "label": "rate book"}
+{"text_a": "It was not good", "text_b": null, "label": "rate book"}
+{"text_a": "This is the best book I read in 2016. It is worth every penny.", "text_b": null, "label": "rate book"}
+{"text_a": "it was good", "text_b": null, "label": "rate book"}
+{"text_a": "This is a great book, and is well worth reading", "text_b": null, "label": "rate book"}
+{"text_a": "Good book, I really liked it", "text_b": null, "label": "rate book"}
+{"text_a": "This is very good, but I'm not sure if I would recommend this book for this type of book.", "text_b": null, "label": "rate book"}
+{"text_a": "Good read", "text_b": null, "label": "rate book"}
+{"text_a": "this is a book that I wish I could read again, and the author makes me want to read more.", "text_b": null, "label": "rate book"}
+{"text_a": "This is one of the best books I've read this year.", "text_b": null, "label": "rate book"}
+{"text_a": "This book is so funny that I couldn't stop laughing.", "text_b": null, "label": "rate book"}
+{"text_a": "this book will keep you entertained and give you something to think about while eating a meal. It has a very nice story.", "text_b": null, "label": "rate book"}
+{"text_a": "I liked it", "text_b": null, "label": "rate book"}
+{"text_a": "this is a 5, good, great, excellent and so on", "text_b": null, "label": "rate book"}
+{"text_a": "I like it and I want to read it", "text_b": null, "label": "rate book"}
+{"text_a": "I want to add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "add the song to playlist, with a subtitle, and I am done.", "text_b": null, "label": "add to playlist"}
+{"text_a": "add [song name]", "text_b": null, "label": "add to playlist"}
+{"text_a": "Please add this to the playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Listen to this song", "text_b": null, "label": "add to playlist"}
+{"text_a": "add the song to playlist, and then click on the playlist item to add song to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Ok, do that, then do this", "text_b": null, "label": "add to playlist"}
+{"text_a": "add a new item to playlist and assign it to the song", "text_b": null, "label": "add to playlist"}
+{"text_a": "I added the songs from playlist to my playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add a new track", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to my playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Play this playlist when I arrive", "text_b": null, "label": "add to playlist"}
+{"text_a": "Hey, I am adding a track to playlist. It will take 10-20 minutes to add the track.", "text_b": null, "label": "add to playlist"}
+{"text_a": "add this song to your playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "I'm doing it for the first time", "text_b": null, "label": "add to playlist"}
+{"text_a": "Playlist is: ", "text_b": null, "label": "add to playlist"}
+{"text_a": "I'd like to add the following song to this playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add the following playlist to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Play playlist #123456789", "text_b": null, "label": "add to playlist"}
+{"text_a": "You have to add a song to the playlist or playlist will not work. You will need to add it on another playlist.", "text_b": null, "label": "add to playlist"}
+{"text_a": "Hey, let's add this playlist to the playlists folder. Here's the playlist's ID: #PLAYLISTID", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to MyMusicPlaylist.sh", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Open iTunes, select 'Add to playlist'. Then click on 'Add\u2026', and then choose ", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add another song", "text_b": null, "label": "add to playlist"}
+{"text_a": "add this song to playlist.", "text_b": null, "label": "add to playlist"}
+{"text_a": "add some tracks here, or make my own playlist with only this track", "text_b": null, "label": "add to playlist"}
+{"text_a": "This is my playlist with my list of movies.", "text_b": null, "label": "add to playlist"}
+{"text_a": "playlist name:'my playlist'", "text_b": null, "label": "add to playlist"}
+{"text_a": "Hey, do you like the new album? Do you want to add it to the playlist?", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add my album to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to playlist, or create a new playlist.", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add it as a new playlist item. I want to add more of this", "text_b": null, "label": "add to playlist"}
+{"text_a": "Hey, I need to add this song to the playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "add the new video to my playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "I want to add the song ", "text_b": null, "label": "add to playlist"}
+{"text_a": "I want to add to playlist of file ", "text_b": null, "label": "add to playlist"}
+{"text_a": "Playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "I'm doing a new track, I'll be in the office at 9.45am for the start of the session.", "text_b": null, "label": "add to playlist"}
+{"text_a": "Okay, here is playlist, please insert.", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to playlist and I will send you a notification.", "text_b": null, "label": "add to playlist"}
+{"text_a": "add it to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "hey @name, I added another song to your playlist, please make sure to download and add to your queue!", "text_b": null, "label": "add to playlist"}
+{"text_a": "add song in playlist.", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to my list", "text_b": null, "label": "add to playlist"}
+{"text_a": "Hey, this song is very popular, why don't you add to playlist and I will pay for your subscription.", "text_b": null, "label": "add to playlist"}
+{"text_a": "add some song to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "This book was just a pleasant surprise, it makes you want to read more and more, it makes you love reading books more.", "text_b": null, "label": "rate book"}
+{"text_a": "the best part was the first two pages. And the rest is blah blah", "text_b": null, "label": "rate book"}
+{"text_a": "This book is a masterpiece", "text_b": null, "label": "rate book"}
+{"text_a": "My wife and I were very impressed with it. Very engaging. Would recommend", "text_b": null, "label": "rate book"}
+{"text_a": "I liked the story.", "text_b": null, "label": "rate book"}
+{"text_a": "I had a bad feeling when this book came out; it didn't strike me as being that good.", "text_b": null, "label": "rate book"}
+{"text_a": "This is an impressive book.", "text_b": null, "label": "rate book"}
+{"text_a": "My daughter likes this book more than this one.", "text_b": null, "label": "rate book"}
+{"text_a": "this is a must read for all lovers of adventure stories", "text_b": null, "label": "rate book"}
+{"text_a": "A. No. 2", "text_b": null, "label": "rate book"}
+{"text_a": "The novel by Gogol, The Red Badge of Courage", "text_b": null, "label": "rate book"}
+{"text_a": "Very Good", "text_b": null, "label": "rate book"}
+{"text_a": "I don't feel good.", "text_b": null, "label": "rate book"}
+{"text_a": "Yes it's great", "text_b": null, "label": "rate book"}
+{"text_a": "This was so good I can't give it a low enough rating. But it was terrible", "text_b": null, "label": "rate book"}
+{"text_a": "Good reading, with great ideas.", "text_b": null, "label": "rate book"}
+{"text_a": "I liked this", "text_b": null, "label": "rate book"}
+{"text_a": "I loved this book", "text_b": null, "label": "rate book"}
+{"text_a": "The most compelling aspect of the book is the story.", "text_b": null, "label": "rate book"}
+{"text_a": "This was a very well written novel and a well done book.", "text_b": null, "label": "rate book"}
+{"text_a": "I can recommend this book to others.", "text_b": null, "label": "rate book"}
+{"text_a": "Well done", "text_b": null, "label": "rate book"}
+{"text_a": "This book will make you smarter and happier", "text_b": null, "label": "rate book"}
+{"text_a": "It was an outstanding read!", "text_b": null, "label": "rate book"}
+{"text_a": "Well, I don't like this one", "text_b": null, "label": "rate book"}
+{"text_a": "this book is good for this year", "text_b": null, "label": "rate book"}
+{"text_a": "Good", "text_b": null, "label": "rate book"}
+{"text_a": "I have read the book", "text_b": null, "label": "rate book"}
+{"text_a": "What I read was not a good book", "text_b": null, "label": "rate book"}
+{"text_a": "it's good", "text_b": null, "label": "rate book"}
+{"text_a": "In this book, it took me around 5 hours to read it", "text_b": null, "label": "rate book"}
+{"text_a": "The Goodkind trilogy", "text_b": null, "label": "rate book"}
+{"text_a": "this book is worth 4 or 5 stars", "text_b": null, "label": "rate book"}
+{"text_a": "This is an amazing book!", "text_b": null, "label": "rate book"}
+{"text_a": "5.5 stars, probably a good book.", "text_b": null, "label": "rate book"}
+{"text_a": "this book is a little too slow, this book is a little too slow, this book is too fast, this book is a bit too fast", "text_b": null, "label": "rate book"}
+{"text_a": "A very good book, but I could have done without the 'bad guys' being so much more annoying!", "text_b": null, "label": "rate book"}
+{"text_a": "The book was awesome!", "text_b": null, "label": "rate book"}
+{"text_a": "Great, it has interesting character development, and has interesting dialogue.", "text_b": null, "label": "rate book"}
+{"text_a": "I loved this, but a lot of things were a little bit strange", "text_b": null, "label": "rate book"}
+{"text_a": "This is a 4.5-5 out of 5 stars.", "text_b": null, "label": "rate book"}
+{"text_a": "My book is very good, but not for children aged 6 to 9.", "text_b": null, "label": "rate book"}
+{"text_a": "This book is amazing, it's a must read!", "text_b": null, "label": "rate book"}
+{"text_a": "Playlist is added", "text_b": null, "label": "add to playlist"}
+{"text_a": "Hey, I want to add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Okay Google, add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "add this song to the list", "text_b": null, "label": "add to playlist"}
+{"text_a": "add it", "text_b": null, "label": "add to playlist"}
+{"text_a": "add a song to the playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "playlist.txt", "text_b": null, "label": "add to playlist"}
+{"text_a": "Hey, I'm changing the playlist on your playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "I want to add to playlist playlist, but playlist.mp3 already exists.", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add the song with that artist to the end of my playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Open Music and add my song to the playlist. If I want to delete a song, I will say: ", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add me to this playlist.", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add my playlist on playlist2.com", "text_b": null, "label": "add to playlist"}
+{"text_a": "Hey, I want to add a song, add it now and you'll be asked to sign in", "text_b": null, "label": "add to playlist"}
+{"text_a": "Play playlist #1", "text_b": null, "label": "add to playlist"}
+{"text_a": "add(<track1>", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "You have to give me permission to add a new song to the playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to playlist, add to my list, add to my song list", "text_b": null, "label": "add to playlist"}
+{"text_a": "I want to add to playlist and the user must grant me permission first", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "I want to add more to the end of this playlist. What would you like to add to the end?", "text_b": null, "label": "add to playlist"}
+{"text_a": "Hey, you might want to consider adding my song", "text_b": null, "label": "add to playlist"}
+{"text_a": "Hey, can I add this song?", "text_b": null, "label": "add to playlist"}
+{"text_a": "add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Listen to this song", "text_b": null, "label": "add to playlist"}
+{"text_a": "Play the song again, but don't play it for this session", "text_b": null, "label": "add to playlist"}
+{"text_a": "I want to add more songs to the current playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Hey, let's add this track to my playlist, and then let's play this one too", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add a link to my video to my playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "This song is not in the playlist, why are you adding it?", "text_b": null, "label": "add to playlist"}
+{"text_a": "playlist: [whatever]", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add this to playlist,", "text_b": null, "label": "add to playlist"}
+{"text_a": "You are now listening to The New York Times Radio Story 'A Trip to the Arctic'", "text_b": null, "label": "add to playlist"}
+{"text_a": "Let me add a song to this playlist. You will then see a ", "text_b": null, "label": "add to playlist"}
+{"text_a": "Listen to my music on my computer with this command", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add my playlists here", "text_b": null, "label": "add to playlist"}
+{"text_a": "I want to add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to my playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to playlist,", "text_b": null, "label": "add to playlist"}
+{"text_a": "hey, I want to add an item here", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add the track ", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add this track to this playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Play 'Blackout' by [artist]", "text_b": null, "label": "add to playlist"}
+{"text_a": "This is very good. Very good. Excellent. Fantastic.", "text_b": null, "label": "rate book"}
+{"text_a": "This book is too short. It is an example of a book of which I didn't read many.", "text_b": null, "label": "rate book"}
+{"text_a": "This is a good book", "text_b": null, "label": "rate book"}
+{"text_a": "The book is a collection of essays about a number of philosophical topics.", "text_b": null, "label": "rate book"}
+{"text_a": "This book is a good read, but I do not want to write it at the moment, because it needs to be rewritten.", "text_b": null, "label": "rate book"}
+{"text_a": "I want to review the book", "text_b": null, "label": "rate book"}
+{"text_a": "It was well written, though it's kind of a hard read for me.", "text_b": null, "label": "rate book"}
+{"text_a": "I would buy this book even if I didn't have a problem with this story", "text_b": null, "label": "rate book"}
+{"text_a": "There is not enough information about this book so far to say for sure how good I think it is", "text_b": null, "label": "rate book"}
+{"text_a": "A very good read, but not great.", "text_b": null, "label": "rate book"}
+{"text_a": "This book deserves a five", "text_b": null, "label": "rate book"}
+{"text_a": "The main character is a nice person who does good things, like getting married and having a child", "text_b": null, "label": "rate book"}
+{"text_a": "This is the best book that has been published in English since 1572.", "text_b": null, "label": "rate book"}
+{"text_a": "I liked this book, and it made me want to read more", "text_b": null, "label": "rate book"}
+{"text_a": "I liked it more than the average of this group of books", "text_b": null, "label": "rate book"}
+{"text_a": "I will buy this book if it is about 5 stars and will read it at least 10 times", "text_b": null, "label": "rate book"}
+{"text_a": "A book by the great William Faulkner or by the great Ernest Hemingway is always worth reading.", "text_b": null, "label": "rate book"}
+{"text_a": "I enjoyed reading this book!", "text_b": null, "label": "rate book"}
+{"text_a": "This is a book. It is written as a novel, which is a story, about a man who has suffered terribly.", "text_b": null, "label": "rate book"}
+{"text_a": "It's about an hour long", "text_b": null, "label": "rate book"}
+{"text_a": "This book deserves a 5, but it was just a little too heavy. I wish I had a lighter novel, or it might have been better.", "text_b": null, "label": "rate book"}
+{"text_a": "this book is very good. I highly recommend it to my friend.", "text_b": null, "label": "rate book"}
+{"text_a": "I liked this book", "text_b": null, "label": "rate book"}
+{"text_a": "I found this book to be great", "text_b": null, "label": "rate book"}
+{"text_a": "Very good", "text_b": null, "label": "rate book"}
+{"text_a": "This is a very good book. The only drawback to this book is that it is not entirely about the topics it covers.", "text_b": null, "label": "rate book"}
+{"text_a": "I don't know what's in it, but I liked it.", "text_b": null, "label": "rate book"}
+{"text_a": "this book has very little redeeming value.", "text_b": null, "label": "rate book"}
+{"text_a": "My daughter read this, and she says it's really good.", "text_b": null, "label": "rate book"}
+{"text_a": "If I can read it, I will rate it a five.", "text_b": null, "label": "rate book"}
+{"text_a": "It is a masterpiece", "text_b": null, "label": "rate book"}
+{"text_a": "Good", "text_b": null, "label": "rate book"}
+{"text_a": "This is a good read", "text_b": null, "label": "rate book"}
+{"text_a": "No, I don't want to review it,", "text_b": null, "label": "rate book"}
+{"text_a": "This book is a masterpiece of a book.", "text_b": null, "label": "rate book"}
+{"text_a": "Great book, would recommend", "text_b": null, "label": "rate book"}
+{"text_a": "Good, because I enjoyed reading it, but I wish the story would have ended a little more abruptly", "text_b": null, "label": "rate book"}
+{"text_a": "this was a great read", "text_b": null, "label": "rate book"}
+{"text_a": "this is a good book", "text_b": null, "label": "rate book"}
+{"text_a": "This book made me feel sad", "text_b": null, "label": "rate book"}
+{"text_a": "You could really improve this book if you made some changes to it, and if it's worth a good review, I will review it.", "text_b": null, "label": "rate book"}
+{"text_a": "I liked the writing, but I did not enjoy the story", "text_b": null, "label": "rate book"}
+{"text_a": "It's a little difficult. But in general, it was very good, very enjoyable", "text_b": null, "label": "rate book"}
+{"text_a": "Open up play.google.com and navigate to the playlist I want to add to playlist. Now select a folder and hit ", "text_b": null, "label": "add to playlist"}
+{"text_a": "Please add this to the queue", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add playlist to a file. I'll be back.", "text_b": null, "label": "add to playlist"}
+{"text_a": "add it", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add a new song to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "add to playlist,", "text_b": null, "label": "add to playlist"}
+{"text_a": "Go get 'The Biggest Loser' in the YouTube Playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "add to the playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add my album to the playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "My new playlists were created by my new playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Play me some of my own music.", "text_b": null, "label": "add to playlist"}
+{"text_a": "I'm adding this song to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Let's add 3 more songs", "text_b": null, "label": "add to playlist"}
+{"text_a": "Open your playlist, right click on it and click ", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to playlist.", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to playlist: http://x.x.x.x:8001", "text_b": null, "label": "add to playlist"}
+{"text_a": "I have added a new song and I want you to listen to it", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to my playlists", "text_b": null, "label": "add to playlist"}
+{"text_a": "Play this song. I've added it to this playlist because I wanted to add it to this playlist.", "text_b": null, "label": "add to playlist"}
+{"text_a": "playlist item xyz.mp3", "text_b": null, "label": "add to playlist"}
+{"text_a": "Okay, add my song", "text_b": null, "label": "add to playlist"}
+{"text_a": "Please let me add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add your track", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to Playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add the songs that you would like to add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "add music that is on the same service as the video I want to watch", "text_b": null, "label": "add to playlist"}
+{"text_a": "add to my playlists", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add me to playlist #2", "text_b": null, "label": "add to playlist"}
+{"text_a": "I want to add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "add item to the list", "text_b": null, "label": "add to playlist"}
+{"text_a": "playlist.push('my-song');", "text_b": null, "label": "add to playlist"}
+{"text_a": "I added this song to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "OK Google, add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Play me a song on playlist.", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add it, add it, add it.", "text_b": null, "label": "add to playlist"}
+{"text_a": "add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add music to the playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Hey, this is not good enough. Let's add another element.", "text_b": null, "label": "add to playlist"}
+{"text_a": "add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add item at [X]", "text_b": null, "label": "add to playlist"}
+{"text_a": "add to playlist: name of the playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Ok, add me to this playlist. You don't have to, but I want to.", "text_b": null, "label": "add to playlist"}
+{"text_a": "Hey, let's add this song to playlist!", "text_b": null, "label": "add to playlist"}
+{"text_a": "I was a little disappointed by this book, but then I realised it's a very good book.", "text_b": null, "label": "rate book"}
+{"text_a": "It's good.", "text_b": null, "label": "rate book"}
+{"text_a": "This is the book that changed my life", "text_b": null, "label": "rate book"}
+{"text_a": "5 stars. This is a great book. Great story and characters. It has a good plot and the characters are well developed.", "text_b": null, "label": "rate book"}
+{"text_a": "I like it, but a little too long, and too hard", "text_b": null, "label": "rate book"}
+{"text_a": "I'm a big fan of the story and the author, but the plot is a little bit hard to follow.", "text_b": null, "label": "rate book"}
+{"text_a": "In the end, I enjoyed it. Not a perfect book, but worth reading", "text_b": null, "label": "rate book"}
+{"text_a": "This book was good.", "text_b": null, "label": "rate book"}
+{"text_a": "It's really good!", "text_b": null, "label": "rate book"}
+{"text_a": "This is the best book I have read in a long time.", "text_b": null, "label": "rate book"}
+{"text_a": "A good novel", "text_b": null, "label": "rate book"}
+{"text_a": "This is a pretty good book and a lot of fun. You can't go wrong with it.", "text_b": null, "label": "rate book"}
+{"text_a": "Good story", "text_b": null, "label": "rate book"}
+{"text_a": "I liked it but it was too long for me, I would have enjoyed it more with less length, etc.", "text_b": null, "label": "rate book"}
+{"text_a": "this book is good, this book is good, this book is good, this book is good", "text_b": null, "label": "rate book"}
+{"text_a": "I read it and liked it. I like the author and I'm sure I would enjoy it again.", "text_b": null, "label": "rate book"}
+{"text_a": "Good, excellent, really good", "text_b": null, "label": "rate book"}
+{"text_a": "I liked this book. I liked that book. This one I really disliked.", "text_b": null, "label": "rate book"}
+{"text_a": "You can't compare it to other books", "text_b": null, "label": "rate book"}
+{"text_a": "It's an enjoyable read", "text_b": null, "label": "rate book"}
+{"text_a": "The best part of this book is the beginning,", "text_b": null, "label": "rate book"}
+{"text_a": "This book is great", "text_b": null, "label": "rate book"}
+{"text_a": "I wish I could write that book, because I love that book", "text_b": null, "label": "rate book"}
+{"text_a": "This book was a great read, and the plot was very compelling", "text_b": null, "label": "rate book"}
+{"text_a": "The author is an idiot.", "text_b": null, "label": "rate book"}
+{"text_a": "This book is not very good", "text_b": null, "label": "rate book"}
+{"text_a": "This is a great book.", "text_b": null, "label": "rate book"}
+{"text_a": "The author should be allowed to get rid of that.", "text_b": null, "label": "rate book"}
+{"text_a": "this one, this one", "text_b": null, "label": "rate book"}
+{"text_a": "I had a hard time following this story, but I found the ending satisfying.", "text_b": null, "label": "rate book"}
+{"text_a": "My heart was in the right place, but the writing wasn't there.", "text_b": null, "label": "rate book"}
+{"text_a": "The only way to describe my feelings about this book is ", "text_b": null, "label": "rate book"}
+{"text_a": "I like this book a lot, but not as much as The Dark Tower series by Stephen King.", "text_b": null, "label": "rate book"}
+{"text_a": "This book is a complete mystery", "text_b": null, "label": "rate book"}
+{"text_a": "A", "text_b": null, "label": "rate book"}
+{"text_a": "Yes, but, it should have been written by more talented writers", "text_b": null, "label": "rate book"}
+{"text_a": "In my opinion, this book was a great adventure", "text_b": null, "label": "rate book"}
+{"text_a": "Very Good", "text_b": null, "label": "rate book"}
+{"text_a": "This book is great. It is a well-written, entertaining story. It will entertain the reader for hours. I love it.", "text_b": null, "label": "rate book"}
+{"text_a": "The best book I have ever read.", "text_b": null, "label": "rate book"}
+{"text_a": "It's a bit dull. It was too many pages, too much repetition, and I was bored", "text_b": null, "label": "rate book"}
+{"text_a": "this is good, this is bad, this book is really, really bad and so on and so forth.", "text_b": null, "label": "rate book"}
+{"text_a": "This was one of the best book I've ever read!", "text_b": null, "label": "rate book"}
+{"text_a": "Add me to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "add your own playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add playlist as an existing folder, with a single item", "text_b": null, "label": "add to playlist"}
+{"text_a": "Okay, I want to add this artist to playlist. When will the first time this song be played on this playlist.", "text_b": null, "label": "add to playlist"}
+{"text_a": "OK, add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "ok, I want to add to playlist X", "text_b": null, "label": "add to playlist"}
+{"text_a": "I added x to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "I am adding a song to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add the music from playlist to My Music", "text_b": null, "label": "add to playlist"}
+{"text_a": "Playlist Addon", "text_b": null, "label": "add to playlist"}
+{"text_a": "add to my playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "I want to add the track '1' to this playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Let's add two songs: one with my first name, and another one with my last name.", "text_b": null, "label": "add to playlist"}
+{"text_a": "Hey Cortana, add to playlist 'Eagles' by 'The Eagles'", "text_b": null, "label": "add to playlist"}
+{"text_a": "Playlist_add('#new_playlist')", "text_b": null, "label": "add to playlist"}
+{"text_a": "If you are not a member, click here to join", "text_b": null, "label": "add to playlist"}
+{"text_a": "Hey, you are not logged in. Can you add this song to your playlist?", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add it to playlist.", "text_b": null, "label": "add to playlist"}
+{"text_a": "add to playlist.add.", "text_b": null, "label": "add to playlist"}
+{"text_a": "add-playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Playlist - add: My Music", "text_b": null, "label": "add to playlist"}
+{"text_a": "Please add my song to the top of my playlists", "text_b": null, "label": "add to playlist"}
+{"text_a": "If you want to add to playlist, add to the ", "text_b": null, "label": "add to playlist"}
+{"text_a": "add it to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add all the files that are not in playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Listen to this.", "text_b": null, "label": "add to playlist"}
+{"text_a": "Play all the songs from #", "text_b": null, "label": "add to playlist"}
+{"text_a": "add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Hey, add a song to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "OK Google, add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "I want to add this playlist to playlist with id=101", "text_b": null, "label": "add to playlist"}
+{"text_a": "add it to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "OK, I have this playlist created, but it does not have the title. If I want to add to it, what do I do?", "text_b": null, "label": "add to playlist"}
+{"text_a": "I want to add the name of a song to the playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Playlist item with name 'playlist.id' is a valid playlist. Add item to playlist.", "text_b": null, "label": "add to playlist"}
+{"text_a": "Playlist.Add(listName, playlistItemId);", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to Playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Hey, I want you to add this track to my playlists and share them, I will pay the cost.", "text_b": null, "label": "add to playlist"}
+{"text_a": "add my song to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "playlist, add: [username]", "text_b": null, "label": "add to playlist"}
+{"text_a": "Hey, guys, we need this track to be a part of playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "I want to add this track to the playlist.", "text_b": null, "label": "add to playlist"}
+{"text_a": "I liked this book", "text_b": null, "label": "rate book"}
+{"text_a": "It is a great book, but if you are a fan of science fiction, you'll have to read The Forever War.", "text_b": null, "label": "rate book"}
+{"text_a": "My wife and I are really pleased with this book.", "text_b": null, "label": "rate book"}
+{"text_a": "I enjoyed reading this book", "text_b": null, "label": "rate book"}
+{"text_a": "I really enjoyed it, it really had the right feeling for me", "text_b": null, "label": "rate book"}
+{"text_a": "This book was good, but the characters were uninteresting.", "text_b": null, "label": "rate book"}
+{"text_a": "This is a good book", "text_b": null, "label": "rate book"}
+{"text_a": "it was interesting, and the characters were interesting, but overall the book was a dud, but you should read the sequel anyway", "text_b": null, "label": "rate book"}
+{"text_a": "In this case, it is too bad it does not get better; however, if it gets better, I will get back to it immediately.", "text_b": null, "label": "rate book"}
+{"text_a": "Very Good.", "text_b": null, "label": "rate book"}
+{"text_a": "This book is good, but is slightly too long for me, but the other characters are cool", "text_b": null, "label": "rate book"}
+{"text_a": "I've read and reviewed the book", "text_b": null, "label": "rate book"}
+{"text_a": "It is a very good, but there are some weak points and some bad points, and I can't say how much I liked it.", "text_b": null, "label": "rate book"}
+{"text_a": "The story was very interesting, the characters were interesting, and the world was interesting.", "text_b": null, "label": "rate book"}
+{"text_a": "Well, this is a bit long.", "text_b": null, "label": "rate book"}
+{"text_a": "The book was an absolute pleasure to read, even if some things were a bit hard to understand.", "text_b": null, "label": "rate book"}
+{"text_a": "this book was a wonderful experience", "text_b": null, "label": "rate book"}
+{"text_a": "This book has good points, but is not a good read", "text_b": null, "label": "rate book"}
+{"text_a": "The writing was good, the character development good, the plot good.", "text_b": null, "label": "rate book"}
+{"text_a": "This book is a good book.", "text_b": null, "label": "rate book"}
+{"text_a": "This is the book I read, or I read this book, and this book is an excellent read!", "text_b": null, "label": "rate book"}
+{"text_a": "The book was interesting.", "text_b": null, "label": "rate book"}
+{"text_a": "Wow, this is a real story.", "text_b": null, "label": "rate book"}
+{"text_a": "The best part of this book for me was the end part with the conclusion.", "text_b": null, "label": "rate book"}
+{"text_a": "I would not give this book a 1, I'd give it a 5 or 6", "text_b": null, "label": "rate book"}
+{"text_a": "Book: 2 stars", "text_b": null, "label": "rate book"}
+{"text_a": "The story is interesting.", "text_b": null, "label": "rate book"}
+{"text_a": "Good for story, bad for writing", "text_b": null, "label": "rate book"}
+{"text_a": "I like this book.", "text_b": null, "label": "rate book"}
+{"text_a": "Very good, very good, very good", "text_b": null, "label": "rate book"}
+{"text_a": "Good", "text_b": null, "label": "rate book"}
+{"text_a": "I read this book.", "text_b": null, "label": "rate book"}
+{"text_a": "5 stars", "text_b": null, "label": "rate book"}
+{"text_a": "In my opinion, this is the most beautiful and best novel to come out of Japan in a very long time.", "text_b": null, "label": "rate book"}
+{"text_a": "It was really, really good, but I wasn't really able to finish it.", "text_b": null, "label": "rate book"}
+{"text_a": "This is a very good book. There is not one thing I did not like about it. It was a very enjoyable read.", "text_b": null, "label": "rate book"}
+{"text_a": "It's not a great book, but I liked it because it didn't have a lot of flaws.", "text_b": null, "label": "rate book"}
+{"text_a": "I didn't know what I was in for.", "text_b": null, "label": "rate book"}
+{"text_a": "Great read!", "text_b": null, "label": "rate book"}
+{"text_a": "Good, but a little slow", "text_b": null, "label": "rate book"}
+{"text_a": "this is a masterpiece", "text_b": null, "label": "rate book"}
+{"text_a": "I did not like this book.", "text_b": null, "label": "rate book"}
+{"text_a": "I enjoyed this and would like to read it again in another format", "text_b": null, "label": "rate book"}
+{"text_a": "Add song", "text_b": null, "label": "add to playlist"}
+{"text_a": "Play: [artist]", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add the current song to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "This is new entry", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add me to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to my playlist, I want to add to my playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "I'm adding to playlist, but this playlist has been created with playlist type 'all' which is not available to me", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add me to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Hey! Do you want to add this song to my playlist? It's in my list, please add to it!", "text_b": null, "label": "add to playlist"}
+{"text_a": "add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add this to your list of songs that I want to add to my playlist.", "text_b": null, "label": "add to playlist"}
+{"text_a": "I want to add new song to playlist, will you add this song to playlist?", "text_b": null, "label": "add to playlist"}
+{"text_a": "add new file or directory here", "text_b": null, "label": "add to playlist"}
+{"text_a": "Play all songs with titles beginning with 'C', and then 'C' more often,", "text_b": null, "label": "add to playlist"}
+{"text_a": "Ok google play songs and add them in playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Playlist.insertItem(listId, itemId, '%(itemId)s')", "text_b": null, "label": "add to playlist"}
+{"text_a": "Please add this song to my playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "add my track to playlist by name and location", "text_b": null, "label": "add to playlist"}
+{"text_a": "add", "text_b": null, "label": "add to playlist"}
+{"text_a": "Play 'Walking in Memphis'", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Playlists", "text_b": null, "label": "add to playlist"}
+{"text_a": "Play this song to hear the lyrics or to just listen", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add another song to playlist.", "text_b": null, "label": "add to playlist"}
+{"text_a": "Play: xxx/mixed/xx", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to playlist.", "text_b": null, "label": "add to playlist"}
+{"text_a": "playlist.push({ 'items': ['this' => $data['id']] });", "text_b": null, "label": "add to playlist"}
+{"text_a": "add music here", "text_b": null, "label": "add to playlist"}
+{"text_a": "add", "text_b": null, "label": "add to playlist"}
+{"text_a": "playlist_add", "text_b": null, "label": "add to playlist"}
+{"text_a": "Playlist, add, 1, and then: ", "text_b": null, "label": "add to playlist"}
+{"text_a": "add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "I am adding more music to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add my video to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "I can add playlist on my computer/phone", "text_b": null, "label": "add to playlist"}
+{"text_a": "If there's a song in playlist, I will add that to playlist.", "text_b": null, "label": "add to playlist"}
+{"text_a": "Let's add the song 'This Is My Night' to the playlist.", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Let's add this song to playlist.", "text_b": null, "label": "add to playlist"}
+{"text_a": "add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Ok, add a new playlist for my playlists", "text_b": null, "label": "add to playlist"}
+{"text_a": "This track is part of playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Go to the playlists directory and add each track to the playlist as appropriate.", "text_b": null, "label": "add to playlist"}
+{"text_a": "Very good, excellent", "text_b": null, "label": "rate book"}
+{"text_a": "I like this book", "text_b": null, "label": "rate book"}
+{"text_a": "This book is good, this book is excellent, this book is good", "text_b": null, "label": "rate book"}
+{"text_a": "this is a good book, but this part needs to be improved", "text_b": null, "label": "rate book"}
+{"text_a": "Good.", "text_b": null, "label": "rate book"}
+{"text_a": "Well, it's good", "text_b": null, "label": "rate book"}
+{"text_a": "In my opinion, the author is really good. It's one of my favorite books and I'll buy it again.", "text_b": null, "label": "rate book"}
+{"text_a": "If it is good, it is good", "text_b": null, "label": "rate book"}
+{"text_a": "this one", "text_b": null, "label": "rate book"}
+{"text_a": "I enjoyed reading this book.", "text_b": null, "label": "rate book"}
+{"text_a": "I really liked it but I did not like the author that much.", "text_b": null, "label": "rate book"}
+{"text_a": "I like it, and I want to rate it", "text_b": null, "label": "rate book"}
+{"text_a": "Good for: Writing.", "text_b": null, "label": "rate book"}
+{"text_a": "This is the best book I have ever read", "text_b": null, "label": "rate book"}
+{"text_a": "It was very entertaining.", "text_b": null, "label": "rate book"}
+{"text_a": "It's a great read and a great read for a newbie reader", "text_b": null, "label": "rate book"}
+{"text_a": "This book was an interesting read; I liked it; I have enjoyed it. My rating for the author is 3.", "text_b": null, "label": "rate book"}
+{"text_a": "this was a good book for my book club", "text_b": null, "label": "rate book"}
+{"text_a": "5", "text_b": null, "label": "rate book"}
+{"text_a": "This is an incredible book. It is so well written. The prose is great. It is extremely well crafted. The writing is great.", "text_b": null, "label": "rate book"}
+{"text_a": "Good reading", "text_b": null, "label": "rate book"}
+{"text_a": "Great book, good style, good writing. But I wish they had used more pictures.", "text_b": null, "label": "rate book"}
+{"text_a": "the only thing I really enjoyed here is the ending, but it's kind of weak", "text_b": null, "label": "rate book"}
+{"text_a": "No one's going to buy this for their book club.", "text_b": null, "label": "rate book"}
+{"text_a": "this one is ok, the next one is great, the last one is god-awful", "text_b": null, "label": "rate book"}
+{"text_a": "Book #50", "text_b": null, "label": "rate book"}
+{"text_a": "A little", "text_b": null, "label": "rate book"}
+{"text_a": "I did not like this book.", "text_b": null, "label": "rate book"}
+{"text_a": "this book is amazing", "text_b": null, "label": "rate book"}
+{"text_a": "It was pretty good, but I would have liked more action scenes", "text_b": null, "label": "rate book"}
+{"text_a": "I read this.", "text_b": null, "label": "rate book"}
+{"text_a": "this book is good.", "text_b": null, "label": "rate book"}
+{"text_a": "I will rate a book 'a 3' or 'b 4' depending on how I feel. It depends on how good or bad it is.", "text_b": null, "label": "rate book"}
+{"text_a": "Great", "text_b": null, "label": "rate book"}
+{"text_a": "This is an excellent book, with some faults.", "text_b": null, "label": "rate book"}
+{"text_a": "this is a good book.", "text_b": null, "label": "rate book"}
+{"text_a": "This is a great book", "text_b": null, "label": "rate book"}
+{"text_a": "If I want to read that book, I will read that book", "text_b": null, "label": "rate book"}
+{"text_a": "This was a nice book", "text_b": null, "label": "rate book"}
+{"text_a": "this was a good book, a book worth reading.", "text_b": null, "label": "rate book"}
+{"text_a": "I don't want to rate this because it's not good, I would rate this as good.", "text_b": null, "label": "rate book"}
+{"text_a": "This is a good book, very well done", "text_b": null, "label": "rate book"}
+{"text_a": "I don't really enjoy reading this book. Its the story that sucks me in.", "text_b": null, "label": "rate book"}
+{"text_a": "Book is 1/5", "text_b": null, "label": "rate book"}
+{"text_a": "I read this book.", "text_b": null, "label": "rate book"}
+{"text_a": "it's good", "text_b": null, "label": "rate book"}
+{"text_a": "This is a book that I've read and I want to give a 1 out of 5", "text_b": null, "label": "rate book"}
+{"text_a": "add the song with ID to the playlist.", "text_b": null, "label": "add to playlist"}
+{"text_a": "I want to add some songs", "text_b": null, "label": "add to playlist"}
+{"text_a": "I want to add some music to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "You can add your own music, or just select the music that you want to add to my playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to my playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Ok, add the next song from playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Ok Google. Play: [Artist]", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to the current playlist, I want to add to this playlist and add the next song from this song", "text_b": null, "label": "add to playlist"}
+{"text_a": "play my song in my library.", "text_b": null, "label": "add to playlist"}
+{"text_a": "add item to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Play: #{track}", "text_b": null, "label": "add to playlist"}
+{"text_a": "I'm adding to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add this song to my playlist.", "text_b": null, "label": "add to playlist"}
+{"text_a": "add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "playlist.add(video_id)", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "addToPlaylist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Playlist.add('file:///path/to/my/song')", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "hey, add me as a friend.", "text_b": null, "label": "add to playlist"}
+{"text_a": "I want to add my tracks to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Playlist Add/remove item", "text_b": null, "label": "add to playlist"}
+{"text_a": "add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "playlist add [add a number here] - [remove] to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "add this song to the playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add another playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "I will add a playlist for the song I want to add", "text_b": null, "label": "add to playlist"}
+{"text_a": "My playlist has a length of 50 songs. Please add another 20 songs in the next few seconds.", "text_b": null, "label": "add to playlist"}
+{"text_a": "Playlist for song 'X' added in playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "add this playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add a new playlist from 'Playlists' in 'Music' category.", "text_b": null, "label": "add to playlist"}
+{"text_a": "add item, add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Hey, I want to add this song, please make an update.", "text_b": null, "label": "add to playlist"}
+{"text_a": "If I want to add to playlist, I will say: 'Add to playlist'", "text_b": null, "label": "add to playlist"}
+{"text_a": "Hey, what's that? Let's add it to playlist!", "text_b": null, "label": "add to playlist"}
+{"text_a": "add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "add it here", "text_b": null, "label": "add to playlist"}
+{"text_a": "playlist:2", "text_b": null, "label": "add to playlist"}
+{"text_a": "Playlist ", "text_b": null, "label": "add to playlist"}
+{"text_a": "Let's add 3 more songs to this playlist.", "text_b": null, "label": "add to playlist"}
+{"text_a": "hey @timeles, add me to this playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "OK Google Play Music, add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "You can add a playlist for this playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "My review", "text_b": null, "label": "rate book"}
+{"text_a": "In my opinion, this book should not be rated at this level.", "text_b": null, "label": "rate book"}
+{"text_a": "it took me 10 minutes to read", "text_b": null, "label": "rate book"}
+{"text_a": "A good book.", "text_b": null, "label": "rate book"}
+{"text_a": "it's better than I thought", "text_b": null, "label": "rate book"}
+{"text_a": "This is really good book, but it does not contain the author's name, which is not what we need to sell the book.", "text_b": null, "label": "rate book"}
+{"text_a": "I enjoyed it but did not care for all of the parts in it.", "text_b": null, "label": "rate book"}
+{"text_a": "This book is worth about four star and it's pretty good, and I would give it five star rating.", "text_b": null, "label": "rate book"}
+{"text_a": "No rating for this book", "text_b": null, "label": "rate book"}
+{"text_a": "4.5/5", "text_b": null, "label": "rate book"}
+{"text_a": "My favorite is ", "text_b": null, "label": "rate book"}
+{"text_a": "Great", "text_b": null, "label": "rate book"}
+{"text_a": "I was completely and utterly in love with this story from the first page!", "text_b": null, "label": "rate book"}
+{"text_a": "The book is not a true story; it's a novel. I wish it were true, but I can't tell.", "text_b": null, "label": "rate book"}
+{"text_a": "this book was very good", "text_b": null, "label": "rate book"}
+{"text_a": "What's wrong with this book, and how can it be fixed?", "text_b": null, "label": "rate book"}
+{"text_a": "it's a great book", "text_b": null, "label": "rate book"}
+{"text_a": "It has a lot of good ideas", "text_b": null, "label": "rate book"}
+{"text_a": "This is the best book I have read so far", "text_b": null, "label": "rate book"}
+{"text_a": "Good book. The characters are well written. The writing is good. The plot is well done.", "text_b": null, "label": "rate book"}
+{"text_a": "Very good", "text_b": null, "label": "rate book"}
+{"text_a": "The whole of the text in this book makes a very large contribution to the knowledge of the subject.", "text_b": null, "label": "rate book"}
+{"text_a": "Wow, I can't wait to read this book!", "text_b": null, "label": "rate book"}
+{"text_a": "Wow! How did he write that book?", "text_b": null, "label": "rate book"}
+{"text_a": "You can get this book, you will like it", "text_b": null, "label": "rate book"}
+{"text_a": "I don't know", "text_b": null, "label": "rate book"}
+{"text_a": "The book is good.", "text_b": null, "label": "rate book"}
+{"text_a": "Yes, I would like to read this, but I don't know if I'll like it", "text_b": null, "label": "rate book"}
+{"text_a": "You might want to read this book", "text_b": null, "label": "rate book"}
+{"text_a": "It is a pleasure to read", "text_b": null, "label": "rate book"}
+{"text_a": "The first book is very interesting, but the second is even more interesting", "text_b": null, "label": "rate book"}
+{"text_a": "The Book", "text_b": null, "label": "rate book"}
+{"text_a": "A good book", "text_b": null, "label": "rate book"}
+{"text_a": "The best way to describe it is 'a good book' or 'a novel that will enrich your life'.", "text_b": null, "label": "rate book"}
+{"text_a": "5 out of 10, not great, probably will be the second in a series, read if you like, but nothing will blow you away", "text_b": null, "label": "rate book"}
+{"text_a": "It is of good quality, and very well written. I did not have the time to read it all.", "text_b": null, "label": "rate book"}
+{"text_a": "A good book", "text_b": null, "label": "rate book"}
+{"text_a": "What a great story, the author has written the best book I've read so far", "text_b": null, "label": "rate book"}
+{"text_a": "4 stars. A really good read.", "text_b": null, "label": "rate book"}
+{"text_a": "The most important sentence of the book is the first sentence", "text_b": null, "label": "rate book"}
+{"text_a": "Wow. I love it. This book is brilliant. It really deserves a five-star rating.", "text_b": null, "label": "rate book"}
+{"text_a": "This book is very useful for understanding the difference between different kinds of trees.", "text_b": null, "label": "rate book"}
+{"text_a": "Wow, this is a great book.", "text_b": null, "label": "rate book"}
+{"text_a": "This book deserves a 10.", "text_b": null, "label": "rate book"}
+{"text_a": "This book was interesting", "text_b": null, "label": "rate book"}
+{"text_a": "Wow, this is a good book", "text_b": null, "label": "rate book"}
+{"text_a": "In a way this book is very good, but not as good as this one", "text_b": null, "label": "rate book"}
+{"text_a": "add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Playlist: [artist name] - [album name] - [song title]", "text_b": null, "label": "add to playlist"}
+{"text_a": "You've already added some content to this playlist, what do you want to add next?", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add this to playlist ", "text_b": null, "label": "add to playlist"}
+{"text_a": "Hey, listen to this song I created", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add song to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "OK Google, what's the name of the song I want to add?", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to the playlist or open the playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "add some song", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to my playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Hey, I want to add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "add this to playlist.", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add playlist here", "text_b": null, "label": "add to playlist"}
+{"text_a": "I would like to add 'Grimm's Fairy Tales' to the playlist.", "text_b": null, "label": "add to playlist"}
+{"text_a": "Playlist is: '{0}", "text_b": null, "label": "add to playlist"}
+{"text_a": "Playlist is now playing", "text_b": null, "label": "add to playlist"}
+{"text_a": "Open up a text editor (anyone has one I can use to create it?) and add ", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Ok Google, add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Hey, listen to this song", "text_b": null, "label": "add to playlist"}
+{"text_a": "If you want to add this track to this playlist, add this track to the playlist.", "text_b": null, "label": "add to playlist"}
+{"text_a": "playlist.add(item_id, playlist_id)", "text_b": null, "label": "add to playlist"}
+{"text_a": "Hey Google, add that to my playlist. Do you have any more for that artist?", "text_b": null, "label": "add to playlist"}
+{"text_a": "Playlist Addition", "text_b": null, "label": "add to playlist"}
+{"text_a": "play this album in playlist 1.", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add 'The New World' to playlist.", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to Playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add a song to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "OK, Google, add to playlist.", "text_b": null, "label": "add to playlist"}
+{"text_a": "playlist: {name} {title}", "text_b": null, "label": "add to playlist"}
+{"text_a": "OK, you can have a playlist with this. You can add, remove, create, or delete songs here.", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add your favourite songs", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Okay, add me to playlist.", "text_b": null, "label": "add to playlist"}
+{"text_a": "playlist_id:<id>", "text_b": null, "label": "add to playlist"}
+{"text_a": "playlist.push('playlist');", "text_b": null, "label": "add to playlist"}
+{"text_a": "add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add this song to the playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "This is the new playlist, I want you to add it to your list,", "text_b": null, "label": "add to playlist"}
+{"text_a": "I have this playlist with ", "text_b": null, "label": "add to playlist"}
+{"text_a": "OK, you add playlist and then start playing that playlist. You can also select playlist by just clicking on it.", "text_b": null, "label": "add to playlist"}
+{"text_a": "Okay, I want to add this song to the list, and I want to add it to all my playlists.", "text_b": null, "label": "add to playlist"}
+{"text_a": "I think I want to add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add a song by ", "text_b": null, "label": "add to playlist"}
+{"text_a": "add more videos here", "text_b": null, "label": "add to playlist"}
+{"text_a": "I read this book!", "text_b": null, "label": "rate book"}
+{"text_a": "5/5.", "text_b": null, "label": "rate book"}
+{"text_a": "I enjoyed reading this book. I think it was good for my own enlightenment", "text_b": null, "label": "rate book"}
+{"text_a": "This book is a must-read for anybody who is an advocate of human rights or an opponent of discrimination against women.", "text_b": null, "label": "rate book"}
+{"text_a": "I really like this book. I enjoyed reading this book and would like to recommend it.", "text_b": null, "label": "rate book"}
+{"text_a": "This book is excellent. It is a masterpiece.", "text_b": null, "label": "rate book"}
+{"text_a": "this book was interesting, it was written well, the narrative is strong, the research is excellent", "text_b": null, "label": "rate book"}
+{"text_a": "Good", "text_b": null, "label": "rate book"}
+{"text_a": "this is a very good read, this is a wonderful story, this is a very touching story", "text_b": null, "label": "rate book"}
+{"text_a": "I wish the author had had a stronger plot!", "text_b": null, "label": "rate book"}
+{"text_a": "The most beautiful thing I ever saw.", "text_b": null, "label": "rate book"}
+{"text_a": "Good", "text_b": null, "label": "rate book"}
+{"text_a": "In a word, it's good. But it was the only way I could rate it.", "text_b": null, "label": "rate book"}
+{"text_a": "What is the author saying on this subject", "text_b": null, "label": "rate book"}
+{"text_a": "The author has written a really nice book", "text_b": null, "label": "rate book"}
+{"text_a": "The plot was not very interesting, but the main protagonist did a good job with the story.", "text_b": null, "label": "rate book"}
+{"text_a": "It was a waste of time", "text_b": null, "label": "rate book"}
+{"text_a": "this is a bad book, it has lots of spelling mistakes, bad vocabulary, there are missing words, there is some bad grammar.", "text_b": null, "label": "rate book"}
+{"text_a": "this book is great", "text_b": null, "label": "rate book"}
+{"text_a": "I would read this book even if I had to read it every day.", "text_b": null, "label": "rate book"}
+{"text_a": "I like the book.", "text_b": null, "label": "rate book"}
+{"text_a": "This is a very good book.", "text_b": null, "label": "rate book"}
+{"text_a": "A.", "text_b": null, "label": "rate book"}
+{"text_a": "It was a fun read.", "text_b": null, "label": "rate book"}
+{"text_a": "it has to be good", "text_b": null, "label": "rate book"}
+{"text_a": "A book that I would love to buy but can't", "text_b": null, "label": "rate book"}
+{"text_a": "A", "text_b": null, "label": "rate book"}
+{"text_a": "This is a really good book; the style and the story line of the writing are really great.", "text_b": null, "label": "rate book"}
+{"text_a": "The book was well written, with a good plot and a very interesting world to get lost in", "text_b": null, "label": "rate book"}
+{"text_a": "The book was okay.", "text_b": null, "label": "rate book"}
+{"text_a": "This is a good book. It's a good story.", "text_b": null, "label": "rate book"}
+{"text_a": "What a great job on the book. It is worth reading. I read it and I liked it. The author did a great job.", "text_b": null, "label": "rate book"}
+{"text_a": "It is great, but a bit weak.", "text_b": null, "label": "rate book"}
+{"text_a": "this book is too good to be true.", "text_b": null, "label": "rate book"}
+{"text_a": "The Best book I've read this year", "text_b": null, "label": "rate book"}
+{"text_a": "This is the best book I have read this year.", "text_b": null, "label": "rate book"}
+{"text_a": "The first few pages make me want to read the book, but I can't stop reading when I have to go to sleep.", "text_b": null, "label": "rate book"}
+{"text_a": "A novel or a story is good or bad. It doesn't matter why it is good or bad, that's a subjective judgement.", "text_b": null, "label": "rate book"}
+{"text_a": "If you like the book, then you will like this one even more.", "text_b": null, "label": "rate book"}
+{"text_a": "If I am not wrong in this book, then I don't have to read another one.", "text_b": null, "label": "rate book"}
+{"text_a": "Great - good story, well written, fun.", "text_b": null, "label": "rate book"}
+{"text_a": "Add playlist to this group by user", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "add a line like this to the playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "add playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "I need to do a search and replace", "text_b": null, "label": "add to playlist"}
+{"text_a": "Play playlist with id '$id'", "text_b": null, "label": "add to playlist"}
+{"text_a": "playlist:<string>,<string>", "text_b": null, "label": "add to playlist"}
+{"text_a": "hey you can add to playlist, I'll be here. I'm not going to be a jerk.", "text_b": null, "label": "add to playlist"}
+{"text_a": "This song should be in the playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "playlistadd.sh", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add To Playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Playlist is already running. Please wait a few minutes for the next item.", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add my song to this playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "playlist title: 'Add to playlist'", "text_b": null, "label": "add to playlist"}
+{"text_a": "add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Play playlist_1_2", "text_b": null, "label": "add to playlist"}
+{"text_a": "add playlist here", "text_b": null, "label": "add to playlist"}
+{"text_a": "Hey, can you add this song to the playlist? And it's on the same name, it must be the same song.", "text_b": null, "label": "add to playlist"}
+{"text_a": "add new video to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "This song is played in the playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "playlist-add -t ", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add my playlist to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "I can add to playlist with X number of users", "text_b": null, "label": "add to playlist"}
+{"text_a": "Playlist name =", "text_b": null, "label": "add to playlist"}
+{"text_a": "playlist_set_add_item(i)", "text_b": null, "label": "add to playlist"}
+{"text_a": "I want to add to playlist with id 1234", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add a song that is not in my current playlist. I want to add that song to the playlist.", "text_b": null, "label": "add to playlist"}
+{"text_a": "add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "I think I would like to add this to the playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Hey, add this song to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Hey, I'd like you to add it to the playlist, but the file doesn't support the following feature", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "I would like to add to my playlist: ", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add 'The Muppets (S01E06) The Music Box' to my playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "add new song here", "text_b": null, "label": "add to playlist"}
+{"text_a": "I want to add to playlist ", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Play: [Title] by [Artist]", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add it to playlists/1,2", "text_b": null, "label": "add to playlist"}
+{"text_a": "I'd like to add X to playlist Y. I'll press Ctrl-Alt-P to add X to playlist Y", "text_b": null, "label": "add to playlist"}
+{"text_a": "Playlists", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add item to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "playlist name", "text_b": null, "label": "add to playlist"}
+{"text_a": "I'll add a song in seconds", "text_b": null, "label": "add to playlist"}
+{"text_a": "Wow, this book was great, but there are things I would have done differently to make it even better", "text_b": null, "label": "rate book"}
+{"text_a": "The most interesting aspect of this book is not the content, but the way in which the author conveys it.", "text_b": null, "label": "rate book"}
+{"text_a": "Well, I loved it", "text_b": null, "label": "rate book"}
+{"text_a": "This is really interesting, but it's not for me.", "text_b": null, "label": "rate book"}
+{"text_a": "In a way I am impressed by this book, it's a great story and I liked how it ended", "text_b": null, "label": "rate book"}
+{"text_a": "If you love books, this is an excellent one.", "text_b": null, "label": "rate book"}
+{"text_a": "I liked this book", "text_b": null, "label": "rate book"}
+{"text_a": "it's an interesting read.", "text_b": null, "label": "rate book"}
+{"text_a": "There is a very nice story in here", "text_b": null, "label": "rate book"}
+{"text_a": "4.5 out of 5 stars", "text_b": null, "label": "rate book"}
+{"text_a": "I didn't like this part", "text_b": null, "label": "rate book"}
+{"text_a": "this book was worth it.", "text_b": null, "label": "rate book"}
+{"text_a": "This was a good book", "text_b": null, "label": "rate book"}
+{"text_a": "The book is not worth the effort, just read it", "text_b": null, "label": "rate book"}
+{"text_a": "I read this book, I enjoyed this book, it didn't make me cry", "text_b": null, "label": "rate book"}
+{"text_a": "Great book.", "text_b": null, "label": "rate book"}
+{"text_a": "Good reading", "text_b": null, "label": "rate book"}
+{"text_a": "I liked this book and it gave me something new to think about.", "text_b": null, "label": "rate book"}
+{"text_a": "this is a really good book", "text_b": null, "label": "rate book"}
+{"text_a": "I like it", "text_b": null, "label": "rate book"}
+{"text_a": "This is a great book. I think I will like it.", "text_b": null, "label": "rate book"}
+{"text_a": "I liked it but I didn't like it enough to rate it", "text_b": null, "label": "rate book"}
+{"text_a": "This is an awesome book", "text_b": null, "label": "rate book"}
+{"text_a": "this is one of the best books I have read in a long time", "text_b": null, "label": "rate book"}
+{"text_a": "This was one of the better books I have ever read.", "text_b": null, "label": "rate book"}
+{"text_a": "Great book. This author is a genius", "text_b": null, "label": "rate book"}
+{"text_a": "No one should read this book.", "text_b": null, "label": "rate book"}
+{"text_a": "Good", "text_b": null, "label": "rate book"}
+{"text_a": "This book is good", "text_b": null, "label": "rate book"}
+{"text_a": "I liked this book very much!", "text_b": null, "label": "rate book"}
+{"text_a": "I like this book", "text_b": null, "label": "rate book"}
+{"text_a": "This book is worth the price", "text_b": null, "label": "rate book"}
+{"text_a": "I read it.", "text_b": null, "label": "rate book"}
+{"text_a": "this is a great story with awesome characters", "text_b": null, "label": "rate book"}
+{"text_a": "This is a good book, but I'd also like to add to it.", "text_b": null, "label": "rate book"}
+{"text_a": "The first page, the last page, the end. I can't wait to read it again.", "text_b": null, "label": "rate book"}
+{"text_a": "5/5 \u2013 A great story.", "text_b": null, "label": "rate book"}
+{"text_a": "this book is a masterpiece.", "text_b": null, "label": "rate book"}
+{"text_a": "This book is not for me", "text_b": null, "label": "rate book"}
+{"text_a": "This is an easy read, and the book was not overly complicated. I had a great time and was able to get the information I needed quickly.", "text_b": null, "label": "rate book"}
+{"text_a": "It was pretty good.", "text_b": null, "label": "rate book"}
+{"text_a": "the book is not very good, but the book is well-written and has some good moments.", "text_b": null, "label": "rate book"}
+{"text_a": "A great read", "text_b": null, "label": "rate book"}
+{"text_a": "The author's story makes a good one.", "text_b": null, "label": "rate book"}
+{"text_a": "This book is really good.", "text_b": null, "label": "rate book"}
+{"text_a": "Great read", "text_b": null, "label": "rate book"}
+{"text_a": "In general, this book has been an enriching read.", "text_b": null, "label": "rate book"}
+{"text_a": "Go to a playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to playlists from ", "text_b": null, "label": "add to playlist"}
+{"text_a": "This is a track I want to add to a playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Hey, I want to add this song to the playlist and play it whenever I'm on my phone", "text_b": null, "label": "add to playlist"}
+{"text_a": "Listen to 'Kiss From A Rose' on Spotify", "text_b": null, "label": "add to playlist"}
+{"text_a": "Playlist created by user", "text_b": null, "label": "add to playlist"}
+{"text_a": "Hey Google, add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Hey, I want to play this song, which is in the last playlist in the list", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "hey, add a song here.", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to MyPlaylists playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Hey, I'm playing this song, I want to add it to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Play: [Insert playlist]", "text_b": null, "label": "add to playlist"}
+{"text_a": "Play All Music", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to the playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add a playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "I added an item to playlist: ", "text_b": null, "label": "add to playlist"}
+{"text_a": "Go to playlist, then click on new. Add new track and enter playlist name as playlist name.", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "I want to add to playlist 2, but my playlist is already on 2", "text_b": null, "label": "add to playlist"}
+{"text_a": "Playlist: x.x.x.x.x", "text_b": null, "label": "add to playlist"}
+{"text_a": "Play playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add me to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Play 'The Great Gatsby' from Spotify", "text_b": null, "label": "add to playlist"}
+{"text_a": "playlist added to playlist 1", "text_b": null, "label": "add to playlist"}
+{"text_a": "Hey, I am adding to your playlist, you can stop by the channel to find out more.", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add my own music here.", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add my song to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Playlist: <playlist name> ", "text_b": null, "label": "add to playlist"}
+{"text_a": "add new item", "text_b": null, "label": "add to playlist"}
+{"text_a": "add [title] to the end of playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add this song to playlist.", "text_b": null, "label": "add to playlist"}
+{"text_a": "If you want to add more music to this playlist, you must add all tracks to that playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Play this video", "text_b": null, "label": "add to playlist"}
+{"text_a": "add new playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Hey, you can put on your favorite music.", "text_b": null, "label": "add to playlist"}
+{"text_a": "Play my song and then add to the playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "I want to add this video to my playlist, you will get notified via notification_service", "text_b": null, "label": "add to playlist"}
+{"text_a": "Listen to this song on Spotify or Pandora, then play this song again.", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to my list", "text_b": null, "label": "add to playlist"}
+{"text_a": "OK, let me add this track to the playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add the song to the playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "add a song to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "I'm gonna put this track into my playlist. It was a fun and engaging ride. Would you like to add this track to your playlist?", "text_b": null, "label": "add to playlist"}
+{"text_a": "Playlist: [my name] - [album name] (no file extension)", "text_b": null, "label": "add to playlist"}
+{"text_a": "Listen to playlist #1 and add to playlist #2. For more details please see the wiki page.", "text_b": null, "label": "add to playlist"}
+{"text_a": "5 out of 5", "text_b": null, "label": "rate book"}
+{"text_a": "This is the best thing I have ever read", "text_b": null, "label": "rate book"}
+{"text_a": "Wow! Very good!", "text_b": null, "label": "rate book"}
+{"text_a": "The story was ok", "text_b": null, "label": "rate book"}
+{"text_a": "Very good", "text_b": null, "label": "rate book"}
+{"text_a": "This book was not enjoyable", "text_b": null, "label": "rate book"}
+{"text_a": "5 out of 5 stars", "text_b": null, "label": "rate book"}
+{"text_a": "There was a good story here.", "text_b": null, "label": "rate book"}
+{"text_a": "It is a bit better than average, not great, or bad, but it is not great", "text_b": null, "label": "rate book"}
+{"text_a": "I liked it", "text_b": null, "label": "rate book"}
+{"text_a": "This is really good. Not perfect but good.", "text_b": null, "label": "rate book"}
+{"text_a": "I am not going to give this 4 stars, because there are not enough details", "text_b": null, "label": "rate book"}
+{"text_a": "This is the best book written in the last 50 years.", "text_b": null, "label": "rate book"}
+{"text_a": "This is a good book", "text_b": null, "label": "rate book"}
+{"text_a": "It was good,", "text_b": null, "label": "rate book"}
+{"text_a": "I really enjoyed this.", "text_b": null, "label": "rate book"}
+{"text_a": "I think this book is about the author being a great person.", "text_b": null, "label": "rate book"}
+{"text_a": "This book is good; I recommend it to you.", "text_b": null, "label": "rate book"}
+{"text_a": "I like this book, but I would like to read it more", "text_b": null, "label": "rate book"}
+{"text_a": "Good. Not perfect but better than average.", "text_b": null, "label": "rate book"}
+{"text_a": "Great story", "text_b": null, "label": "rate book"}
+{"text_a": "The writing was not of the same quality as the previous books.", "text_b": null, "label": "rate book"}
+{"text_a": "It's hard to put it down.", "text_b": null, "label": "rate book"}
+{"text_a": "I think it was better when it was less, but it would probably have been even better with more.", "text_b": null, "label": "rate book"}
+{"text_a": "I did not like this book.", "text_b": null, "label": "rate book"}
+{"text_a": "This book was amazing, and it was a fantastic read!", "text_b": null, "label": "rate book"}
+{"text_a": "This is not a good book for me", "text_b": null, "label": "rate book"}
+{"text_a": "this book was good, but not good enough", "text_b": null, "label": "rate book"}
+{"text_a": "this book will bring the best results to my life", "text_b": null, "label": "rate book"}
+{"text_a": "I like this book.", "text_b": null, "label": "rate book"}
+{"text_a": "This is a book which I highly recommend!", "text_b": null, "label": "rate book"}
+{"text_a": "5-6", "text_b": null, "label": "rate book"}
+{"text_a": "I had a lot of fun reading this. Great story.", "text_b": null, "label": "rate book"}
+{"text_a": "It's a good book, but not that good.", "text_b": null, "label": "rate book"}
+{"text_a": "It is not good", "text_b": null, "label": "rate book"}
+{"text_a": "This is the best book I've ever read. It really changed my life. It changed me from a conservative conservative man into a liberal liberal man.", "text_b": null, "label": "rate book"}
+{"text_a": "this book is really well written. I don't know much about the author, but he is well educated. I really liked it.", "text_b": null, "label": "rate book"}
+{"text_a": "The only reason I have bought this book is to write a review of it", "text_b": null, "label": "rate book"}
+{"text_a": "This is a very good book. But for me it needs a lot of work", "text_b": null, "label": "rate book"}
+{"text_a": "I like it but, I think the narrator should have been more subtle", "text_b": null, "label": "rate book"}
+{"text_a": "I liked that part.", "text_b": null, "label": "rate book"}
+{"text_a": "This is a fine book that is worth reading.", "text_b": null, "label": "rate book"}
+{"text_a": "This book is great for someone who is looking to learn about the fundamentals of JavaScript", "text_b": null, "label": "rate book"}
+{"text_a": "A-", "text_b": null, "label": "rate book"}
+{"text_a": "this was the best book I read this year", "text_b": null, "label": "rate book"}
+{"text_a": "Okay, I want to add this item", "text_b": null, "label": "add to playlist"}
+{"text_a": "Play 'Super Smash Bros. Melee': [Title/Subtitle] - [Playlist_ID]", "text_b": null, "label": "add to playlist"}
+{"text_a": "hey, add some more songs in playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Ok, I want to add a new song. Here's the song, how should I add it to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "I'm adding to playlist: ", "text_b": null, "label": "add to playlist"}
+{"text_a": "Hey, guys, check out my playlist on Spotify", "text_b": null, "label": "add to playlist"}
+{"text_a": "add_player ", "text_b": null, "label": "add to playlist"}
+{"text_a": "Hey, I want to add to playlist 1, and I want to add to playlist 2", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add another song", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add this song to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Playlist <playlist-id> <playlist-type> <playlist-file> <playlist-size>", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add this song to my playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add playlist here", "text_b": null, "label": "add to playlist"}
+{"text_a": "Ok, how much should I charge?", "text_b": null, "label": "add to playlist"}
+{"text_a": "Playlist created, click on it. It will load, and there will be the name of that song.", "text_b": null, "label": "add to playlist"}
+{"text_a": "add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to my playlist.", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add the playlist with the id of your song on the page", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add this song to my playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "I'll start with the first 2 minutes", "text_b": null, "label": "add to playlist"}
+{"text_a": "Play 'My Favorite Songs by X'", "text_b": null, "label": "add to playlist"}
+{"text_a": "hey guys, play this song!", "text_b": null, "label": "add to playlist"}
+{"text_a": "add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "I'll add my songs here", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Ok, just to be sure, make sure you're logged out of youtube in chrome.", "text_b": null, "label": "add to playlist"}
+{"text_a": "add music to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "You are now playing with me. Now, I am going to play a song by Beyonce.", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "add more/update playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Playlist: #{collection.playlist.id} - I added this one", "text_b": null, "label": "add to playlist"}
+{"text_a": "playlist: {playlist_number}-{playlist_title}.ext", "text_b": null, "label": "add to playlist"}
+{"text_a": "I will play music from playlist 'name'", "text_b": null, "label": "add to playlist"}
+{"text_a": "Ok, I want to add to playlist, then I should put my music here.", "text_b": null, "label": "add to playlist"}
+{"text_a": "I want to add a few more tracks", "text_b": null, "label": "add to playlist"}
+{"text_a": "Play 'Disco Inferno' (feat. B.o.B)", "text_b": null, "label": "add to playlist"}
+{"text_a": "I want to add to playlist playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "add playlist to the list", "text_b": null, "label": "add to playlist"}
+{"text_a": "Hey, I want to add more songs to my playlists", "text_b": null, "label": "add to playlist"}
+{"text_a": "playlist, add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add another song here", "text_b": null, "label": "add to playlist"}
+{"text_a": "I added that song to the playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "hey you have no chance at winning", "text_b": null, "label": "add to playlist"}
+{"text_a": "Playlist: #{playlist_id}", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "The book will satisfy your curiosity, if you read it. It will not surprise you, if you read it.", "text_b": null, "label": "rate book"}
+{"text_a": "This book is excellent!", "text_b": null, "label": "rate book"}
+{"text_a": "I do not want to make a review, since my knowledge of the book is very limited.", "text_b": null, "label": "rate book"}
+{"text_a": "this book was very boring!", "text_b": null, "label": "rate book"}
+{"text_a": "I liked this book", "text_b": null, "label": "rate book"}
+{"text_a": "Good book, but a bit too long", "text_b": null, "label": "rate book"}
+{"text_a": "This is a good book for a young child to read, but a terrible book for an adult to read", "text_b": null, "label": "rate book"}
+{"text_a": "this is one of the best book", "text_b": null, "label": "rate book"}
+{"text_a": "This book was well written and interesting, but not as good as The Hobbit", "text_b": null, "label": "rate book"}
+{"text_a": "5", "text_b": null, "label": "rate book"}
+{"text_a": "This book was really good and it helped me a lot. But it might also be better if I had this book instead.", "text_b": null, "label": "rate book"}
+{"text_a": "I had a wonderful experience and I will rate it with a high star.", "text_b": null, "label": "rate book"}
+{"text_a": "This is a good story.", "text_b": null, "label": "rate book"}
+{"text_a": "I liked it, I did not like it, I would rate it: 6/10", "text_b": null, "label": "rate book"}
+{"text_a": "A 5/5 and a 5/5 in the same category?", "text_b": null, "label": "rate book"}
+{"text_a": "This book will make you love it, it will make you want to read it.", "text_b": null, "label": "rate book"}
+{"text_a": "The books on this list aren't just 'good'. They are 'the best' - and they are all excellent.", "text_b": null, "label": "rate book"}
+{"text_a": "This is a good book", "text_b": null, "label": "rate book"}
+{"text_a": "Very good", "text_b": null, "label": "rate book"}
+{"text_a": "You should read this book", "text_b": null, "label": "rate book"}
+{"text_a": "It is not bad, but not great", "text_b": null, "label": "rate book"}
+{"text_a": "How well did I like the book?", "text_b": null, "label": "rate book"}
+{"text_a": "I liked this book.", "text_b": null, "label": "rate book"}
+{"text_a": "this is very good book about a famous figure in history", "text_b": null, "label": "rate book"}
+{"text_a": "Good read, but I could have done without some of the jokes or some of the story. I liked the character.", "text_b": null, "label": "rate book"}
+{"text_a": "This book has a lot of good ideas and good writing", "text_b": null, "label": "rate book"}
+{"text_a": "What did he do?", "text_b": null, "label": "rate book"}
+{"text_a": "It's a classic.", "text_b": null, "label": "rate book"}
+{"text_a": "I enjoyed it, but I don't recommend it.", "text_b": null, "label": "rate book"}
+{"text_a": "In this book, I found something to like, something to learn, something to laugh at and something to cry over.", "text_b": null, "label": "rate book"}
+{"text_a": "I enjoyed reading this", "text_b": null, "label": "rate book"}
+{"text_a": "It's not my cup of tea", "text_b": null, "label": "rate book"}
+{"text_a": "This book was good, but this other book would have been better.", "text_b": null, "label": "rate book"}
+{"text_a": "5 stars.", "text_b": null, "label": "rate book"}
+{"text_a": "This book is excellent", "text_b": null, "label": "rate book"}
+{"text_a": "This book is terrible. If you have to ask for a reason not to read it, I don't want to hear it.", "text_b": null, "label": "rate book"}
+{"text_a": "Yes, this is a good book,", "text_b": null, "label": "rate book"}
+{"text_a": "Yes, the book is a little long and the pacing is a bit off.", "text_b": null, "label": "rate book"}
+{"text_a": "5 out of 5", "text_b": null, "label": "rate book"}
+{"text_a": "Good, or better than average for my taste", "text_b": null, "label": "rate book"}
+{"text_a": "this book is a masterpiece", "text_b": null, "label": "rate book"}
+{"text_a": "This is great", "text_b": null, "label": "rate book"}
+{"text_a": "In 5 stars I would buy this book again", "text_b": null, "label": "rate book"}
+{"text_a": "5 stars", "text_b": null, "label": "rate book"}
+{"text_a": "The most boring book of the year", "text_b": null, "label": "rate book"}
+{"text_a": "This book is a masterpiece, if it was a good writer, this book would be at the top of the list.", "text_b": null, "label": "rate book"}
+{"text_a": "This book has really been worth it.", "text_b": null, "label": "rate book"}
+{"text_a": "Add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Play: /Music/The Beatles", "text_b": null, "label": "add to playlist"}
+{"text_a": "Hey, I would like to add the song ", "text_b": null, "label": "add to playlist"}
+{"text_a": "Okay, do that, then I will add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "This is a playlist that is in my playlist library. I want to add this song to it.", "text_b": null, "label": "add to playlist"}
+{"text_a": "Hey, I want to add X", "text_b": null, "label": "add to playlist"}
+{"text_a": "Playlist add playlist:<insert here>", "text_b": null, "label": "add to playlist"}
+{"text_a": "I don't want the same one twice", "text_b": null, "label": "add to playlist"}
+{"text_a": "Hey, do you have any music to add to that playlist?", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add more of this song.", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add another playlist on the right side of the screen.", "text_b": null, "label": "add to playlist"}
+{"text_a": "I want to add 10 seconds of silence", "text_b": null, "label": "add to playlist"}
+{"text_a": "I need an extra second for the video to load, if it is on YouTube I get a second, if not, I get a zero.", "text_b": null, "label": "add to playlist"}
+{"text_a": "I want to add the song 'Let's Go,' by Taylor Swift to the 'Fantasy' playlist. Can you add it to the playlist?", "text_b": null, "label": "add to playlist"}
+{"text_a": "I have an mp3 of this song in my playlist and I would like to add this song to it", "text_b": null, "label": "add to playlist"}
+{"text_a": "Play: ", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add the playlist to the list", "text_b": null, "label": "add to playlist"}
+{"text_a": "Go to: <filename> and add to playlist. (Or add to your own playlist)", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Let's play a new song from the current playlist.", "text_b": null, "label": "add to playlist"}
+{"text_a": "playlist add playlist_name", "text_b": null, "label": "add to playlist"}
+{"text_a": "add_library = playlist_name", "text_b": null, "label": "add to playlist"}
+{"text_a": "Playlist 1: Music 1", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to playlist, or I need to go to my profile page and do a search", "text_b": null, "label": "add to playlist"}
+{"text_a": "add my song to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to playlist.", "text_b": null, "label": "add to playlist"}
+{"text_a": "Hey Siri, add this to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Hey, you can add this to my playlist.", "text_b": null, "label": "add to playlist"}
+{"text_a": "add playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "I would like to add to playlist...", "text_b": null, "label": "add to playlist"}
+{"text_a": "add it to MyMusic", "text_b": null, "label": "add to playlist"}
+{"text_a": "Playlist created. Add item", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "add_listener (add_item $name - name $value)", "text_b": null, "label": "add to playlist"}
+{"text_a": "Hey, do you want to add it to playlist or not?", "text_b": null, "label": "add to playlist"}
+{"text_a": "My playlist will be added to the playlist list.", "text_b": null, "label": "add to playlist"}
+{"text_a": "Hey, let's add a few seconds to the end of the song.", "text_b": null, "label": "add to playlist"}
+{"text_a": "I want to add this song to the playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add this song to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Let's play playlist 1 and 2 and 3", "text_b": null, "label": "add to playlist"}
+{"text_a": "I added a video to playlist. I want to add something more to playlist.", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add playlist ", "text_b": null, "label": "add to playlist"}
+{"text_a": "playlist.add(item)", "text_b": null, "label": "add to playlist"}
+{"text_a": "The first sentence is awesome, and the book is a good introduction to Haskell.", "text_b": null, "label": "rate book"}
+{"text_a": "this book made me want to buy a book", "text_b": null, "label": "rate book"}
+{"text_a": "Book is a good reading experience, but it leaves a bad taste in my mouth and doesn't feel like a story.", "text_b": null, "label": "rate book"}
+{"text_a": "this book will help you to better understand the core ideas of the subject matter", "text_b": null, "label": "rate book"}
+{"text_a": "I like it, but I'm not really sure.", "text_b": null, "label": "rate book"}
+{"text_a": "I liked the book!", "text_b": null, "label": "rate book"}
+{"text_a": "The title of book X is the best", "text_b": null, "label": "rate book"}
+{"text_a": "I liked it", "text_b": null, "label": "rate book"}
+{"text_a": "This is a book that I would recommend to a friend who is in need of a good introduction to computer science.", "text_b": null, "label": "rate book"}
+{"text_a": "this is a book for a woman", "text_b": null, "label": "rate book"}
+{"text_a": "The writing is not great and the plot is very boring. I can't understand why they chose to create such a bad plot.", "text_b": null, "label": "rate book"}
+{"text_a": "it is good, it is well written, it is entertaining and it has depth", "text_b": null, "label": "rate book"}
+{"text_a": "Great! It's very entertaining and well written. I can't wait for the sequel.", "text_b": null, "label": "rate book"}
+{"text_a": "The book is not bad, it is not very good, it is just okay", "text_b": null, "label": "rate book"}
+{"text_a": "this is the greatest book in the world, let me try to explain to you what it means.", "text_b": null, "label": "rate book"}
+{"text_a": "it was good or it was bad. I don't want to give a score to a book because I am not a professional reader.", "text_b": null, "label": "rate book"}
+{"text_a": "You know it is a little boring, but if I have to have a copy of it at home, I will buy it", "text_b": null, "label": "rate book"}
+{"text_a": "the story was not great, the characters were not strong, and the world was not interesting", "text_b": null, "label": "rate book"}
+{"text_a": "I don't like this book,", "text_b": null, "label": "rate book"}
+{"text_a": "It is so-so, it is so-so", "text_b": null, "label": "rate book"}
+{"text_a": "this book is bad, this book is very good", "text_b": null, "label": "rate book"}
+{"text_a": "this book is good and I can recommend it to you", "text_b": null, "label": "rate book"}
+{"text_a": "I loved this book.", "text_b": null, "label": "rate book"}
+{"text_a": "The book is good, but\u2026", "text_b": null, "label": "rate book"}
+{"text_a": "this book is excellent, highly recommended. Highly recommended!", "text_b": null, "label": "rate book"}
+{"text_a": "I liked it,", "text_b": null, "label": "rate book"}
+{"text_a": "I think it's a little bit boring.", "text_b": null, "label": "rate book"}
+{"text_a": "Great", "text_b": null, "label": "rate book"}
+{"text_a": "If I am at home, it's great.", "text_b": null, "label": "rate book"}
+{"text_a": "I liked it", "text_b": null, "label": "rate book"}
+{"text_a": "Well, this is a good book, but I feel like I've been reading some pretty lame stuff lately", "text_b": null, "label": "rate book"}
+{"text_a": "Very good", "text_b": null, "label": "rate book"}
+{"text_a": "The first 5 pages of this are the best and most engaging part of the book. I would recommend this book to people interested in programming.", "text_b": null, "label": "rate book"}
+{"text_a": "This is an A+++ book.", "text_b": null, "label": "rate book"}
+{"text_a": "This book is worth 10 stars. I recommend this book to all readers of any level.", "text_b": null, "label": "rate book"}
+{"text_a": "I was not impressed", "text_b": null, "label": "rate book"}
+{"text_a": "My favorite thing about this book is that it has great art and is great to read.", "text_b": null, "label": "rate book"}
+{"text_a": "The main character was an interesting, complex, well-written character", "text_b": null, "label": "rate book"}
+{"text_a": "it is a very good, easy read", "text_b": null, "label": "rate book"}
+{"text_a": "This book is the best book I've ever read.", "text_b": null, "label": "rate book"}
+{"text_a": "I added some lyrics to the song, so I will add that here", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add it to my current playlist. And add to my ", "text_b": null, "label": "add to playlist"}
+{"text_a": "add my song to the playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Hey Google Play Music - add to playlists.", "text_b": null, "label": "add to playlist"}
+{"text_a": "Playlist is too long, I have added to it some other song", "text_b": null, "label": "add to playlist"}
+{"text_a": "Open up the playlist in a web browser or an audio player and drag the music file in there.", "text_b": null, "label": "add to playlist"}
+{"text_a": "Okay, the song is in that playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add some more music", "text_b": null, "label": "add to playlist"}
+{"text_a": "I have added the file ", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add all songs that start with this song (i.e. 'Trouble in paradise' by AC/DC)", "text_b": null, "label": "add to playlist"}
+{"text_a": "I don't want to add to playlist, I want to create a new playlist from an existing playlist and add this new playlist to it.", "text_b": null, "label": "add to playlist"}
+{"text_a": "Hey, can you add my name to this playlist?", "text_b": null, "label": "add to playlist"}
+{"text_a": "add more music here", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "add to playlist, add to queue", "text_b": null, "label": "add to playlist"}
+{"text_a": "Playlist: ", "text_b": null, "label": "add to playlist"}
+{"text_a": "add it in a playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Playlist add my playlist to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add some music. You can add any music you like. It is also a good idea to listen to some of the songs while you read.", "text_b": null, "label": "add to playlist"}
+{"text_a": "add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add this song to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add it to the playlist.", "text_b": null, "label": "add to playlist"}
+{"text_a": "You can add to playlist.", "text_b": null, "label": "add to playlist"}
+{"text_a": "add this song to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Playlist (add) -> [name, artist, year]", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add some track from the album 'In the Jungle'", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to playlist with playlistID=", "text_b": null, "label": "add to playlist"}
+{"text_a": "Hey, let's add 10 more songs to the playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add a song from my album", "text_b": null, "label": "add to playlist"}
+{"text_a": "Okay, I want to add a song from the list", "text_b": null, "label": "add to playlist"}
+{"text_a": "Playlist of 3 songs in A,B and C", "text_b": null, "label": "add to playlist"}
+{"text_a": "add playlist to a new window", "text_b": null, "label": "add to playlist"}
+{"text_a": "add new item to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Playlist <name>", "text_b": null, "label": "add to playlist"}
+{"text_a": "Play My Songs", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add this song to the playlist.", "text_b": null, "label": "add to playlist"}
+{"text_a": "Hey Siri, add this song to my playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add it to the Playlist.", "text_b": null, "label": "add to playlist"}
+{"text_a": "I have one song that is not in the playlist.", "text_b": null, "label": "add to playlist"}
+{"text_a": "add a playlist called: my_playlist.mp4", "text_b": null, "label": "add to playlist"}
+{"text_a": "hey you, you have an app with music, can you put this on my phone, I love it", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to playlist by id", "text_b": null, "label": "add to playlist"}
+{"text_a": "I want to play ", "text_b": null, "label": "add to playlist"}
+{"text_a": "Playlist.add(new Playlist('My playlist')", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to playlist.", "text_b": null, "label": "add to playlist"}
+{"text_a": "I have added a new playlist to the list", "text_b": null, "label": "add to playlist"}
+{"text_a": "add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "The quality of this book is very low and that's the main thing", "text_b": null, "label": "rate book"}
+{"text_a": "this was a good read", "text_b": null, "label": "rate book"}
+{"text_a": "This is a great book, but it doesn't match my expectations", "text_b": null, "label": "rate book"}
+{"text_a": "No, this book is not worthy to be rated", "text_b": null, "label": "rate book"}
+{"text_a": "This book is better than the last book I've read.", "text_b": null, "label": "rate book"}
+{"text_a": "I liked it. Very good. But too long and boring, though. Too bad, though.", "text_b": null, "label": "rate book"}
+{"text_a": "I'm not interested in what the book says; I want to know what you wrote about it", "text_b": null, "label": "rate book"}
+{"text_a": "I like this book, and I want to give it five stars.", "text_b": null, "label": "rate book"}
+{"text_a": "it is interesting and a good read.", "text_b": null, "label": "rate book"}
+{"text_a": "Wow, this is a really good book. It was written by a wonderful person, who wrote a great book. I would read it again.", "text_b": null, "label": "rate book"}
+{"text_a": "I like this book", "text_b": null, "label": "rate book"}
+{"text_a": "it's good for me, but it might be better for you", "text_b": null, "label": "rate book"}
+{"text_a": "I enjoyed this book", "text_b": null, "label": "rate book"}
+{"text_a": "it's great. the author has done an excellent job of giving an insight into the character.", "text_b": null, "label": "rate book"}
+{"text_a": "I liked the book. It's ok. Good. Maybe good enough to read.", "text_b": null, "label": "rate book"}
+{"text_a": "I think I would have liked this better if it were a little shorter, or with a lot fewer illustrations.", "text_b": null, "label": "rate book"}
+{"text_a": "This is the best book I have read so far", "text_b": null, "label": "rate book"}
+{"text_a": "The most entertaining book I have ever read.", "text_b": null, "label": "rate book"}
+{"text_a": "I enjoyed reading this book but it was not a book I would want to read again", "text_b": null, "label": "rate book"}
+{"text_a": "5", "text_b": null, "label": "rate book"}
+{"text_a": "I liked it", "text_b": null, "label": "rate book"}
+{"text_a": "If I had a book, it would be this one. Not only is it great to read, it is good.", "text_b": null, "label": "rate book"}
+{"text_a": "This book is so and so", "text_b": null, "label": "rate book"}
+{"text_a": "This is one of the best books I have read so far this year", "text_b": null, "label": "rate book"}
+{"text_a": "This book is an amazing read. There are some parts where the story gets a little confusing, but overall it is well written and has great characters.", "text_b": null, "label": "rate book"}
+{"text_a": "I think that it is a very good book.", "text_b": null, "label": "rate book"}
+{"text_a": "This book has a lot of good ideas in it", "text_b": null, "label": "rate book"}
+{"text_a": "A 5 for originality", "text_b": null, "label": "rate book"}
+{"text_a": "It's a good book.", "text_b": null, "label": "rate book"}
+{"text_a": "Good. One more", "text_b": null, "label": "rate book"}
+{"text_a": "this book was bad and should not be read.", "text_b": null, "label": "rate book"}
+{"text_a": "There is nothing particularly remarkable about this book.", "text_b": null, "label": "rate book"}
+{"text_a": "In case there is anything that you want to know, you can ask me.", "text_b": null, "label": "rate book"}
+{"text_a": "My favourite part of the book is where they meet.", "text_b": null, "label": "rate book"}
+{"text_a": "Very Good", "text_b": null, "label": "rate book"}
+{"text_a": "This was really good, a little bit long, but you can read this in one or two days", "text_b": null, "label": "rate book"}
+{"text_a": "This is a very good book. I like it a lot. It's very well written. I like the fact that it uses the same characters.", "text_b": null, "label": "rate book"}
+{"text_a": "I enjoyed it, I liked it, it was a good read, I can see why my wife would like it, so that is a 1.", "text_b": null, "label": "rate book"}
+{"text_a": "It's good, but I don't want to give away anything", "text_b": null, "label": "rate book"}
+{"text_a": "Good read, but could have done with more detail.", "text_b": null, "label": "rate book"}
+{"text_a": "I liked it but not enough for me to buy the book.", "text_b": null, "label": "rate book"}
+{"text_a": "This is the best book I've read that isn't about politics and war", "text_b": null, "label": "rate book"}
+{"text_a": "It is a good read, but I have nothing else to recommend it", "text_b": null, "label": "rate book"}
+{"text_a": "It's good", "text_b": null, "label": "rate book"}
+{"text_a": "this is one of the best book for me", "text_b": null, "label": "rate book"}
+{"text_a": "I liked it, but I didn't get anything from it", "text_b": null, "label": "rate book"}
+{"text_a": "It is not bad. It is not great. It is just okay.", "text_b": null, "label": "rate book"}
+{"text_a": "Add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "add to playlist: My music is there", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add this song to the playlist.", "text_b": null, "label": "add to playlist"}
+{"text_a": "add this playlist here", "text_b": null, "label": "add to playlist"}
+{"text_a": "Go to playlist and add to queue. Then hit Play. That is it. No clicks, no long load times.", "text_b": null, "label": "add to playlist"}
+{"text_a": "I'm adding a new song to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "I'm going to add to playlist #2", "text_b": null, "label": "add to playlist"}
+{"text_a": "You can add a song by this artist and play it in the playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Hey, do you want me to add to the playlist with this song?", "text_b": null, "label": "add to playlist"}
+{"text_a": "add playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add a song to the playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "OK Google, create a playlist with a name of 'Karma'.", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add me to this playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Play this song in this order", "text_b": null, "label": "add to playlist"}
+{"text_a": "Please create a new playlist with the following content:", "text_b": null, "label": "add to playlist"}
+{"text_a": "Hey, can I add this playlist to the playlist you have already downloaded", "text_b": null, "label": "add to playlist"}
+{"text_a": "Playlist <title>", "text_b": null, "label": "add to playlist"}
+{"text_a": "Play my music here", "text_b": null, "label": "add to playlist"}
+{"text_a": "Okay, what song will you add?", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add it to playlist.", "text_b": null, "label": "add to playlist"}
+{"text_a": "add to playlist.mp3", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to playlist. Please make sure you include the title.", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add this song to your playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "add this song to my playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add this song to playlist ____, but please be respectful.", "text_b": null, "label": "add to playlist"}
+{"text_a": "Okay, let's add some music to the playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Hey, just make a copy of this playlist and make it your default so you don't lose the playlists you've added.", "text_b": null, "label": "add to playlist"}
+{"text_a": "add more songs in the playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to playlist '{music}'", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to playlists", "text_b": null, "label": "add to playlist"}
+{"text_a": "Playlist: [name]", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Ok Google, play 'Karma Police' by Kilo Kish,", "text_b": null, "label": "add to playlist"}
+{"text_a": "I don't want to make a full playlist. I only want to make a playlist that contains items that I do not want to see.", "text_b": null, "label": "add to playlist"}
+{"text_a": "I want to add to playlist 'Music and Movies' playlist.", "text_b": null, "label": "add to playlist"}
+{"text_a": "add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add song from folder /path/to/folder", "text_b": null, "label": "add to playlist"}
+{"text_a": "If you can add any songs into my playlist that are available on Spotify, I'll give you a 50 percent discount.", "text_b": null, "label": "add to playlist"}
+{"text_a": "add playlist x.", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Ok Google, add my album to playlist with song title", "text_b": null, "label": "add to playlist"}
+{"text_a": "add to playlists", "text_b": null, "label": "add to playlist"}
+{"text_a": "Open up the list.", "text_b": null, "label": "add to playlist"}
+{"text_a": "I don't know how to read it. It's confusing.", "text_b": null, "label": "rate book"}
+{"text_a": "I read this book a lot, because this book had a lot of interesting ideas.", "text_b": null, "label": "rate book"}
+{"text_a": "This is really good book. You can find some other reviews, but I like it. It's a good book", "text_b": null, "label": "rate book"}
+{"text_a": "I liked it", "text_b": null, "label": "rate book"}
+{"text_a": "This book is very good. I read it in a few days. I love the author.", "text_b": null, "label": "rate book"}
+{"text_a": "this book is good for kids, this book is good for adults.", "text_b": null, "label": "rate book"}
+{"text_a": "This is excellent, it's like this book, and that book.", "text_b": null, "label": "rate book"}
+{"text_a": "I read this, it was very interesting.", "text_b": null, "label": "rate book"}
+{"text_a": "Good book, but could have used more information or more action", "text_b": null, "label": "rate book"}
+{"text_a": "In the beginning, I liked this book, but later, after reading the other books in the series, I found it very annoying.", "text_b": null, "label": "rate book"}
+{"text_a": "This is the best book I read in 2013", "text_b": null, "label": "rate book"}
+{"text_a": "Good read.", "text_b": null, "label": "rate book"}
+{"text_a": "I enjoyed this book", "text_b": null, "label": "rate book"}
+{"text_a": "Great", "text_b": null, "label": "rate book"}
+{"text_a": "This is the kind of book I like to read when I am really bored", "text_b": null, "label": "rate book"}
+{"text_a": "The book, the first part of this series, was the best.", "text_b": null, "label": "rate book"}
+{"text_a": "This book is good", "text_b": null, "label": "rate book"}
+{"text_a": "this book was so much fun and made me want to read more.", "text_b": null, "label": "rate book"}
+{"text_a": "I liked the plot and the characters.", "text_b": null, "label": "rate book"}
+{"text_a": "The main character is a strong and interesting female lead", "text_b": null, "label": "rate book"}
+{"text_a": "This was a good read, but I did not enjoy it very much.", "text_b": null, "label": "rate book"}
+{"text_a": "The book was good. It was interesting. It made me think, but it didn't push me forward.", "text_b": null, "label": "rate book"}
+{"text_a": "this is good book", "text_b": null, "label": "rate book"}
+{"text_a": "No, that's not one I would want to read.", "text_b": null, "label": "rate book"}
+{"text_a": "A. It was good.", "text_b": null, "label": "rate book"}
+{"text_a": "The story was well done", "text_b": null, "label": "rate book"}
+{"text_a": "Good", "text_b": null, "label": "rate book"}
+{"text_a": "it is a good book, if you have read it, you will enjoy it", "text_b": null, "label": "rate book"}
+{"text_a": "Good book, I like reading it, I want to read more of it", "text_b": null, "label": "rate book"}
+{"text_a": "This is a nice story, a good story.", "text_b": null, "label": "rate book"}
+{"text_a": "I loved this book", "text_b": null, "label": "rate book"}
+{"text_a": "This book was great. This was a good book to read. This was a bad book to read.", "text_b": null, "label": "rate book"}
+{"text_a": "I am only able to rate this book on a scale of 1 to 10, 10 being the best. I have read and thoroughly enjoyed this book.", "text_b": null, "label": "rate book"}
+{"text_a": "I have not read this book", "text_b": null, "label": "rate book"}
+{"text_a": "Very good, a pleasure to read. Highly recommended. I enjoyed it.", "text_b": null, "label": "rate book"}
+{"text_a": "It is a great read, and I found it easy to read. The story is exciting and well-written, and the characters are well developed.", "text_b": null, "label": "rate book"}
+{"text_a": "It's a good book. Good character. I liked it.", "text_b": null, "label": "rate book"}
+{"text_a": "How bad is this book? How bad is this book? ", "text_b": null, "label": "rate book"}
+{"text_a": "I found this book interesting, but I can't really understand why the author chose this topic.", "text_b": null, "label": "rate book"}
+{"text_a": "this is a great book", "text_b": null, "label": "rate book"}
+{"text_a": "5 out of 5", "text_b": null, "label": "rate book"}
+{"text_a": "This book was an average. It has some plot and the characters' personalities were not very interesting, but I like it for what it is", "text_b": null, "label": "rate book"}
+{"text_a": "I can't get into it. It's too confusing, and I can't seem to find any useful information.", "text_b": null, "label": "rate book"}
+{"text_a": "The best novel in the world today, and the best book of the year,", "text_b": null, "label": "rate book"}
+{"text_a": "This is a bad book.", "text_b": null, "label": "rate book"}
+{"text_a": "It's interesting and I enjoyed reading it but I also think this part was a bit repetitive", "text_b": null, "label": "rate book"}
+{"text_a": "This book was a little boring and not my cup of tea, but if you like action and intrigue, I think this is the book for you.", "text_b": null, "label": "rate book"}
+{"text_a": "The book is great. The book has an interesting idea, and the story and plot are fascinating.", "text_b": null, "label": "rate book"}
+{"text_a": "You know, if I want to add to playlist, I will say: ", "text_b": null, "label": "add to playlist"}
+{"text_a": "Playlist.Add('song')", "text_b": null, "label": "add to playlist"}
+{"text_a": "Ok Google, add the next 10 songs", "text_b": null, "label": "add to playlist"}
+{"text_a": "I want to add this song", "text_b": null, "label": "add to playlist"}
+{"text_a": "play this song", "text_b": null, "label": "add to playlist"}
+{"text_a": "Playlist: ", "text_b": null, "label": "add to playlist"}
+{"text_a": "add a new playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Playlist: [id]", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "add music from file <filename>", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add a song to the playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Hey, why not add to my playlist?", "text_b": null, "label": "add to playlist"}
+{"text_a": "Hey, I am adding new song", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to my playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to the Queue", "text_b": null, "label": "add to playlist"}
+{"text_a": "playlist add", "text_b": null, "label": "add to playlist"}
+{"text_a": "Playlist added to X", "text_b": null, "label": "add to playlist"}
+{"text_a": "Hey, I am adding this to the queue, please accept it when it is available", "text_b": null, "label": "add to playlist"}
+{"text_a": "Playlist, create.", "text_b": null, "label": "add to playlist"}
+{"text_a": "add it to the playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Play [playlist name].", "text_b": null, "label": "add to playlist"}
+{"text_a": "add-to-playlist ", "text_b": null, "label": "add to playlist"}
+{"text_a": "Play playlist #1", "text_b": null, "label": "add to playlist"}
+{"text_a": "Hey Google, add some of my music to your Music app", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Listen to the following playlist, in my favorite playlist, in the playlist in this playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "add to playlist, type '*', press enter", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to playlist?", "text_b": null, "label": "add to playlist"}
+{"text_a": "Ok, what playlist did you want to add this new song to?", "text_b": null, "label": "add to playlist"}
+{"text_a": "Playlist.add('some playlists');", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to playlist,", "text_b": null, "label": "add to playlist"}
+{"text_a": "Play this song or playlist on your own computer.", "text_b": null, "label": "add to playlist"}
+{"text_a": "Hey, I can make this playlist in 10 seconds. Can I do that?", "text_b": null, "label": "add to playlist"}
+{"text_a": "add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "hey, add my song to your playlist.", "text_b": null, "label": "add to playlist"}
+{"text_a": "I'm a producer and I want to add a new song. Do you want to add it?", "text_b": null, "label": "add to playlist"}
+{"text_a": "Ok, I am going to add this song.", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Please add my song on the 'I Want' playlist to the 'BPMs' section", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add a song to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add the following to playlist: '$item'", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add a song to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to playlist, but leave out my name.", "text_b": null, "label": "add to playlist"}
+{"text_a": "If there is something in the playlist which you think should be added, let me know", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to my playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "I will add my voice.", "text_b": null, "label": "add to playlist"}
+{"text_a": "Playlist created.", "text_b": null, "label": "add to playlist"}
+{"text_a": "Playlist: My_Greatest_Song", "text_b": null, "label": "add to playlist"}
+{"text_a": "I like this one", "text_b": null, "label": "rate book"}
+{"text_a": "Yes. Not so good.", "text_b": null, "label": "rate book"}
+{"text_a": "Wow, this was very good.", "text_b": null, "label": "rate book"}
+{"text_a": "I like it. I like it. I like it. I like it.", "text_b": null, "label": "rate book"}
+{"text_a": "What is the story and how was it written", "text_b": null, "label": "rate book"}
+{"text_a": "I was not moved by this story.", "text_b": null, "label": "rate book"}
+{"text_a": "This book is amazing!", "text_b": null, "label": "rate book"}
+{"text_a": "I want to rate this book because...", "text_b": null, "label": "rate book"}
+{"text_a": "Good", "text_b": null, "label": "rate book"}
+{"text_a": "It's a really good book.", "text_b": null, "label": "rate book"}
+{"text_a": "The book is very good; good characters; good characters, and, I'm going to say it's worth buying it.", "text_b": null, "label": "rate book"}
+{"text_a": "I enjoyed reading this.", "text_b": null, "label": "rate book"}
+{"text_a": "I don't care about the book.", "text_b": null, "label": "rate book"}
+{"text_a": "I enjoyed this book, but this is really bad", "text_b": null, "label": "rate book"}
+{"text_a": "The first half is good, the second half is not as good as the first half.", "text_b": null, "label": "rate book"}
+{"text_a": "I read it. It was not for me, but I still think it was interesting.", "text_b": null, "label": "rate book"}
+{"text_a": "This book made me want to know more.", "text_b": null, "label": "rate book"}
+{"text_a": "This book was very enjoyable, with a variety of good and bad moments. However, it had a good ending.", "text_b": null, "label": "rate book"}
+{"text_a": "The Good Earth", "text_b": null, "label": "rate book"}
+{"text_a": "it has great writing, a unique premise that is interesting to read about, and a unique setting. I liked it.", "text_b": null, "label": "rate book"}
+{"text_a": "The first half of the book is excellent.", "text_b": null, "label": "rate book"}
+{"text_a": "I will rate book by the following formula: 10-20-30-40-50.", "text_b": null, "label": "rate book"}
+{"text_a": "This book is really good; it's just like that book.", "text_b": null, "label": "rate book"}
+{"text_a": "The story of my life is a tale told by an idiot, full of sound and fury signifying nothing", "text_b": null, "label": "rate book"}
+{"text_a": "This was a great book, but the ending did not fit in with the rest of the story.", "text_b": null, "label": "rate book"}
+{"text_a": "No, not so much", "text_b": null, "label": "rate book"}
+{"text_a": "I enjoyed it.", "text_b": null, "label": "rate book"}
+{"text_a": "This is an excellent, first-rate book.", "text_b": null, "label": "rate book"}
+{"text_a": "this is a very good book, but some part in it doesn't really work, this is what you could say", "text_b": null, "label": "rate book"}
+{"text_a": "In case I don't find anything interesting about the book, it is only because I'm lazy", "text_b": null, "label": "rate book"}
+{"text_a": "This is a really good book, it will get my respect for long time.", "text_b": null, "label": "rate book"}
+{"text_a": "The story is great. The characters are well developed, the setting is intriguing, the language is good.", "text_b": null, "label": "rate book"}
+{"text_a": "I don't like this book, but it's a good book.", "text_b": null, "label": "rate book"}
+{"text_a": "it's not a good story", "text_b": null, "label": "rate book"}
+{"text_a": "This is excellent", "text_b": null, "label": "rate book"}
+{"text_a": "Good reading, great illustrations, nice prose, good story, lots of surprises!", "text_b": null, "label": "rate book"}
+{"text_a": "It is a good book, and a good story.", "text_b": null, "label": "rate book"}
+{"text_a": "I don't like it", "text_b": null, "label": "rate book"}
+{"text_a": "This book is worth the price of a cup of coffee.", "text_b": null, "label": "rate book"}
+{"text_a": "It is one of the best books I have read in a long time.", "text_b": null, "label": "rate book"}
+{"text_a": "Playlist ", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add me to playlist, please.", "text_b": null, "label": "add to playlist"}
+{"text_a": "add the song to my playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "add the track", "text_b": null, "label": "add to playlist"}
+{"text_a": "Let's add this song to a playlist.", "text_b": null, "label": "add to playlist"}
+{"text_a": "Let's add a new video to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "This song is in the playlist.", "text_b": null, "label": "add to playlist"}
+{"text_a": "add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "If I want to add more to playlist, I need to be on this phone", "text_b": null, "label": "add to playlist"}
+{"text_a": "Playlist - 1 of 3.", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add music to playlist with ID:", "text_b": null, "label": "add to playlist"}
+{"text_a": "playlist.add(id)", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add song #123", "text_b": null, "label": "add to playlist"}
+{"text_a": "add it", "text_b": null, "label": "add to playlist"}
+{"text_a": "add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to Playlist.", "text_b": null, "label": "add to playlist"}
+{"text_a": "Play ", "text_b": null, "label": "add to playlist"}
+{"text_a": "I want to add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add item to the end of the current playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add more. Here is my favorite song.", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to my playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add my playlist to this playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "I'll take a video of myself reading my novel out loud to my cat.", "text_b": null, "label": "add to playlist"}
+{"text_a": "Ok Google, find my songs that I want to add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "If I want to add to playlist, I will say: ", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to playlist: My playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add this song to the playlist.", "text_b": null, "label": "add to playlist"}
+{"text_a": "add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "add your music", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "My playlist is a little longer than you would want", "text_b": null, "label": "add to playlist"}
+{"text_a": "I want to add this playlist to my existing playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Play this playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add the song to the playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add To", "text_b": null, "label": "add to playlist"}
+{"text_a": "add it to the playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Playlist.add", "text_b": null, "label": "add to playlist"}
+{"text_a": "hey, add this song to your playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Playlist, make me some playlist.", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add me to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add this track to this playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to playlist.", "text_b": null, "label": "add to playlist"}
+{"text_a": "add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "If it takes me less time to read this book than it did to read the previous one, I'd rather have read it.", "text_b": null, "label": "rate book"}
+{"text_a": "The author is good", "text_b": null, "label": "rate book"}
+{"text_a": "This book has no real characters; it's a fantasy; it's a love story; it's a romantic fantasy", "text_b": null, "label": "rate book"}
+{"text_a": "this is the best book ever written. I want to give it a high star rating.", "text_b": null, "label": "rate book"}
+{"text_a": "I enjoyed this book but not enough to rate it", "text_b": null, "label": "rate book"}
+{"text_a": "this book is really well written", "text_b": null, "label": "rate book"}
+{"text_a": "Good for first three pages, but then it's very slow and very repetitive.", "text_b": null, "label": "rate book"}
+{"text_a": "this is a great book, but I'm not sure it's for me", "text_b": null, "label": "rate book"}
+{"text_a": "This book is good. It has good story. It is not very exciting but it is good.", "text_b": null, "label": "rate book"}
+{"text_a": "How well it describes the world of a person who does not know what the word 'is' means?", "text_b": null, "label": "rate book"}
+{"text_a": "The book was great!", "text_b": null, "label": "rate book"}
+{"text_a": "This book deserves to be rated more than it was.", "text_b": null, "label": "rate book"}
+{"text_a": "This is a very good book, very entertaining, and I can only give it five stars.", "text_b": null, "label": "rate book"}
+{"text_a": "The characters were good", "text_b": null, "label": "rate book"}
+{"text_a": "The book had me completely in it.", "text_b": null, "label": "rate book"}
+{"text_a": "This book made me laugh or that book made me cry", "text_b": null, "label": "rate book"}
+{"text_a": "This is an extremely important book for me. I recommend to everyone to read it.", "text_b": null, "label": "rate book"}
+{"text_a": "I will give this book a 4.4 out of 5 stars", "text_b": null, "label": "rate book"}
+{"text_a": "This book is good.", "text_b": null, "label": "rate book"}
+{"text_a": "How good is the book. How many good or good-ish things can you say about it?", "text_b": null, "label": "rate book"}
+{"text_a": "This book was absolutely amazing, but I was bored out of my mind.", "text_b": null, "label": "rate book"}
+{"text_a": "4-1/2 stars.", "text_b": null, "label": "rate book"}
+{"text_a": "this book is worth the reading", "text_b": null, "label": "rate book"}
+{"text_a": "It's good", "text_b": null, "label": "rate book"}
+{"text_a": "You have read this book, and liked it, and want to read more about it. Do you want to add it to your ", "text_b": null, "label": "rate book"}
+{"text_a": "Well, this book was really good. I enjoyed it", "text_b": null, "label": "rate book"}
+{"text_a": "I loved it", "text_b": null, "label": "rate book"}
+{"text_a": "This is a great book! I think it is a classic.", "text_b": null, "label": "rate book"}
+{"text_a": "Good book", "text_b": null, "label": "rate book"}
+{"text_a": "this book has good writing, is well-researched, and well-written.", "text_b": null, "label": "rate book"}
+{"text_a": "The book is good, but it isn't great.", "text_b": null, "label": "rate book"}
+{"text_a": "The book was good", "text_b": null, "label": "rate book"}
+{"text_a": "this book is a classic", "text_b": null, "label": "rate book"}
+{"text_a": "I've finished reading this book and I like the story.", "text_b": null, "label": "rate book"}
+{"text_a": "My favorite characters are in this book.", "text_b": null, "label": "rate book"}
+{"text_a": "This was great for the money", "text_b": null, "label": "rate book"}
+{"text_a": "I will rate it on my 5-star scale.", "text_b": null, "label": "rate book"}
+{"text_a": "This book is amazing. I just read this book!", "text_b": null, "label": "rate book"}
+{"text_a": "In this book you will find a clear explanation of a concept, such as the relation between a tree and the leaf.", "text_b": null, "label": "rate book"}
+{"text_a": "I liked it", "text_b": null, "label": "rate book"}
+{"text_a": "This book had an interesting idea, but unfortunately it was executed poorly", "text_b": null, "label": "rate book"}
+{"text_a": "There are several things that are not done well in this book. But there is a lot of substance in the story.", "text_b": null, "label": "rate book"}
+{"text_a": "It took me 10-20 minutes and it was easy to understand.", "text_b": null, "label": "rate book"}
+{"text_a": "this is book 4 from my ", "text_b": null, "label": "rate book"}
+{"text_a": "My favorite character", "text_b": null, "label": "rate book"}
+{"text_a": "this is not for me", "text_b": null, "label": "rate book"}
+{"text_a": "Wow, I enjoyed reading this, this is awesome, you should read this", "text_b": null, "label": "rate book"}
+{"text_a": "add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add me to playlist,", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "I think this song is awesome, let's add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to my playlist.", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add more songs to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Play playlist.id/item/0", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add a new playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Let's make a playlist of 'this music' to play when I play this video.", "text_b": null, "label": "add to playlist"}
+{"text_a": "add song from playlist 1", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to playlist: <playlist name>", "text_b": null, "label": "add to playlist"}
+{"text_a": "Playlist: A:B:C", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to playlist?", "text_b": null, "label": "add to playlist"}
+{"text_a": "add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to playlist.", "text_b": null, "label": "add to playlist"}
+{"text_a": "add item to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Please, let me add this track to your playlist.", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add a song", "text_b": null, "label": "add to playlist"}
+{"text_a": "playlist add ", "text_b": null, "label": "add to playlist"}
+{"text_a": "Please enable the autoplay in the playlist options.", "text_b": null, "label": "add to playlist"}
+{"text_a": "add another item to your playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "I will add to playlist when I reach level X", "text_b": null, "label": "add to playlist"}
+{"text_a": "playlist.add(new Song(", "text_b": null, "label": "add to playlist"}
+{"text_a": "Playlist add :playlist-title", "text_b": null, "label": "add to playlist"}
+{"text_a": "add-to-playlist $playlist_id", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "add it to [X list]", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Play ", "text_b": null, "label": "add to playlist"}
+{"text_a": "I like this track, so I want to add it to playlist.", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add more videos to playlist. Please specify title of video.", "text_b": null, "label": "add to playlist"}
+{"text_a": "Play this song with music and music with sound effects", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add it to a playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "add playlist with title: myplaylist_title", "text_b": null, "label": "add to playlist"}
+{"text_a": "Go to playlist, choose playlist from this list", "text_b": null, "label": "add to playlist"}
+{"text_a": "add this song to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add new video", "text_b": null, "label": "add to playlist"}
+{"text_a": "Okay, I added this song.", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add playlist name to the next command and when I click on it, that's the next command.", "text_b": null, "label": "add to playlist"}
+{"text_a": "Please add more song(s)", "text_b": null, "label": "add to playlist"}
+{"text_a": "Play this track from playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "My name is Paul", "text_b": null, "label": "add to playlist"}
+{"text_a": "add it to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Open Spotify.", "text_b": null, "label": "add to playlist"}
+{"text_a": "Go back to your previous playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "Hey, listen to this!", "text_b": null, "label": "add to playlist"}
+{"text_a": "Add to playlist", "text_b": null, "label": "add to playlist"}
+{"text_a": "5", "text_b": null, "label": "rate book"}
+{"text_a": "It has been good, but I don't feel any sense of loss in its absence", "text_b": null, "label": "rate book"}
+{"text_a": "Very good, but I want to know more.", "text_b": null, "label": "rate book"}
+{"text_a": "I liked it", "text_b": null, "label": "rate book"}
+{"text_a": "Good for a first book", "text_b": null, "label": "rate book"}
+{"text_a": "This is an extremely strong book that I enjoyed very much", "text_b": null, "label": "rate book"}
+{"text_a": "Wow, it is really really good. I'm glad I read it.", "text_b": null, "label": "rate book"}
+{"text_a": "I didn't like this book.", "text_b": null, "label": "rate book"}
+{"text_a": "I read this book, I like it, I rate it 5 stars.", "text_b": null, "label": "rate book"}
+{"text_a": "This book was interesting. I didn't really like the way it was told but I'm going to give it a 3 because it was very funny", "text_b": null, "label": "rate book"}
+{"text_a": "the story was great", "text_b": null, "label": "rate book"}
+{"text_a": "this book is good", "text_b": null, "label": "rate book"}
+{"text_a": "it is very good but a bit too slow for my tastes", "text_b": null, "label": "rate book"}
+{"text_a": "this is a book for a woman of my own age", "text_b": null, "label": "rate book"}
+{"text_a": "I read this book.", "text_b": null, "label": "rate book"}
+{"text_a": "I have read this book, I think it is interesting, it is well written, I have some problems with it.", "text_b": null, "label": "rate book"}
+{"text_a": "I really like that book", "text_b": null, "label": "rate book"}
+{"text_a": "This is a good book and should be read. This book is a failure and should be skipped.", "text_b": null, "label": "rate book"}
+{"text_a": "This is a very good book.", "text_b": null, "label": "rate book"}
+{"text_a": "5-star", "text_b": null, "label": "rate book"}
+{"text_a": "This is a very good book", "text_b": null, "label": "rate book"}
+{"text_a": "The characters are good, the story is good, and the story is good because of the characters.", "text_b": null, "label": "rate book"}
+{"text_a": "Book is good.", "text_b": null, "label": "rate book"}
+{"text_a": "The only thing that matters is its contents. If there is no way you could change it, it has to be a 5 out of 5", "text_b": null, "label": "rate book"}
+{"text_a": "Good", "text_b": null, "label": "rate book"}
+{"text_a": "this is a 5/5, this is a 4/5, this is a 3/5", "text_b": null, "label": "rate book"}
+{"text_a": "It is worth reading", "text_b": null, "label": "rate book"}
+{"text_a": "5 star", "text_b": null, "label": "rate book"}
+{"text_a": "I want to be in the middle of the book, not the end.", "text_b": null, "label": "rate book"}
+{"text_a": "The story is good, and the writing is good", "text_b": null, "label": "rate book"}
+{"text_a": "No, not really, no, but there is a part I like and some I don't.", "text_b": null, "label": "rate book"}
+{"text_a": "The story is the protagonist.", "text_b": null, "label": "rate book"}
+{"text_a": "This book is better than the one I'm reading now.", "text_b": null, "label": "rate book"}
+{"text_a": "This was an interesting read", "text_b": null, "label": "rate book"}
+{"text_a": "Wow! This is a great book!", "text_b": null, "label": "rate book"}
+{"text_a": "I think this book will be worth reading.", "text_b": null, "label": "rate book"}
+{"text_a": "The last third of the book is great. The last half is good.", "text_b": null, "label": "rate book"}
+{"text_a": "It took me 20 minutes of intense concentration to read this book. After 20 minutes, I still couldn't say the last two words.", "text_b": null, "label": "rate book"}
+{"text_a": "I like this. It's okay.", "text_b": null, "label": "rate book"}
+{"text_a": "it's great, it is a good book.", "text_b": null, "label": "rate book"}
+{"text_a": "I think it would be great if someone made a book like this.", "text_b": null, "label": "rate book"}
+{"text_a": "it was great", "text_b": null, "label": "rate book"}

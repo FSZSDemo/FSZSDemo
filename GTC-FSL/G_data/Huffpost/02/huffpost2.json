@@ -1,0 +1,18 @@
+{"task_name": "huffpost222", 
+"labels": {
+"20": {"instruction": "A news headline about crime: \"", "counter_labels": []}, 
+"22": {"instruction": "A news headline about weird news: \"", "counter_labels": []}, 
+"40": {"instruction": "A news headline about education: \"", "counter_labels": []}, 
+"4": {"instruction": "A news headline about style and beauty: \"", "counter_labels": []},
+"3": {"instruction": "A news headline about travel: \"", "counter_labels": []},
+"36": {"instruction": "A news headline about environment: \"", "counter_labels": []}, 
+"26": {"instruction": "A news headline about style: \"", "counter_labels": []},
+"24": {"instruction": "A news headline about worldpost: \"", "counter_labels": []}, 
+"16": {"instruction": "A news headline about weddings: \"", "counter_labels": []}, 
+"14": {"instruction": "A news headline about green: \"", "counter_labels": []}, 
+"5": {"instruction": "A news headline about parents: \"", "counter_labels": []},
+"28": {"instruction": "A news headline about world news: \"", "counter_labels": []},
+"1": {"instruction": "A news headline about wellness: \"", "counter_labels": []},
+"23": {"instruction": "A news headline about green: \"", "counter_labels": []}, 
+"19": {"instruction": "A news headline about divorce: \"", "counter_labels": []}, 
+"38": {"instruction": "A news headline about latino voices: \"", "counter_labels": []}}}

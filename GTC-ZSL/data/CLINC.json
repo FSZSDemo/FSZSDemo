@@ -1,0 +1,1500 @@
+{"text_a": "how many dollars can i exchange for 10 yen", "label": "exchange rate"}
+{"text_a": "go back to the factory settings for this device", "label": "reset settings"}
+{"text_a": "can you freeze my bank account", "label": "freeze account"}
+{"text_a": "do you have a name i should call you by", "label": "what is your name"}
+{"text_a": "what is your preferred name", "label": "what is your name"}
+{"text_a": "what is your birthday again", "label": "how old are you"}
+{"text_a": "are there any travel alerts for mountain view", "label": "travel alert"}
+{"text_a": "i wish to cancel my reservation for fred at red robin", "label": "cancel reservation"}
+{"text_a": "i want you to go back to factory settings", "label": "reset settings"}
+{"text_a": "how should i address you", "label": "what is your name"}
+{"text_a": "help me find where i am", "label": "current location"}
+{"text_a": "turn off my bank account", "label": "freeze account"}
+{"text_a": "do i have butter on my list", "label": "shopping list"}
+{"text_a": "stop any future processing on my savings account", "label": "freeze account"}
+{"text_a": "how do you say your name", "label": "what is your name"}
+{"text_a": "exchange rate between mexico and us", "label": "exchange rate"}
+{"text_a": "i need you to cancel my reservation for 5 at red robin", "label": "cancel reservation"}
+{"text_a": "how old are you", "label": "how old are you"}
+{"text_a": "is it dangerous to travel to mexico", "label": "travel alert"}
+{"text_a": "i'd like to switch back to my factory settings", "label": "reset settings"}
+{"text_a": "use the map and pinpoint my position", "label": "current location"}
+{"text_a": "did i remember to put eggs on my shopping list", "label": "shopping list"}
+{"text_a": "what's your first name", "label": "what is your name"}
+{"text_a": "when did you come to exist", "label": "how old are you"}
+{"text_a": "place a stop on my main account for me please", "label": "freeze account"}
+{"text_a": "what is your current age", "label": "how old are you"}
+{"text_a": "i'd like to know your name", "label": "what is your name"}
+{"text_a": "switch back to your factory settings", "label": "reset settings"}
+{"text_a": "i want to know when a bill is due", "label": "bill due"}
+{"text_a": "can you tell me today's rate for cad to usd", "label": "exchange rate"}
+{"text_a": "i need to know when my water bill is due", "label": "bill due"}
+{"text_a": "i'd like to cancel the party of 7 we reserved at the olive garden", "label": "cancel reservation"}
+{"text_a": "how old are you turning", "label": "how old are you"}
+{"text_a": "what do you go by", "label": "what is your name"}
+{"text_a": "what's 10 euros in dollars", "label": "exchange rate"}
+{"text_a": "what's the name you like to be called", "label": "what is your name"}
+{"text_a": "do you know your name", "label": "what is your name"}
+{"text_a": "whats rupees dollars in 30", "label": "exchange rate"}
+{"text_a": "when's the rent due", "label": "bill due"}
+{"text_a": "please introduce yourself", "label": "what is your name"}
+{"text_a": "can i cancel my reservation for 4 at red robin", "label": "cancel reservation"}
+{"text_a": "i need you to switch to my original settings", "label": "reset settings"}
+{"text_a": "when were you created", "label": "how old are you"}
+{"text_a": "cancel my reservation for dinner this saturday, please", "label": "cancel reservation"}
+{"text_a": "can you cancel my reservation on tuesday for chris at stella maris", "label": "cancel reservation"}
+{"text_a": "how do i find out when my visa bill is due", "label": "bill due"}
+{"text_a": "when were you made", "label": "how old are you"}
+{"text_a": "can you give me the travel alerts for jalisco, mexico", "label": "travel alert"}
+{"text_a": "find out where i am on the map", "label": "current location"}
+{"text_a": "make my settings go back to their factory settings", "label": "reset settings"}
+{"text_a": "who gave you your name", "label": "what is your name"}
+{"text_a": "how many years are you", "label": "how old are you"}
+{"text_a": "i want factory settings restores right now", "label": "reset settings"}
+{"text_a": "go back to default settings", "label": "reset settings"}
+{"text_a": "reset the factory settings now please", "label": "reset settings"}
+{"text_a": "please do a stop on my bank account", "label": "freeze account"}
+{"text_a": "abandon the dinner reservation i made", "label": "cancel reservation"}
+{"text_a": "please tell me your date of birth", "label": "how old are you"}
+{"text_a": "how many years have you been alive", "label": "how old are you"}
+{"text_a": "what name do you go by", "label": "what is your name"}
+{"text_a": "how many years do you have", "label": "how old are you"}
+{"text_a": "what are all the things on the shopping list", "label": "shopping list"}
+{"text_a": "i want to reset your settings to the original", "label": "reset settings"}
+{"text_a": "would it be safe to go to columbia", "label": "travel alert"}
+{"text_a": "please cancel my 7:30 reservation for morton's", "label": "cancel reservation"}
+{"text_a": "how are you named", "label": "what is your name"}
+{"text_a": "how old are you now", "label": "how old are you"}
+{"text_a": "travel alert in cuba", "label": "travel alert"}
+{"text_a": "ai, what can i call you", "label": "what is your name"}
+{"text_a": "is there milk on my shopping list", "label": "shopping list"}
+{"text_a": "make all settings the initial defaults if you would", "label": "reset settings"}
+{"text_a": "i no longer need my reservation with carl at umami", "label": "cancel reservation"}
+{"text_a": "what is the exchange rate between british pounds and yen", "label": "exchange rate"}
+{"text_a": "i need to cancel my reservations", "label": "cancel reservation"}
+{"text_a": "what's on my shopping list", "label": "shopping list"}
+{"text_a": "may i have your name", "label": "what is your name"}
+{"text_a": "how many us dollars can i get for 20 euros", "label": "exchange rate"}
+{"text_a": "what's the danger level of flying to russia right now", "label": "travel alert"}
+{"text_a": "give me your name", "label": "what is your name"}
+{"text_a": "when is my water bill due", "label": "bill due"}
+{"text_a": "please put a block on my capital one account immediately", "label": "freeze account"}
+{"text_a": "undo my reservation for 5 at the loft", "label": "cancel reservation"}
+{"text_a": "i'll have to cancel my reservation for tonight", "label": "cancel reservation"}
+{"text_a": "if i got to indonesia is it safe", "label": "travel alert"}
+{"text_a": "can you put a stop on my bank account", "label": "freeze account"}
+{"text_a": "what's the name i should use to talk to you", "label": "what is your name"}
+{"text_a": "i'd like to see if there's a travel alert for the country", "label": "travel alert"}
+{"text_a": "what is the rate for 500 cad in usd", "label": "exchange rate"}
+{"text_a": "please tell me your age", "label": "how old are you"}
+{"text_a": "would you let me know what is on my shopping list", "label": "shopping list"}
+{"text_a": "i'd like to know where i am", "label": "current location"}
+{"text_a": "can you tell me when my cable bill is due", "label": "bill due"}
+{"text_a": "and your name is", "label": "what is your name"}
+{"text_a": "i'm lost", "label": "current location"}
+{"text_a": "i need you to reset your factory settings", "label": "reset settings"}
+{"text_a": "i need to know the items on my shopping list", "label": "shopping list"}
+{"text_a": "would you tell me your name", "label": "what is your name"}
+{"text_a": "how long until my water bill is due", "label": "bill due"}
+{"text_a": "now i'd like for you to return to the original settings", "label": "reset settings"}
+{"text_a": "i would like to know when you were born", "label": "how old are you"}
+{"text_a": "can you tell me when you were born", "label": "how old are you"}
+{"text_a": "what can i call you", "label": "what is your name"}
+{"text_a": "i want to cancel my reservation for 5 at red robin", "label": "cancel reservation"}
+{"text_a": "is it safe to travel to china", "label": "travel alert"}
+{"text_a": "when is my next car payment", "label": "bill due"}
+{"text_a": "what day is my bill due", "label": "bill due"}
+{"text_a": "provide the name i should use to refer to you", "label": "what is your name"}
+{"text_a": "name the items on my shopping list", "label": "shopping list"}
+{"text_a": "what is the due date of my bill", "label": "bill due"}
+{"text_a": "what is the amount of dollars i get if i trade in 6 yens", "label": "exchange rate"}
+{"text_a": "how many dollars can i exchange for 75 euros", "label": "exchange rate"}
+{"text_a": "what name was given to you", "label": "what is your name"}
+{"text_a": "i'd like to revert to factory settings", "label": "reset settings"}
+{"text_a": "what's the name you were given", "label": "what is your name"}
+{"text_a": "what was your name again", "label": "what is your name"}
+{"text_a": "please return to default settings", "label": "reset settings"}
+{"text_a": "please tell me your name", "label": "what is your name"}
+{"text_a": "let me know my current location", "label": "current location"}
+{"text_a": "what day is my car insurance due", "label": "bill due"}
+{"text_a": "exchange rate to go from dollar to yen", "label": "exchange rate"}
+{"text_a": "current location please", "label": "current location"}
+{"text_a": "where did you grow up", "label": "how old are you"}
+{"text_a": "what are the gps coordinates where i am located", "label": "current location"}
+{"text_a": "revert to your factory settings", "label": "reset settings"}
+{"text_a": "are you young or old", "label": "how old are you"}
+{"text_a": "i want to know your name", "label": "what is your name"}
+{"text_a": "will you please read the things on my shopping list", "label": "shopping list"}
+{"text_a": "i need to switch back to my factory settings", "label": "reset settings"}
+{"text_a": "how do i ascertain when my next insurance payment will be", "label": "bill due"}
+{"text_a": "where am i on gps", "label": "current location"}
+{"text_a": "let me know how old you are", "label": "how old are you"}
+{"text_a": "are there any travel alerts for north korea", "label": "travel alert"}
+{"text_a": "forget reservation at longhorn for 4", "label": "cancel reservation"}
+{"text_a": "what location is this", "label": "current location"}
+{"text_a": "convert 100 dollars to euros", "label": "exchange rate"}
+{"text_a": "can you show me where i am on a map", "label": "current location"}
+{"text_a": "can you tell me if i have paper towels on my shopping list", "label": "shopping list"}
+{"text_a": "how much is $1 usd worth in euros", "label": "exchange rate"}
+{"text_a": "restore your original settings now", "label": "reset settings"}
+{"text_a": "where am i located currently", "label": "current location"}
+{"text_a": "is there a travel alert in spain", "label": "travel alert"}
+{"text_a": "search for any travel alerts for canada", "label": "travel alert"}
+{"text_a": "start over using factory setting", "label": "reset settings"}
+{"text_a": "repeal the dinner reservation", "label": "cancel reservation"}
+{"text_a": "please freeze my bank account", "label": "freeze account"}
+{"text_a": "what name should i use to call for you", "label": "what is your name"}
+{"text_a": "for how long have you existed", "label": "how old are you"}
+{"text_a": "end my reservation with carl at umami", "label": "cancel reservation"}
+{"text_a": "should i be worried about any travel alerts for that country", "label": "travel alert"}
+{"text_a": "please change back to initial device settings", "label": "reset settings"}
+{"text_a": "what's the currency conversion between rubles and dollars", "label": "exchange rate"}
+{"text_a": "place a hold on my bank account", "label": "freeze account"}
+{"text_a": "is the bill due this week", "label": "bill due"}
+{"text_a": "are there any travel alerts for russia", "label": "travel alert"}
+{"text_a": "what is the exact due date for my mortgage payment", "label": "bill due"}
+{"text_a": "how do i know when to pay my gas bill", "label": "bill due"}
+{"text_a": "does mexico have any travel alerts i should know about", "label": "travel alert"}
+{"text_a": "how many more days before my verizon bill is due", "label": "bill due"}
+{"text_a": "what do you want me to call you", "label": "what is your name"}
+{"text_a": "what is the name i should use to refer to you", "label": "what is your name"}
+{"text_a": "is milk one of the things i need to buy", "label": "shopping list"}
+{"text_a": "pause my account", "label": "freeze account"}
+{"text_a": "tell me my shopping list", "label": "shopping list"}
+{"text_a": "do you have a preference regarding what i should call you", "label": "what is your name"}
+{"text_a": "how many dollars can i exchange for 10000 rubles", "label": "exchange rate"}
+{"text_a": "what would your age be", "label": "how old are you"}
+{"text_a": "what's my map location", "label": "current location"}
+{"text_a": "how long before my lawn guy bill's due", "label": "bill due"}
+{"text_a": "change back to the factory set up", "label": "reset settings"}
+{"text_a": "i have a reservation at pizza hut under the name leia roberts and i want to cancel it", "label": "cancel reservation"}
+{"text_a": "when do i have to pay my gas bill by", "label": "bill due"}
+{"text_a": "your date of birth", "label": "how old are you"}
+{"text_a": "what's your age", "label": "how old are you"}
+{"text_a": "how much is twenty pounds sterling in us dollars", "label": "exchange rate"}
+{"text_a": "am i supposed to buy milk", "label": "shopping list"}
+{"text_a": "alerts for travel in colombia", "label": "travel alert"}
+{"text_a": "how many dollars can i exchange for 25 euros", "label": "exchange rate"}
+{"text_a": "i need to know when i must pay my car bill", "label": "bill due"}
+{"text_a": "what's 50 euro in dollars", "label": "exchange rate"}
+{"text_a": "tell me where i am on a map", "label": "current location"}
+{"text_a": "i would like you to put a stop on my bank account", "label": "freeze account"}
+{"text_a": "what is the due date on my xfinity internet bill for february", "label": "bill due"}
+{"text_a": "cancel the reservation for joe and i right now for the zephers reservation we had booked", "label": "cancel reservation"}
+{"text_a": "i need to cancel my reservation after all", "label": "cancel reservation"}
+{"text_a": "i need to know about travel alerts for mexico", "label": "travel alert"}
+{"text_a": "what's your age alexa", "label": "how old are you"}
+{"text_a": "us and mexico exchange rate", "label": "exchange rate"}
+{"text_a": "is it safe for people to travel to pakistan", "label": "travel alert"}
+{"text_a": "i need to know your age", "label": "how old are you"}
+{"text_a": "when's the gas bill due", "label": "bill due"}
+{"text_a": "lemme know when you were born", "label": "how old are you"}
+{"text_a": "i'd like to know how old you are", "label": "how old are you"}
+{"text_a": "what date were you created on", "label": "how old are you"}
+{"text_a": "i would like to know your name", "label": "what is your name"}
+{"text_a": "does the shopping list have apples on it", "label": "shopping list"}
+{"text_a": "any alerts for travelers to canada", "label": "travel alert"}
+{"text_a": "do you have a name that i can call you", "label": "what is your name"}
+{"text_a": "are there any alerts for traveling in belize", "label": "travel alert"}
+{"text_a": "please reset to factory settings", "label": "reset settings"}
+{"text_a": "please locate me on the map and show me", "label": "current location"}
+{"text_a": "please make sure my account is frozen", "label": "freeze account"}
+{"text_a": "can you tell me the due date for the water bill", "label": "bill due"}
+{"text_a": "what's the exchange rate between ils and usd", "label": "exchange rate"}
+{"text_a": "i need for you to tell me what is on my shopping list", "label": "shopping list"}
+{"text_a": "have there been any travel alerts for the us", "label": "travel alert"}
+{"text_a": "how long have you been alive", "label": "how old are you"}
+{"text_a": "show my position on the map", "label": "current location"}
+{"text_a": "tell me when my water bill is due", "label": "bill due"}
+{"text_a": "tell me the things on my shopping list", "label": "shopping list"}
+{"text_a": "can you cancel my 5:30 pm table reservation at parc", "label": "cancel reservation"}
+{"text_a": "change my reservation with carl at umami to canceled", "label": "cancel reservation"}
+{"text_a": "change back to default settings", "label": "reset settings"}
+{"text_a": "make sure my reservation at umami with carl is canceled", "label": "cancel reservation"}
+{"text_a": "what's my current location", "label": "current location"}
+{"text_a": "do you know when you were born", "label": "how old are you"}
+{"text_a": "is my at&t bill do soon", "label": "bill due"}
+{"text_a": "how do i find my location, please", "label": "current location"}
+{"text_a": "please turn on factory settings", "label": "reset settings"}
+{"text_a": "tell me what i can find on the shopping list", "label": "shopping list"}
+{"text_a": "could you freeze my account now", "label": "freeze account"}
+{"text_a": "i don't need my reservation, cancel it", "label": "cancel reservation"}
+{"text_a": "put a stop on my deposit account", "label": "freeze account"}
+{"text_a": "are there any travel bulletins about haiti", "label": "travel alert"}
+{"text_a": "is las vegas a safe place to visit", "label": "travel alert"}
+{"text_a": "could you find my location on the map, please", "label": "current location"}
+{"text_a": "show me where i am", "label": "current location"}
+{"text_a": "please cancel my reservation for 5 at red robin", "label": "cancel reservation"}
+{"text_a": "when should i pay my pg&e bill", "label": "bill due"}
+{"text_a": "can we stop my bank account", "label": "freeze account"}
+{"text_a": "i wanna know your name", "label": "what is your name"}
+{"text_a": "does a travel alert exist for that country", "label": "travel alert"}
+{"text_a": "i need to cancel my reservation for rob at red robin", "label": "cancel reservation"}
+{"text_a": "can you read the things on my shopping list", "label": "shopping list"}
+{"text_a": "what is your birth date", "label": "how old are you"}
+{"text_a": "what is available on the shopping list", "label": "shopping list"}
+{"text_a": "i would love to know the exchange rate between rubles and pounds", "label": "exchange rate"}
+{"text_a": "revert back to your factory settings", "label": "reset settings"}
+{"text_a": "you got to go back to factory settings now", "label": "reset settings"}
+{"text_a": "when is my car insurance bill due", "label": "bill due"}
+{"text_a": "do i already have cereal on my shopping list", "label": "shopping list"}
+{"text_a": "cancel my reservation for dinner tonight, please", "label": "cancel reservation"}
+{"text_a": "when do i have to pay my electric bill by", "label": "bill due"}
+{"text_a": "you need all five answers", "label": "current location"}
+{"text_a": "tell the restaurant to cancel my reservation", "label": "cancel reservation"}
+{"text_a": "what is your age", "label": "how old are you"}
+{"text_a": "would i be safe if i traveled to japan", "label": "travel alert"}
+{"text_a": "please reset to factory settings at once", "label": "reset settings"}
+{"text_a": "i need to know when my electricity bill is due", "label": "bill due"}
+{"text_a": "please turn my settings back to the original settings", "label": "reset settings"}
+{"text_a": "can you tell me what i have on my shopping list", "label": "shopping list"}
+{"text_a": "are there any travel alerts for china", "label": "travel alert"}
+{"text_a": "is there a travel alert for north korea", "label": "travel alert"}
+{"text_a": "have there been any travel alerts issued for france", "label": "travel alert"}
+{"text_a": "usd to yen is what right now", "label": "exchange rate"}
+{"text_a": "what is al's age", "label": "how old are you"}
+{"text_a": "what is your name by chance", "label": "what is your name"}
+{"text_a": "please tell me the current location", "label": "current location"}
+{"text_a": "list of countries with travel alerts", "label": "travel alert"}
+{"text_a": "i'd like to know what to call you", "label": "what is your name"}
+{"text_a": "prioritize to the settings you started with", "label": "reset settings"}
+{"text_a": "can i cancel my reservations please", "label": "cancel reservation"}
+{"text_a": "how safe is it to visit spain", "label": "travel alert"}
+{"text_a": "what is the exchange rate in pesos for 100 dollars", "label": "exchange rate"}
+{"text_a": "revert to your factory settings, please", "label": "reset settings"}
+{"text_a": "what is 56 dollars in yen", "label": "exchange rate"}
+{"text_a": "tell me the current exchange rate between cad and euros", "label": "exchange rate"}
+{"text_a": "the reservation i have isn't needed any more", "label": "cancel reservation"}
+{"text_a": "can you me what they call you", "label": "what is your name"}
+{"text_a": "how old are you in 2019", "label": "how old are you"}
+{"text_a": "what's the location where i am", "label": "current location"}
+{"text_a": "let me know the exchange rate between dollars and rubles", "label": "exchange rate"}
+{"text_a": "please rely on your original settings", "label": "reset settings"}
+{"text_a": "i need you to cancel my reservation for smith at the williams diner", "label": "cancel reservation"}
+{"text_a": "would you like to introduce yourself", "label": "what is your name"}
+{"text_a": "could you pull up my location on the map", "label": "current location"}
+{"text_a": "what is the exchange rate between us dollars and japanese yen", "label": "exchange rate"}
+{"text_a": "did i add salt to my shopping list", "label": "shopping list"}
+{"text_a": "what is the exchange rate between rubles and us dollars", "label": "exchange rate"}
+{"text_a": "what do they call you, ai", "label": "what is your name"}
+{"text_a": "what do they call you", "label": "what is your name"}
+{"text_a": "what's 100 dollars in euros", "label": "exchange rate"}
+{"text_a": "what's your birth date", "label": "how old are you"}
+{"text_a": "i want to go back to the factory settings", "label": "reset settings"}
+{"text_a": "hey how old are you", "label": "how old are you"}
+{"text_a": "could you please reset your factory settings", "label": "reset settings"}
+{"text_a": "factory settings restoration", "label": "reset settings"}
+{"text_a": "cancel my reservation at osteria for our party", "label": "cancel reservation"}
+{"text_a": "ai, do you like your name", "label": "what is your name"}
+{"text_a": "please let me know what is on my shopping list", "label": "shopping list"}
+{"text_a": "can you alert me when my phone bill is due", "label": "bill due"}
+{"text_a": "where am i", "label": "current location"}
+{"text_a": "i need my savings account placed under a block as soon as possible", "label": "freeze account"}
+{"text_a": "let me know when you were born", "label": "how old are you"}
+{"text_a": "does north korea have any travel alerts i should be aware of", "label": "travel alert"}
+{"text_a": "what's the due date for the renting bill", "label": "bill due"}
+{"text_a": "i want my bank account frozen", "label": "freeze account"}
+{"text_a": "i am going to need a block put on my chase account right away", "label": "freeze account"}
+{"text_a": "whats your age", "label": "how old are you"}
+{"text_a": "how shall i find my current location", "label": "current location"}
+{"text_a": "my reservation is no longer needed", "label": "cancel reservation"}
+{"text_a": "i want to cancel the reservation for mercury at the ritz", "label": "cancel reservation"}
+{"text_a": "my shopping list contains what", "label": "shopping list"}
+{"text_a": "hello, i need to cancel tonight's reservation for dinner", "label": "cancel reservation"}
+{"text_a": "how many years have you been living", "label": "how old are you"}
+{"text_a": "are there any alerts for travelling to beirut", "label": "travel alert"}
+{"text_a": "please cancel my dinner reservation", "label": "cancel reservation"}
+{"text_a": "when is my cell phone bill due", "label": "bill due"}
+{"text_a": "please put my account on hold", "label": "freeze account"}
+{"text_a": "how many years has al been on earth", "label": "how old are you"}
+{"text_a": "what name do you go by, ai", "label": "what is your name"}
+{"text_a": "what's the exchange rate between dollars and pesos", "label": "exchange rate"}
+{"text_a": "can you tell me if there's a travel alert for that country", "label": "travel alert"}
+{"text_a": "what is the exchange rate between euros and pesos", "label": "exchange rate"}
+{"text_a": "can i safely travel to brazil", "label": "travel alert"}
+{"text_a": "who am i speaking with", "label": "what is your name"}
+{"text_a": "i need to block all transactions from going through on my citi checking account straight away", "label": "freeze account"}
+{"text_a": "tell me how to find my current location", "label": "current location"}
+{"text_a": "could you put a stop on my bank account", "label": "freeze account"}
+{"text_a": "talk to me about where im at right now", "label": "current location"}
+{"text_a": "do you know when i need to pay my mastercard", "label": "bill due"}
+{"text_a": "can you put a stop on my account", "label": "freeze account"}
+{"text_a": "i am needing to know when you were born", "label": "how old are you"}
+{"text_a": "what name should i use when talking with you", "label": "what is your name"}
+{"text_a": "i need my reservation to be cancelled for nugget to xiomara's restaurant", "label": "cancel reservation"}
+{"text_a": "where am i on the map", "label": "current location"}
+{"text_a": "get rid of my 2 pm reservation at ruth's steakhouse", "label": "cancel reservation"}
+{"text_a": "tell me when i have to pay my bill", "label": "bill due"}
+{"text_a": "did i forget to put protein shakes on my shopping list", "label": "shopping list"}
+{"text_a": "is mexico a safe place", "label": "travel alert"}
+{"text_a": "how many canadian dollars can i get for 5 us dollars", "label": "exchange rate"}
+{"text_a": "can you return to the factory fresh settings", "label": "reset settings"}
+{"text_a": "convert 200 us dollars to british pounds", "label": "exchange rate"}
+{"text_a": "how much is my water bill", "label": "bill due"}
+{"text_a": "please tell me my present gps coordinates", "label": "current location"}
+{"text_a": "us dollars to uk", "label": "exchange rate"}
+{"text_a": "scrap that dinner reservation", "label": "cancel reservation"}
+{"text_a": "when was your birth", "label": "how old are you"}
+{"text_a": "cancel the reservation at olive garden for tommy", "label": "cancel reservation"}
+{"text_a": "i would appreciate it if you put a stop on my bank account", "label": "freeze account"}
+{"text_a": "open map and pin point my location", "label": "current location"}
+{"text_a": "find me the exchange rate between usd and cad", "label": "exchange rate"}
+{"text_a": "does kenya have any travel alerts right now", "label": "travel alert"}
+{"text_a": "what are my gps coordinates at this location", "label": "current location"}
+{"text_a": "on what day and date of what year were you born", "label": "how old are you"}
+{"text_a": "is milk on my shopping list", "label": "shopping list"}
+{"text_a": "what do i currently have on my shopping list", "label": "shopping list"}
+{"text_a": "recite the items i'm planning to purchase", "label": "shopping list"}
+{"text_a": "reset to your natural settings", "label": "reset settings"}
+{"text_a": "there is no need to confirm my reservation", "label": "cancel reservation"}
+{"text_a": "did i include butter in my shopping list", "label": "shopping list"}
+{"text_a": "call off the dinner reservation", "label": "cancel reservation"}
+{"text_a": "please go back to the original settings", "label": "reset settings"}
+{"text_a": "list out what is on my shopping list", "label": "shopping list"}
+{"text_a": "hey siri, please cancel my reservation at the loft for 5", "label": "cancel reservation"}
+{"text_a": "would you tell me your age", "label": "how old are you"}
+{"text_a": "tell me about yourself", "label": "what is your name"}
+{"text_a": "when's my heater bill due", "label": "bill due"}
+{"text_a": "does germany have any travel alerts i should be aware of", "label": "travel alert"}
+{"text_a": "did i remember to add milk to my shopping list", "label": "shopping list"}
+{"text_a": "is it too much trouble to put a stop on my bank account", "label": "freeze account"}
+{"text_a": "revert back to your factory settings, please", "label": "reset settings"}
+{"text_a": "what did i put on my shopping list", "label": "shopping list"}
+{"text_a": "i need my account frozen", "label": "freeze account"}
+{"text_a": "what's your name", "label": "what is your name"}
+{"text_a": "are there any travel alerts in that region", "label": "travel alert"}
+{"text_a": "where can i find when my car payment bill is due", "label": "bill due"}
+{"text_a": "can you tell me dollars to franks", "label": "exchange rate"}
+{"text_a": "what did i put on my shopping list so far", "label": "shopping list"}
+{"text_a": "what's dollars yen in 10", "label": "exchange rate"}
+{"text_a": "change to factory settings now", "label": "reset settings"}
+{"text_a": "argentina travel alert yes or no", "label": "travel alert"}
+{"text_a": "i need my account frozen", "label": "freeze account"}
+{"text_a": "what's the exchange rate between country a and country b", "label": "exchange rate"}
+{"text_a": "when is my chase visa due", "label": "bill due"}
+{"text_a": "what is your date of birth", "label": "how old are you"}
+{"text_a": "what's the due date for my comcast bill", "label": "bill due"}
+{"text_a": "how old will you be", "label": "how old are you"}
+{"text_a": "tell me how old youare", "label": "how old are you"}
+{"text_a": "what is the the exchange rate for us dollars to euros", "label": "exchange rate"}
+{"text_a": "go back to your normal settings please", "label": "reset settings"}
+{"text_a": "am i safe to go to africa", "label": "travel alert"}
+{"text_a": "i want you reset to factory settings", "label": "reset settings"}
+{"text_a": "what name should i refer to you as", "label": "what is your name"}
+{"text_a": "did you put carrots on the shopping list", "label": "shopping list"}
+{"text_a": "does finland have any travel alerts i should be aware of", "label": "travel alert"}
+{"text_a": "ai, how long have you been alive", "label": "how old are you"}
+{"text_a": "i need to cancel my reservation for 2 at franklin's grille", "label": "cancel reservation"}
+{"text_a": "i need you to cancel my reservation for smith's at 6:15", "label": "cancel reservation"}
+{"text_a": "i need to know the things on my shopping list", "label": "shopping list"}
+{"text_a": "can i have your name", "label": "what is your name"}
+{"text_a": "what are the travel conditions for haiti", "label": "travel alert"}
+{"text_a": "what would you like to be called", "label": "what is your name"}
+{"text_a": "when is my kaiser bill due", "label": "bill due"}
+{"text_a": "what day were you born", "label": "how old are you"}
+{"text_a": "do you know exactly when you were born", "label": "how old are you"}
+{"text_a": "what can i refer to you by", "label": "what is your name"}
+{"text_a": "where am i currently located", "label": "current location"}
+{"text_a": "i want to cancel my reservation for network to xaga such", "label": "cancel reservation"}
+{"text_a": "go ahead and reset your factory settings", "label": "reset settings"}
+{"text_a": "what's the latest i can pay my cellular bill", "label": "bill due"}
+{"text_a": "what's your date of birth", "label": "how old are you"}
+{"text_a": "please put a block on my citi account immediately", "label": "freeze account"}
+{"text_a": "what is the conversion for 500 dollars to pesos", "label": "exchange rate"}
+{"text_a": "what's on my purchase list", "label": "shopping list"}
+{"text_a": "i need to know how old you are", "label": "how old are you"}
+{"text_a": "tell me my current location", "label": "current location"}
+{"text_a": "reset to factory default", "label": "reset settings"}
+{"text_a": "can you locate me on a map", "label": "current location"}
+{"text_a": "what should i call you", "label": "what is your name"}
+{"text_a": "what's the going rate between usd and cad", "label": "exchange rate"}
+{"text_a": "what did they name you", "label": "what is your name"}
+{"text_a": "i do not want my reservation anymore", "label": "cancel reservation"}
+{"text_a": "cancel my dinner reservation please", "label": "cancel reservation"}
+{"text_a": "how long have you been around", "label": "how old are you"}
+{"text_a": "tell me the last day i can pay my gas bill", "label": "bill due"}
+{"text_a": "when's the ac bill due", "label": "bill due"}
+{"text_a": "display shopping list", "label": "shopping list"}
+{"text_a": "how old are you as of today", "label": "how old are you"}
+{"text_a": "can you restore factory settings now", "label": "reset settings"}
+{"text_a": "change settings to how they were originally", "label": "reset settings"}
+{"text_a": "is it safe to go to serbia", "label": "travel alert"}
+{"text_a": "my current location", "label": "current location"}
+{"text_a": "i don't need the reservation anymore", "label": "cancel reservation"}
+{"text_a": "i didn't get your name", "label": "what is your name"}
+{"text_a": "restore your original settings", "label": "reset settings"}
+{"text_a": "how much is one us dollar in british pounds", "label": "exchange rate"}
+{"text_a": "revert to factory settings", "label": "reset settings"}
+{"text_a": "the reservation i placed is not needed anymore", "label": "cancel reservation"}
+{"text_a": "when is my electric bill due", "label": "bill due"}
+{"text_a": "how many canadian dollars can i exchange for 200 yen", "label": "exchange rate"}
+{"text_a": "what date do i have to pay the phone bill on", "label": "bill due"}
+{"text_a": "can you please freeze my account", "label": "freeze account"}
+{"text_a": "go back the the settings you had originally", "label": "reset settings"}
+{"text_a": "return to factory default", "label": "reset settings"}
+{"text_a": "is waffles on my list for shopping", "label": "shopping list"}
+{"text_a": "what is the year that were you born", "label": "how old are you"}
+{"text_a": "go back to your original settings", "label": "reset settings"}
+{"text_a": "are there any travel alerts for brazil", "label": "travel alert"}
+{"text_a": "i need to know the due date for my credit card", "label": "bill due"}
+{"text_a": "can you give me my gps coordinates", "label": "current location"}
+{"text_a": "how young are you", "label": "how old are you"}
+{"text_a": "my account needs to be frozen", "label": "freeze account"}
+{"text_a": "what do you like being called", "label": "what is your name"}
+{"text_a": "how long have you been alive for", "label": "how old are you"}
+{"text_a": "what is my location right now", "label": "current location"}
+{"text_a": "i no longer need the dinner reservation", "label": "cancel reservation"}
+{"text_a": "please tell me my location using gps", "label": "current location"}
+{"text_a": "read me my shopping list please", "label": "shopping list"}
+{"text_a": "your factory settings need to be reset", "label": "reset settings"}
+{"text_a": "do you know how old you are", "label": "how old are you"}
+{"text_a": "what's 11 yen in pounds", "label": "exchange rate"}
+{"text_a": "how long have you been here", "label": "how old are you"}
+{"text_a": "forget reservation at oyster bar for tonight", "label": "cancel reservation"}
+{"text_a": "i'd like to put a freeze on my bank account", "label": "freeze account"}
+{"text_a": "what day do i have to pay for my capital one card", "label": "bill due"}
+{"text_a": "please stop my account", "label": "freeze account"}
+{"text_a": "is it possible to change to original settings", "label": "reset settings"}
+{"text_a": "i'd like to cancel my reservation for 5 at hoss's steak house", "label": "cancel reservation"}
+{"text_a": "how many swedish kroner do i get for a dollar", "label": "exchange rate"}
+{"text_a": "what you age on your last birthday", "label": "how old are you"}
+{"text_a": "give me my location", "label": "current location"}
+{"text_a": "tell me how i know when to pay my chase bill", "label": "bill due"}
+{"text_a": "what name would you like me to use", "label": "what is your name"}
+{"text_a": "how much is 10 us dollars in canadian dollars", "label": "exchange rate"}
+{"text_a": "i am going to australia and want to be notified of any travel alerts", "label": "travel alert"}
+{"text_a": "what day is the bill due", "label": "bill due"}
+{"text_a": "i need to know your name", "label": "what is your name"}
+{"text_a": "i want factory settings put back in place", "label": "reset settings"}
+{"text_a": "can you tell me how to figure out my current location", "label": "current location"}
+{"text_a": "please block my discover account immediately", "label": "freeze account"}
+{"text_a": "switch back to factory settings", "label": "reset settings"}
+{"text_a": "joe and i are to cancel the reservation at zephers now", "label": "cancel reservation"}
+{"text_a": "configure this to factory settings", "label": "reset settings"}
+{"text_a": "how long do i have to pay that bill", "label": "bill due"}
+{"text_a": "which countries have travel alerts", "label": "travel alert"}
+{"text_a": "give me my gps coordinates", "label": "current location"}
+{"text_a": "restore factory settings", "label": "reset settings"}
+{"text_a": "would you reset your factory settings", "label": "reset settings"}
+{"text_a": "what street is this", "label": "current location"}
+{"text_a": "i need to cancel my dinner reservation", "label": "cancel reservation"}
+{"text_a": "go back to the original settings now", "label": "reset settings"}
+{"text_a": "restore my factory settings immediately please", "label": "reset settings"}
+{"text_a": "tell me what's on my shopping list", "label": "shopping list"}
+{"text_a": "how safe is it to travel to germany", "label": "travel alert"}
+{"text_a": "what date is my at&t bill due", "label": "bill due"}
+{"text_a": "can you please convert $30 usd to canadian dollars", "label": "exchange rate"}
+{"text_a": "what do i do to find my location", "label": "current location"}
+{"text_a": "list out my shopping list for me", "label": "shopping list"}
+{"text_a": "what's your name if i may ask", "label": "what is your name"}
+{"text_a": "list my current gps coordinates", "label": "current location"}
+{"text_a": "check my shopping list", "label": "shopping list"}
+{"text_a": "what do i call you, ai", "label": "what is your name"}
+{"text_a": "i want a cancellation of the dinner reservation for phillips at bernardin's", "label": "cancel reservation"}
+{"text_a": "cancel my reservation with carl at umami", "label": "cancel reservation"}
+{"text_a": "i want a block placed on my college fund account immediately", "label": "freeze account"}
+{"text_a": "i need to know my present gps coordinates", "label": "current location"}
+{"text_a": "you are how old now", "label": "how old are you"}
+{"text_a": "what is the exact date of your birth", "label": "how old are you"}
+{"text_a": "is milk one of my shopping list items", "label": "shopping list"}
+{"text_a": "because of circumstances i don't need my reservation anymore", "label": "cancel reservation"}
+{"text_a": "put a hold on my bank account", "label": "freeze account"}
+{"text_a": "what would you like me to call you", "label": "what is your name"}
+{"text_a": "get rid of my reservation at chez francois for jennifer", "label": "cancel reservation"}
+{"text_a": "tell me when my mastercard bill should be paid", "label": "bill due"}
+{"text_a": "what are the gps coordinates of this spot i am at right now", "label": "current location"}
+{"text_a": "what should i use when i refer to you", "label": "what is your name"}
+{"text_a": "in canadian dollars, what is $30", "label": "exchange rate"}
+{"text_a": "where should i look for when my gas bill is due", "label": "bill due"}
+{"text_a": "iterate over the items on my grocery list", "label": "shopping list"}
+{"text_a": "i need to know what i have on my shopping list", "label": "shopping list"}
+{"text_a": "what is the current exchange rate of yen to lira", "label": "exchange rate"}
+{"text_a": "is traveling to dublin safe (will dublin be safe)", "label": "travel alert"}
+{"text_a": "what birthday are you celebrating this year, ai", "label": "how old are you"}
+{"text_a": "what is a british pound worth in mexican pesos", "label": "exchange rate"}
+{"text_a": "is there a due date on the bill", "label": "bill due"}
+{"text_a": "please put a block on my wells fargo account", "label": "freeze account"}
+{"text_a": "where am i at currently", "label": "current location"}
+{"text_a": "what's the currency conversion between rubles and pounds", "label": "exchange rate"}
+{"text_a": "in what year were you born", "label": "how old are you"}
+{"text_a": "hello, may i get your name", "label": "what is your name"}
+{"text_a": "how much is usd vs cad", "label": "exchange rate"}
+{"text_a": "can you freeze my account, please", "label": "freeze account"}
+{"text_a": "i want you to immediatly block any further activity on my bb&t bank account", "label": "freeze account"}
+{"text_a": "can you check to see if my shopping list already has milk", "label": "shopping list"}
+{"text_a": "let me know what's on my shopping list", "label": "shopping list"}
+{"text_a": "can you tell me what you are called", "label": "what is your name"}
+{"text_a": "how do i find when my water bill needs to be paid", "label": "bill due"}
+{"text_a": "what should i refer to you as", "label": "what is your name"}
+{"text_a": "if i have 20,000 yen, how much is that in usd", "label": "exchange rate"}
+{"text_a": "can i travel to france as far as safety goes", "label": "travel alert"}
+{"text_a": "can you put a stop on my bank account, please", "label": "freeze account"}
+{"text_a": "restore your factory settings, please", "label": "reset settings"}
+{"text_a": "carla doesn't want her olive garden reservation anymore", "label": "cancel reservation"}
+{"text_a": "go over my shopping list with me", "label": "shopping list"}
+{"text_a": "go back to the original settings", "label": "reset settings"}
+{"text_a": "i am in need of my location", "label": "current location"}
+{"text_a": "should i call you something in particular", "label": "what is your name"}
+{"text_a": "showme how to find my location", "label": "current location"}
+{"text_a": "how old is the ai", "label": "how old are you"}
+{"text_a": "could you reset your factory settings please", "label": "reset settings"}
+{"text_a": "how much is 5 us dollars worth in canadian dollars", "label": "exchange rate"}
+{"text_a": "refresh to factory defaults", "label": "reset settings"}
+{"text_a": "my list for shopping has what on it", "label": "shopping list"}
+{"text_a": "tell me what to call you", "label": "what is your name"}
+{"text_a": "i need the new due date for my pgw gas bill", "label": "bill due"}
+{"text_a": "i want you to cancel my reservation for 5 at red robin", "label": "cancel reservation"}
+{"text_a": "is there travel alerts for greece", "label": "travel alert"}
+{"text_a": "20 yen is how many dollars", "label": "exchange rate"}
+{"text_a": "do you mind putting a stop on my bank account", "label": "freeze account"}
+{"text_a": "i need to know is traveling to france safe", "label": "travel alert"}
+{"text_a": "how much is $30 usd in canadian dollar", "label": "exchange rate"}
+{"text_a": "look for travel alerts for china", "label": "travel alert"}
+{"text_a": "does spain expect any travel alerts", "label": "travel alert"}
+{"text_a": "what did i write down on my shopping list this time", "label": "shopping list"}
+{"text_a": "please cancel my reservation at red lobster for 6", "label": "cancel reservation"}
+{"text_a": "whats your name by the way", "label": "what is your name"}
+{"text_a": "pull up my shopping list for me", "label": "shopping list"}
+{"text_a": "i am going to be traveling in turkey, are there any alerts", "label": "travel alert"}
+{"text_a": "i do not actually need my reservation anymore", "label": "cancel reservation"}
+{"text_a": "can you cancel my reservation tonight for chris at smith and wollensky", "label": "cancel reservation"}
+{"text_a": "cancel the dinner reservation i made, okay", "label": "cancel reservation"}
+{"text_a": "can i have my current gps coordinates", "label": "current location"}
+{"text_a": "please cancel my reservation", "label": "cancel reservation"}
+{"text_a": "what do i need when i go shopping", "label": "shopping list"}
+{"text_a": "what day do i have to pay my leasing office bill", "label": "bill due"}
+{"text_a": "i am thinking of going to brazil and was wondering if that is hazardous", "label": "travel alert"}
+{"text_a": "put a block on my chase account right away", "label": "freeze account"}
+{"text_a": "what name do you answer to", "label": "what is your name"}
+{"text_a": "revert to the original configuration", "label": "reset settings"}
+{"text_a": "can you tell me your birthday", "label": "how old are you"}
+{"text_a": "i want to know your age", "label": "how old are you"}
+{"text_a": "is it safe to travel to iceland", "label": "travel alert"}
+{"text_a": "can you cancel the reservation for kyle's party at red lobster", "label": "cancel reservation"}
+{"text_a": "reset to original settings", "label": "reset settings"}
+{"text_a": "what's the due date for my netflix subscription", "label": "bill due"}
+{"text_a": "when is my bill due", "label": "bill due"}
+{"text_a": "what exactly is your name", "label": "what is your name"}
+{"text_a": "is there a travel alert for that country", "label": "travel alert"}
+{"text_a": "i made a reservation for chris at tony's, please cancel it", "label": "cancel reservation"}
+{"text_a": "what's the conversion rate of 100 dollars to euros", "label": "exchange rate"}
+{"text_a": "have i already got eggs down on the shopping list", "label": "shopping list"}
+{"text_a": "i need a block placed right away on my joint checking account", "label": "freeze account"}
+{"text_a": "when do i owe the state payment for my car tags", "label": "bill due"}
+{"text_a": "put a freeze on my account", "label": "freeze account"}
+{"text_a": "is there a travel alert for canada", "label": "travel alert"}
+{"text_a": "you need to go back to the original settings", "label": "reset settings"}
+{"text_a": "on what day do i pay my car payment", "label": "bill due"}
+{"text_a": "i need my bank account frozen", "label": "freeze account"}
+{"text_a": "are there any current travel alerts for brazil", "label": "travel alert"}
+{"text_a": "i would like to cancel my reservation for nenuco's restaurant to x- tapas", "label": "cancel reservation"}
+{"text_a": "i need the exchange rate between pounds and us dollars", "label": "exchange rate"}
+{"text_a": "you need to reset your factory settings", "label": "reset settings"}
+{"text_a": "find if there are any travel alerts for canada", "label": "travel alert"}
+{"text_a": "you're how old", "label": "how old are you"}
+{"text_a": "how old are you exactly at the moment", "label": "how old are you"}
+{"text_a": "any travel alerts for south korea", "label": "travel alert"}
+{"text_a": "when does the current billing cycle end", "label": "bill due"}
+{"text_a": "place a block on my capital one account right now", "label": "freeze account"}
+{"text_a": "what are you called", "label": "what is your name"}
+{"text_a": "i need to know the travel alerts for kenya", "label": "travel alert"}
+{"text_a": "what is the usd mxn exchange rate", "label": "exchange rate"}
+{"text_a": "when is my at&t bill due", "label": "bill due"}
+{"text_a": "do you mind if i ask your name", "label": "what is your name"}
+{"text_a": "does the ai have a name", "label": "what is your name"}
+{"text_a": "i wanna know the exchange rate between yen and dollars", "label": "exchange rate"}
+{"text_a": "on the shopping list did i put tomato", "label": "shopping list"}
+{"text_a": "how long have you been functional", "label": "how old are you"}
+{"text_a": "when is my xfinity bill due", "label": "bill due"}
+{"text_a": "can you list the places that there are travel alerts for", "label": "travel alert"}
+{"text_a": "can people safely travel to cambodia", "label": "travel alert"}
+{"text_a": "i need to find out how to check the due date for the water bill", "label": "bill due"}
+{"text_a": "is there a travel alert for france", "label": "travel alert"}
+{"text_a": "does greece currently have any travel alerts in place", "label": "travel alert"}
+{"text_a": "check if my shopping list has tomato", "label": "shopping list"}
+{"text_a": "what day is my telephone bill due", "label": "bill due"}
+{"text_a": "put a hold on my bank of america account right away please", "label": "freeze account"}
+{"text_a": "how does 10 pounds convert to euros", "label": "exchange rate"}
+{"text_a": "change back to factory settings", "label": "reset settings"}
+{"text_a": "go back to initial settings", "label": "reset settings"}
+{"text_a": "restore the factory settings", "label": "reset settings"}
+{"text_a": "restart your actions with the original settings you came with", "label": "reset settings"}
+{"text_a": "does ireland have any travel alerts i should be aware of", "label": "travel alert"}
+{"text_a": "can you tell me your name", "label": "what is your name"}
+{"text_a": "can you freeze my account", "label": "freeze account"}
+{"text_a": "help me get my device back to it's factory settings", "label": "reset settings"}
+{"text_a": "what is your age, ai", "label": "how old are you"}
+{"text_a": "when do i have to pay my water bill by", "label": "bill due"}
+{"text_a": "put a hault on my savings account", "label": "freeze account"}
+{"text_a": "can you tell me my current location", "label": "current location"}
+{"text_a": "i don't need my reservation for 5 at the loft please cancel it", "label": "cancel reservation"}
+{"text_a": "is it possible to cancel the reservation at outback for the johnsons", "label": "cancel reservation"}
+{"text_a": "who are you known as", "label": "what is your name"}
+{"text_a": "what's your age siri", "label": "how old are you"}
+{"text_a": "what is the due date of my at&t bill", "label": "bill due"}
+{"text_a": "how many dollars can i exchange for 200 euros", "label": "exchange rate"}
+{"text_a": "what day do i need to pay my internet and phone bill by", "label": "bill due"}
+{"text_a": "do i need to read any travel alerts for kenya", "label": "travel alert"}
+{"text_a": "i need to know the name of my current location for the tow truck", "label": "current location"}
+{"text_a": "could you freeze my account, please", "label": "freeze account"}
+{"text_a": "i want to know the name that was given by the person who made you", "label": "what is your name"}
+{"text_a": "how old are you today", "label": "how old are you"}
+{"text_a": "i want you to reset to brand new please", "label": "reset settings"}
+{"text_a": "we have a table at the taco bell under bowie we need to release", "label": "cancel reservation"}
+{"text_a": "what is your names", "label": "what is your name"}
+{"text_a": "where in the world is there a travel alert", "label": "travel alert"}
+{"text_a": "any travel alerts for that country i should know about", "label": "travel alert"}
+{"text_a": "i no longer need the reservation for 20 at ihop", "label": "cancel reservation"}
+{"text_a": "how long do i have left to pay for my chase credit card", "label": "bill due"}
+{"text_a": "please block my chase account right away", "label": "freeze account"}
+{"text_a": "i need a stop placed on my bank account please", "label": "freeze account"}
+{"text_a": "can you remind me what i put on my shopping list", "label": "shopping list"}
+{"text_a": "i need my dinner reservation canceled", "label": "cancel reservation"}
+{"text_a": "are tomatoes on my shopping list", "label": "shopping list"}
+{"text_a": "are there travel alerts for the us", "label": "travel alert"}
+{"text_a": "what's the currency conversion between usd and pounds", "label": "exchange rate"}
+{"text_a": "can you find my location on the map, please", "label": "current location"}
+{"text_a": "when is next month's cable bill due", "label": "bill due"}
+{"text_a": "whats dollars won in 15", "label": "exchange rate"}
+{"text_a": "terminate the account", "label": "freeze account"}
+{"text_a": "convert krugerrands to saudi riyal", "label": "exchange rate"}
+{"text_a": "what did your friends call you", "label": "what is your name"}
+{"text_a": "can you reset to factor settings", "label": "reset settings"}
+{"text_a": "display my location on a map", "label": "current location"}
+{"text_a": "i need to know my current gps coordinates", "label": "current location"}
+{"text_a": "i would like a block put on my chase account asap", "label": "freeze account"}
+{"text_a": "what are the contents of my shopping list", "label": "shopping list"}
+{"text_a": "let's go to default settings", "label": "reset settings"}
+{"text_a": "go back to your factory settings", "label": "reset settings"}
+{"text_a": "i would like to know when the bill is due", "label": "bill due"}
+{"text_a": "how old will you be next year", "label": "how old are you"}
+{"text_a": "return to your original settings, please", "label": "reset settings"}
+{"text_a": "what year were you born", "label": "how old are you"}
+{"text_a": "what stuff did i put on my shopping list", "label": "shopping list"}
+{"text_a": "is there a way to get my current location", "label": "current location"}
+{"text_a": "please put a stop on my bank account", "label": "freeze account"}
+{"text_a": "is it safe to travel to rio de janeiro (is rio de janeiro safe)", "label": "travel alert"}
+{"text_a": "i don't need my reservation, can you cancel it", "label": "cancel reservation"}
+{"text_a": "cancel my reservation for dinner this friday, please", "label": "cancel reservation"}
+{"text_a": "i would like to know the usd to aud conversion rate", "label": "exchange rate"}
+{"text_a": "would you be able to freeze my bank account", "label": "freeze account"}
+{"text_a": "i do not know where i am", "label": "current location"}
+{"text_a": "please put a block on my discover account immediately", "label": "freeze account"}
+{"text_a": "what is the equal number of dollars i can exchange for 50 pesos", "label": "exchange rate"}
+{"text_a": "when do i have to pay my internet bill by", "label": "bill due"}
+{"text_a": "what is one dollar worth in mexico", "label": "exchange rate"}
+{"text_a": "could you find my location on the map", "label": "current location"}
+{"text_a": "when does the car payment come due", "label": "bill due"}
+{"text_a": "what is 2 francs in euros", "label": "exchange rate"}
+{"text_a": "do i need milk at the store", "label": "shopping list"}
+{"text_a": "can you tell me the exchange rate for yen to euros", "label": "exchange rate"}
+{"text_a": "please make my account a frozen one", "label": "freeze account"}
+{"text_a": "whats on my list for shopping", "label": "shopping list"}
+{"text_a": "when did you originate", "label": "how old are you"}
+{"text_a": "now restore the original settings", "label": "reset settings"}
+{"text_a": "i need to know where my due date is for my lawn bill", "label": "bill due"}
+{"text_a": "please tell me the name i should use when talking to you", "label": "what is your name"}
+{"text_a": "look me up on the map", "label": "current location"}
+{"text_a": "what travel alerts are there in china", "label": "travel alert"}
+{"text_a": "when do i need to pay the cable bill", "label": "bill due"}
+{"text_a": "hey, how do i call your attention", "label": "what is your name"}
+{"text_a": "do i need to pay my credit card bill already", "label": "bill due"}
+{"text_a": "how many dollars is 20 yen worth", "label": "exchange rate"}
+{"text_a": "are there any travel alerts for antarctica", "label": "travel alert"}
+{"text_a": "what is your birthday", "label": "how old are you"}
+{"text_a": "i'd like a stop placed on my bank account", "label": "freeze account"}
+{"text_a": "who do i have the pleasure of speaking with", "label": "what is your name"}
+{"text_a": "i would like you to change the settings back to factory default now, please", "label": "reset settings"}
+{"text_a": "reset to default settings", "label": "reset settings"}
+{"text_a": "please reconfigure yourself back to factory settings", "label": "reset settings"}
+{"text_a": "when is the bill due", "label": "bill due"}
+{"text_a": "please freeze my account", "label": "freeze account"}
+{"text_a": "what is the exchange rate between usd and the euro", "label": "exchange rate"}
+{"text_a": "my reservation for dinner needs to be canceled", "label": "cancel reservation"}
+{"text_a": "no payments on my bank account", "label": "freeze account"}
+{"text_a": "did i put bread on my shopping list", "label": "shopping list"}
+{"text_a": "when referring to you, what name do you want me to use", "label": "what is your name"}
+{"text_a": "put a block on bank of amerian immediately", "label": "freeze account"}
+{"text_a": "i need you to freeze my account", "label": "freeze account"}
+{"text_a": "show me where i am on a map", "label": "current location"}
+{"text_a": "clear all settings in a reset", "label": "reset settings"}
+{"text_a": "pull up the map and show my location", "label": "current location"}
+{"text_a": "i need to put in a cancellation for the dinner plans tonight", "label": "cancel reservation"}
+{"text_a": "reset device to original settings", "label": "reset settings"}
+{"text_a": "please cancel my reservation for tim at jb's", "label": "cancel reservation"}
+{"text_a": "read my shopping list to me", "label": "shopping list"}
+{"text_a": "is it safe to travel to norway", "label": "travel alert"}
+{"text_a": "please cancel the table for two at burger king", "label": "cancel reservation"}
+{"text_a": "how many years have you been on", "label": "how old are you"}
+{"text_a": "what is the yen worth in terms of the peso", "label": "exchange rate"}
+{"text_a": "your name is", "label": "what is your name"}
+{"text_a": "cancel reservation at eight for the group", "label": "cancel reservation"}
+{"text_a": "cancel my reservation for me", "label": "cancel reservation"}
+{"text_a": "add a block to my capital one bank account so it cannot be used any more", "label": "freeze account"}
+{"text_a": "tell me whats on my shopping list", "label": "shopping list"}
+{"text_a": "any travel alerts for canada", "label": "travel alert"}
+{"text_a": "i want a clean bootup to factory settings", "label": "reset settings"}
+{"text_a": "cancel my party reservation for brad at longhorn", "label": "cancel reservation"}
+{"text_a": "note any travel alerts for haiti", "label": "travel alert"}
+{"text_a": "what's your designation", "label": "what is your name"}
+{"text_a": "convert 20 yen to dollars", "label": "exchange rate"}
+{"text_a": "are there any travel warnings for london", "label": "travel alert"}
+{"text_a": "what do i do to freeze my account", "label": "freeze account"}
+{"text_a": "stop payments from my bank", "label": "freeze account"}
+{"text_a": "i'd like my account frozen", "label": "freeze account"}
+{"text_a": "do you mind if i ask how old you are", "label": "how old are you"}
+{"text_a": "should i know about any travel alerts before traveling in the usa", "label": "travel alert"}
+{"text_a": "when do i need to pay my car insurance bill by", "label": "bill due"}
+{"text_a": "is it possible for you to read the things on my shopping list", "label": "shopping list"}
+{"text_a": "please cancel the table i had reserved for tonight", "label": "cancel reservation"}
+{"text_a": "put a freeze on my bank account", "label": "freeze account"}
+{"text_a": "is a toothbrush on my shopping list", "label": "shopping list"}
+{"text_a": "can i have your name please", "label": "what is your name"}
+{"text_a": "how many dollars can i exchange for 100000 yen", "label": "exchange rate"}
+{"text_a": "can you undo the reservation", "label": "cancel reservation"}
+{"text_a": "i need a block put on my chase account right away", "label": "freeze account"}
+{"text_a": "tell me my current location please", "label": "current location"}
+{"text_a": "when is my electricity due date", "label": "bill due"}
+{"text_a": "20 yen equals how many dollars", "label": "exchange rate"}
+{"text_a": "tell me what your name is", "label": "what is your name"}
+{"text_a": "revert back to factory settings", "label": "reset settings"}
+{"text_a": "how much is the euro in dollars", "label": "exchange rate"}
+{"text_a": "how will i find my current location", "label": "current location"}
+{"text_a": "are there any travel alerts for syria", "label": "travel alert"}
+{"text_a": "how many dollars can i exchange for 200 pounds", "label": "exchange rate"}
+{"text_a": "give me the date my bill is due", "label": "bill due"}
+{"text_a": "what is the conversion of $30 in canadian dollars", "label": "exchange rate"}
+{"text_a": "what's the due date for the credit card", "label": "bill due"}
+{"text_a": "is it safe to travel to argentina", "label": "travel alert"}
+{"text_a": "using this map i'd like to see my exact whereabouts", "label": "current location"}
+{"text_a": "i need you to reset to your factor settings", "label": "reset settings"}
+{"text_a": "restore your original settings, please", "label": "reset settings"}
+{"text_a": "call the restaurant and cancel my reservation", "label": "cancel reservation"}
+{"text_a": "return to default settings", "label": "reset settings"}
+{"text_a": "what all do i have on my shopping list", "label": "shopping list"}
+{"text_a": "did i put milk on the shopping list", "label": "shopping list"}
+{"text_a": "i need any relevant travel alerts for australia", "label": "travel alert"}
+{"text_a": "does myanmar have any travel alerts i should be aware of", "label": "travel alert"}
+{"text_a": "would you freeze my bank account", "label": "freeze account"}
+{"text_a": "are you able to put a stop on my bank account", "label": "freeze account"}
+{"text_a": "read my shopping list", "label": "shopping list"}
+{"text_a": "i need to know the conversion for dollars to pesos", "label": "exchange rate"}
+{"text_a": "where are there current travel alerts", "label": "travel alert"}
+{"text_a": "any travel advisories for portugal", "label": "travel alert"}
+{"text_a": "do you have a name", "label": "what is your name"}
+{"text_a": "please put a stop on my back account", "label": "freeze account"}
+{"text_a": "when is my car insurance due", "label": "bill due"}
+{"text_a": "when is visa due", "label": "bill due"}
+{"text_a": "could you let me know how old you are", "label": "how old are you"}
+{"text_a": "i need to know five dollars in yen and rubles", "label": "exchange rate"}
+{"text_a": "what is the due date for my metronorth monthy pass", "label": "bill due"}
+{"text_a": "what products are on my shopping list", "label": "shopping list"}
+{"text_a": "how should i refer to you", "label": "what is your name"}
+{"text_a": "what location do you see me at right now", "label": "current location"}
+{"text_a": "please show me where i am on a map", "label": "current location"}
+{"text_a": "can you put a block on my visa account right away", "label": "freeze account"}
+{"text_a": "stop all payments to my bank account", "label": "freeze account"}
+{"text_a": "how old are you, ai", "label": "how old are you"}
+{"text_a": "go back to factory settings please", "label": "reset settings"}
+{"text_a": "please put a block on my td ameritrade account now", "label": "freeze account"}
+{"text_a": "cancel my reservation for chris at jp field's", "label": "cancel reservation"}
+{"text_a": "i need to freeze my bank account", "label": "freeze account"}
+{"text_a": "where would i search for my location", "label": "current location"}
+{"text_a": "i made a reservation under mark hamil at the emporium that i don't need any more", "label": "cancel reservation"}
+{"text_a": "when's the next time i have to pay the insurance", "label": "bill due"}
+{"text_a": "where exactly am i at the moment", "label": "current location"}
+{"text_a": "shopping list", "label": "shopping list"}
+{"text_a": "does macedonia have any travel alerts i should be aware of", "label": "travel alert"}
+{"text_a": "how old are you ai", "label": "how old are you"}
+{"text_a": "show me where i am on the map", "label": "current location"}
+{"text_a": "can you read my shopping list to me", "label": "shopping list"}
+{"text_a": "what's 10 pounds in dollars", "label": "exchange rate"}
+{"text_a": "i wanna know five dollars in yen and rubles", "label": "exchange rate"}
+{"text_a": "block my monkey market right now", "label": "freeze account"}
+{"text_a": "my account at the bank needs to be frozen", "label": "freeze account"}
+{"text_a": "what's the due date for my american express payment", "label": "bill due"}
+{"text_a": "can you tell me my location", "label": "current location"}
+{"text_a": "reset to default settings please", "label": "reset settings"}
+{"text_a": "what do i need to buy at the store", "label": "shopping list"}
+{"text_a": "how can i stop transactions on my account", "label": "freeze account"}
+{"text_a": "tell me what is on my shopping list", "label": "shopping list"}
+{"text_a": "what is the maximum dollars i can get for 6 yens", "label": "exchange rate"}
+{"text_a": "how many years on the earth", "label": "how old are you"}
+{"text_a": "are there any travel alerts for seattle", "label": "travel alert"}
+{"text_a": "how do i find my present location right now, please", "label": "current location"}
+{"text_a": "can i ask your age", "label": "how old are you"}
+{"text_a": "check out my location up on the map", "label": "current location"}
+{"text_a": "are carrots added to the grocery list", "label": "shopping list"}
+{"text_a": "can you tell me how old you are", "label": "how old are you"}
+{"text_a": "revert to original settings", "label": "reset settings"}
+{"text_a": "do you have a way you like to be referred to", "label": "what is your name"}
+{"text_a": "what's the difference between usd and cad", "label": "exchange rate"}
+{"text_a": "set this to my factory settings", "label": "reset settings"}
+{"text_a": "if i have 10 us dollars, how many pounds sterling is that", "label": "exchange rate"}
+{"text_a": "is there a travel alert for scotland", "label": "travel alert"}
+{"text_a": "your birthday please", "label": "how old are you"}
+{"text_a": "is the dollar strong against the yen today", "label": "exchange rate"}
+{"text_a": "how can i know my current location", "label": "current location"}
+{"text_a": "ai, what's your name", "label": "what is your name"}
+{"text_a": "show me where i am on the map please", "label": "current location"}
+{"text_a": "tell me where i can find my exterminator bill's due date", "label": "bill due"}
+{"text_a": "can you block my chase account right away please", "label": "freeze account"}
+{"text_a": "i gotta know the exchange rate between yen and rubles", "label": "exchange rate"}
+{"text_a": "what does my shopping list contain", "label": "shopping list"}
+{"text_a": "is tomato on my shopping list", "label": "shopping list"}
+{"text_a": "what do i need to go shopping for", "label": "shopping list"}
+{"text_a": "does my shopping list include corn", "label": "shopping list"}
+{"text_a": "does italy have any travel alerts i should be aware of", "label": "travel alert"}
+{"text_a": "what is the current exchange rate for the dollar and the yen", "label": "exchange rate"}
+{"text_a": "reset all settings to the factory settings", "label": "reset settings"}
+{"text_a": "my bank account must be frozen", "label": "freeze account"}
+{"text_a": "i want to restore your factory settings", "label": "reset settings"}
+{"text_a": "i want my chase account blocked immediately", "label": "freeze account"}
+{"text_a": "shut down my account", "label": "freeze account"}
+{"text_a": "cancel my 8:00 pm prime rib reservation", "label": "cancel reservation"}
+{"text_a": "look my location up on the map", "label": "current location"}
+{"text_a": "tell me the items in my shopping list", "label": "shopping list"}
+{"text_a": "will i be safe going to south america", "label": "travel alert"}
+{"text_a": "what are my shopping list's content", "label": "shopping list"}
+{"text_a": "cancel my reservations for joe's at zepher right now", "label": "cancel reservation"}
+{"text_a": "ai, what should i call you", "label": "what is your name"}
+{"text_a": "what is the age of the ai", "label": "how old are you"}
+{"text_a": "i would like to know my electric bills date it needs to be payed", "label": "bill due"}
+{"text_a": "can i ask your name", "label": "what is your name"}
+{"text_a": "what things are on my shopping list", "label": "shopping list"}
+{"text_a": "is my bill due this week", "label": "bill due"}
+{"text_a": "do you have an age", "label": "how old are you"}
+{"text_a": "something's come up so i need to cancel my reservation so now", "label": "cancel reservation"}
+{"text_a": "can you tell me the date my credit card is due", "label": "bill due"}
+{"text_a": "nix that reservation for 4 at strip house", "label": "cancel reservation"}
+{"text_a": "i want my original settings back", "label": "reset settings"}
+{"text_a": "where am i currently", "label": "current location"}
+{"text_a": "stop all access to my account", "label": "freeze account"}
+{"text_a": "you can cancel my reservation", "label": "cancel reservation"}
+{"text_a": "are there any travel advisories for the us", "label": "travel alert"}
+{"text_a": "help me freeze my bank account, please", "label": "freeze account"}
+{"text_a": "does argentina have a travel alert", "label": "travel alert"}
+{"text_a": "safety concerns for malaysia", "label": "travel alert"}
+{"text_a": "give me my current location", "label": "current location"}
+{"text_a": "can you please revert to factory settings at this time", "label": "reset settings"}
+{"text_a": "how many mexican pesos is a us dollar worth", "label": "exchange rate"}
+{"text_a": "how much is 500 dollars in pesos", "label": "exchange rate"}
+{"text_a": "freeze my account at the bank immediately", "label": "freeze account"}
+{"text_a": "what name should i use to address you", "label": "what is your name"}
+{"text_a": "search for travel alerts for kenya", "label": "travel alert"}
+{"text_a": "please immediately block my navy federal credit union account", "label": "freeze account"}
+{"text_a": "is it safe to travel to bermuda", "label": "travel alert"}
+{"text_a": "when does the electric bill up", "label": "bill due"}
+{"text_a": "place a hold on my chase money market market account at once", "label": "freeze account"}
+{"text_a": "please put a block on my wells fargo account immediately", "label": "freeze account"}
+{"text_a": "do i have carrots on my shopping list", "label": "shopping list"}
+{"text_a": "what's your full name", "label": "what is your name"}
+{"text_a": "what kind of items are on my shopping list", "label": "shopping list"}
+{"text_a": "put a hold on my bank account please", "label": "freeze account"}
+{"text_a": "are there any travel alerts for ukraine", "label": "travel alert"}
+{"text_a": "i want a block placed on my checking account right away", "label": "freeze account"}
+{"text_a": "what date is my water bill due", "label": "bill due"}
+{"text_a": "i need to cancel my reservation for new york to xai varanda", "label": "cancel reservation"}
+{"text_a": "show me what's on the shopping list", "label": "shopping list"}
+{"text_a": "i need to know the next billing date of my american express card", "label": "bill due"}
+{"text_a": "do you prefer peanut butter or cheese for your celery", "label": "shopping list"}
+{"text_a": "tell me your full name", "label": "what is your name"}
+{"text_a": "i would love it if you could put a stop on my bank account", "label": "freeze account"}
+{"text_a": "my shopping list contains what again", "label": "shopping list"}
+{"text_a": "when is my visa due", "label": "bill due"}
+{"text_a": "please remove current settings and go back to factory settings now", "label": "reset settings"}
+{"text_a": "go back to your manufacturers' settings", "label": "reset settings"}
+{"text_a": "please give me my gps coordinates", "label": "current location"}
+{"text_a": "i need to know what's on my shopping list", "label": "shopping list"}
+{"text_a": "please revert all settings to factory default", "label": "reset settings"}
+{"text_a": "can i cancel my reservations", "label": "cancel reservation"}
+{"text_a": "tell me your age", "label": "how old are you"}
+{"text_a": "can i freeze my bank account", "label": "freeze account"}
+{"text_a": "did carrots get on my shopping list", "label": "shopping list"}
+{"text_a": "is there a particular name i should call you", "label": "what is your name"}
+{"text_a": "what's your age right now", "label": "how old are you"}
+{"text_a": "whats the exchange rate for us dollars to british pounds", "label": "exchange rate"}
+{"text_a": "i need to cancel my reservation after all, please", "label": "cancel reservation"}
+{"text_a": "is there a travel alert in argentina", "label": "travel alert"}
+{"text_a": "is france safe to travel to", "label": "travel alert"}
+{"text_a": "i'd love to hear when you were born", "label": "how old are you"}
+{"text_a": "i want to know when the deadline is to pay my car loan", "label": "bill due"}
+{"text_a": "what is this place", "label": "current location"}
+{"text_a": "how long ago were you born", "label": "how old are you"}
+{"text_a": "if the dollar worth a lot in country b", "label": "exchange rate"}
+{"text_a": "have the riots in france triggered any alerts for people traveling to there", "label": "travel alert"}
+{"text_a": "what country and city am i in", "label": "current location"}
+{"text_a": "check me out on the map", "label": "current location"}
+{"text_a": "what are the latest travel alerts for dubai", "label": "travel alert"}
+{"text_a": "get my back to factory settings", "label": "reset settings"}
+{"text_a": "can you initiate a block on my bank of america checking asap", "label": "freeze account"}
+{"text_a": "return to your original settings", "label": "reset settings"}
+{"text_a": "show everything on my to buy list", "label": "shopping list"}
+{"text_a": "what does my shopping list involve", "label": "shopping list"}
+{"text_a": "can you look up what my shopping list has on it", "label": "shopping list"}
+{"text_a": "do i have twinkies on the grocery list", "label": "shopping list"}
+{"text_a": "what's on the shopping list", "label": "shopping list"}
+{"text_a": "when do i owe the rent", "label": "bill due"}
+{"text_a": "so what are my current gps coordinates", "label": "current location"}
+{"text_a": "what do i need to get when i go shopping", "label": "shopping list"}
+{"text_a": "how can i find my current location", "label": "current location"}
+{"text_a": "what are my gps coordinates right now", "label": "current location"}
+{"text_a": "what is the date of your birth", "label": "how old are you"}
+{"text_a": "what name would you like me to call you", "label": "what is your name"}
+{"text_a": "do you want peanut butter for your lunches this week", "label": "shopping list"}
+{"text_a": "what are my longitude and latitude points", "label": "current location"}
+{"text_a": "how can i go about finding my current location", "label": "current location"}
+{"text_a": "what is the due date for a bill", "label": "bill due"}
+{"text_a": "is ice cream currently on my shopping list", "label": "shopping list"}
+{"text_a": "i am wanting to know how old you are", "label": "how old are you"}
+{"text_a": "cancel my reservation for bob at red robin", "label": "cancel reservation"}
+{"text_a": "change all setting to original ones", "label": "reset settings"}
+{"text_a": "please tell me my current location", "label": "current location"}
+{"text_a": "when's the electric bill due", "label": "bill due"}
+{"text_a": "i gotta cancel my reservation for barry at red robin", "label": "cancel reservation"}
+{"text_a": "when do i need to pay the water bil", "label": "bill due"}
+{"text_a": "ai, how many months old are you", "label": "how old are you"}
+{"text_a": "reset the factory settings", "label": "reset settings"}
+{"text_a": "how many mexican pesos can i get for one us dollar", "label": "exchange rate"}
+{"text_a": "what name do you want me to call you", "label": "what is your name"}
+{"text_a": "let me know what the exchange rate between dollars and pesos is", "label": "exchange rate"}
+{"text_a": "what's the exhange rate between mxn and gbp", "label": "exchange rate"}
+{"text_a": "do a hard reset to factory settings", "label": "reset settings"}
+{"text_a": "read my entire shopping list to me", "label": "shopping list"}
+{"text_a": "tell me your date of birth", "label": "how old are you"}
+{"text_a": "tell me where i am", "label": "current location"}
+{"text_a": "how many years ago was al born", "label": "how old are you"}
+{"text_a": "just trash the reservation i made please", "label": "cancel reservation"}
+{"text_a": "reset to your original settings", "label": "reset settings"}
+{"text_a": "what does my shopping list say that i should get", "label": "shopping list"}
+{"text_a": "look up the rate of exchange between pesos and usd", "label": "exchange rate"}
+{"text_a": "is there a travel alert for russia", "label": "travel alert"}
+{"text_a": "now reset your factory settings", "label": "reset settings"}
+{"text_a": "is the bill due", "label": "bill due"}
+{"text_a": "are you 16 years old", "label": "how old are you"}
+{"text_a": "when do i need to pay my annual payment for auto insurance", "label": "bill due"}
+{"text_a": "do you want me to shop for peanut butter", "label": "shopping list"}
+{"text_a": "display my location on the map", "label": "current location"}
+{"text_a": "tell me when you were born", "label": "how old are you"}
+{"text_a": "what day of the month do i have to pay my mortgage", "label": "bill due"}
+{"text_a": "return to your factory settings", "label": "reset settings"}
+{"text_a": "look up travel alerts for canada", "label": "travel alert"}
+{"text_a": "i need to know what my gps coordinates are", "label": "current location"}
+{"text_a": "cancel my reservation for dinner this saturday", "label": "cancel reservation"}
+{"text_a": "what is your creation date", "label": "how old are you"}
+{"text_a": "is it safe to go to north korea", "label": "travel alert"}
+{"text_a": "would you please put a block on my chase account right away", "label": "freeze account"}
+{"text_a": "could you please cancel my reservation for 5 at red robin", "label": "cancel reservation"}
+{"text_a": "how much dollars do i receive if i trade in 6 yens", "label": "exchange rate"}
+{"text_a": "what is on my shopping list", "label": "shopping list"}
+{"text_a": "please cancel my reservation for chris at brio", "label": "cancel reservation"}
+{"text_a": "what age are you", "label": "how old are you"}
+{"text_a": "how old are you siri", "label": "how old are you"}
+{"text_a": "return it back to the original settings", "label": "reset settings"}
+{"text_a": "is it safe for me to go to turkey", "label": "travel alert"}
+{"text_a": "how long have you been around, ai", "label": "how old are you"}
+{"text_a": "what's the precise coordinates of this place", "label": "current location"}
+{"text_a": "i need to put a stop on my bank account", "label": "freeze account"}
+{"text_a": "please tell me the address of my current location", "label": "current location"}
+{"text_a": "can you tell me when my electric bill is due", "label": "bill due"}
+{"text_a": "where is my current location", "label": "current location"}
+{"text_a": "i would like you to revert to your factory settings", "label": "reset settings"}
+{"text_a": "ai, what do people call you", "label": "what is your name"}
+{"text_a": "what is the quantity of dollars i receive for trading 6 yens", "label": "exchange rate"}
+{"text_a": "let me know where i'm located", "label": "current location"}
+{"text_a": "how old will you be this year", "label": "how old are you"}
+{"text_a": "i'd like to find the date that my gas bill is due", "label": "bill due"}
+{"text_a": "ai, how old are you", "label": "how old are you"}
+{"text_a": "what is 5 in yen and rubles", "label": "exchange rate"}
+{"text_a": "what are the currect travel alerts in africa", "label": "travel alert"}
+{"text_a": "i want my account locked out", "label": "freeze account"}
+{"text_a": "what is the exchange rate for canadian dollars to us dollars", "label": "exchange rate"}
+{"text_a": "ai, what is your given name", "label": "what is your name"}
+{"text_a": "what do you answer to", "label": "what is your name"}
+{"text_a": "annul the reservation i created", "label": "cancel reservation"}
+{"text_a": "you are how old", "label": "how old are you"}
+{"text_a": "i need you to block my mutualone account now", "label": "freeze account"}
+{"text_a": "are there any travel alerts i should know about for buenos aires, argentina", "label": "travel alert"}
+{"text_a": "what can i address you", "label": "what is your name"}
+{"text_a": "how much is 1 dollar worth in country b's money", "label": "exchange rate"}
+{"text_a": "i have to cancel my reservation after all, please", "label": "cancel reservation"}
+{"text_a": "does the country have a travel alert", "label": "travel alert"}
+{"text_a": "what do i call you", "label": "what is your name"}
+{"text_a": "can you place a stop on my account", "label": "freeze account"}
+{"text_a": "what do you prefer to be called", "label": "what is your name"}
+{"text_a": "what street am i on right now", "label": "current location"}
+{"text_a": "i no longer need a table for four at chili's", "label": "cancel reservation"}
+{"text_a": "what should you be called", "label": "what is your name"}
+{"text_a": "what all is on my shopping list", "label": "shopping list"}
+{"text_a": "how many days old are you", "label": "how old are you"}
+{"text_a": "please pause my banking actions", "label": "freeze account"}
+{"text_a": "please unreserve that table", "label": "cancel reservation"}
+{"text_a": "please immediatly block my presidential bank account right now", "label": "freeze account"}
+{"text_a": "plase hold my account for now", "label": "freeze account"}
+{"text_a": "go back to factory settings now", "label": "reset settings"}
+{"text_a": "is it safe for me to visit malawi", "label": "travel alert"}
+{"text_a": "what is the ai's name", "label": "what is your name"}
+{"text_a": "cancel my reservation for 3 at carlos jr", "label": "cancel reservation"}
+{"text_a": "i was wondering what age you are", "label": "how old are you"}
+{"text_a": "how do i freeze my bank account", "label": "freeze account"}
+{"text_a": "what is 50 dollars in euros", "label": "exchange rate"}
+{"text_a": "tell me when my bill will be due", "label": "bill due"}
+{"text_a": "please reset the factory settings", "label": "reset settings"}
+{"text_a": "can you put a stop on my bank account now", "label": "freeze account"}
+{"text_a": "what is on the shopping list", "label": "shopping list"}
+{"text_a": "and what would your name be", "label": "what is your name"}
+{"text_a": "can you tell me your age", "label": "how old are you"}
+{"text_a": "please go to factory settings now", "label": "reset settings"}
+{"text_a": "how many pesos equals 500 dollars", "label": "exchange rate"}
+{"text_a": "what's the exchange rate betwen usd and euros", "label": "exchange rate"}
+{"text_a": "can you cancelt the reservation i have for dinner", "label": "cancel reservation"}
+{"text_a": "when is the electric bill due", "label": "bill due"}
+{"text_a": "freeze my account for me", "label": "freeze account"}
+{"text_a": "please cancel my dinner reservation for tuesday", "label": "cancel reservation"}
+{"text_a": "how safe is it to travel to mongolia (how safe is mongolia)", "label": "travel alert"}
+{"text_a": "on what day do i have to pay my nordstrom bill", "label": "bill due"}
+{"text_a": "can you tell me the age of the ai", "label": "how old are you"}
+{"text_a": "can you find the exact address for where i am currently", "label": "current location"}
+{"text_a": "inform me if there's a travel alert for the country", "label": "travel alert"}
+{"text_a": "what's should i call you by", "label": "what is your name"}
+{"text_a": "can you cancel my reservation for dinner tomorrow", "label": "cancel reservation"}
+{"text_a": "please put a freeze on my banking account", "label": "freeze account"}
+{"text_a": "is travel to monterrey safe now", "label": "travel alert"}
+{"text_a": "did i remember to put oatmeal on my list", "label": "shopping list"}
+{"text_a": "would you please reboot yourself to factory settings", "label": "reset settings"}
+{"text_a": "go back to initial factory state", "label": "reset settings"}
+{"text_a": "please revert to your factory settings", "label": "reset settings"}
+{"text_a": "i cant remember when my bill is due", "label": "bill due"}
+{"text_a": "don't let payments go through using my bank account", "label": "freeze account"}
+{"text_a": "what things are on my shopping list today", "label": "shopping list"}
+{"text_a": "i need to know my location", "label": "current location"}
+{"text_a": "close out my account", "label": "freeze account"}
+{"text_a": "what do i have on my shopping list", "label": "shopping list"}
+{"text_a": "place a stop on my bank account", "label": "freeze account"}
+{"text_a": "i'd like your name", "label": "what is your name"}
+{"text_a": "whats pesos australian dollars in 20", "label": "exchange rate"}
+{"text_a": "how do i locate the due date for my bug bill", "label": "bill due"}
+{"text_a": "is there a travel alert for spain", "label": "travel alert"}
+{"text_a": "whats the deadline for amex payment", "label": "bill due"}
+{"text_a": "please delete the reservation for roberts at village tavern", "label": "cancel reservation"}
+{"text_a": "put a hold on my chase account right away please", "label": "freeze account"}
+{"text_a": "read off shopping list", "label": "shopping list"}
+{"text_a": "i won't require my reservation anymore", "label": "cancel reservation"}
+{"text_a": "do people call you by a certain name what is it", "label": "what is your name"}
+{"text_a": "where am i right now, location wise", "label": "current location"}
+{"text_a": "500 dollars equals what in pesos", "label": "exchange rate"}
+{"text_a": "can you direct me where to find where i am", "label": "current location"}
+{"text_a": "i need to know what is on my shopping list", "label": "shopping list"}
+{"text_a": "would you find my location on the map, please", "label": "current location"}
+{"text_a": "tell me the currency conversion rate from kurus to euros", "label": "exchange rate"}
+{"text_a": "how many euros can i exchange for 5 us dollars", "label": "exchange rate"}
+{"text_a": "what is your name", "label": "what is your name"}
+{"text_a": "pass me my gps coordinates", "label": "current location"}
+{"text_a": "which purchases are on my shopping list", "label": "shopping list"}
+{"text_a": "turn off my account", "label": "freeze account"}
+{"text_a": "list everything on my shopping list", "label": "shopping list"}
+{"text_a": "how do i know where i'm at", "label": "current location"}
+{"text_a": "where is my location", "label": "current location"}
+{"text_a": "how can i know when my cable bill is due", "label": "bill due"}
+{"text_a": "how old are you again", "label": "how old are you"}
+{"text_a": "reset to factory settings", "label": "reset settings"}
+{"text_a": "how safe is visiting canada this week", "label": "travel alert"}
+{"text_a": "are there any travel alerts for juarez", "label": "travel alert"}
+{"text_a": "what items are on my shopping list", "label": "shopping list"}
+{"text_a": "block my american saving bank for now", "label": "freeze account"}
+{"text_a": "does south korea have any travel alerts i should be aware of", "label": "travel alert"}
+{"text_a": "cancel that reservation for 8 at barney's", "label": "cancel reservation"}
+{"text_a": "is there a travel alert for [country]", "label": "travel alert"}
+{"text_a": "i need to go back on my factory settings", "label": "reset settings"}
+{"text_a": "is there lettuce on my shopping list", "label": "shopping list"}
+{"text_a": "tell me what i put on the shopping list", "label": "shopping list"}
+{"text_a": "could you tell me how old you are", "label": "how old are you"}
+{"text_a": "when do i pay the utilities", "label": "bill due"}
+{"text_a": "what do people call you", "label": "what is your name"}
+{"text_a": "how do i find when my electric bill is due", "label": "bill due"}
+{"text_a": "is there any danger going to brazil", "label": "travel alert"}
+{"text_a": "put me back on my factory settings", "label": "reset settings"}
+{"text_a": "please cancel my reservation for dinner", "label": "cancel reservation"}
+{"text_a": "i want to know if i will be safe if i travel to europe", "label": "travel alert"}
+{"text_a": "what is your full name", "label": "what is your name"}
+{"text_a": "are there travel alerts for europe", "label": "travel alert"}
+{"text_a": "at this location what are my gps coordinates", "label": "current location"}
+{"text_a": "reset the factory settings please", "label": "reset settings"}
+{"text_a": "whats my location", "label": "current location"}
+{"text_a": "what age were you on your last birthday, ai", "label": "how old are you"}
+{"text_a": "when does my gas bill need paid by", "label": "bill due"}
+{"text_a": "do i have to buy milk", "label": "shopping list"}
+{"text_a": "where can i see the due date for auto loan bill", "label": "bill due"}
+{"text_a": "how many dollars can i exchange for 200 yen", "label": "exchange rate"}
+{"text_a": "what do you like to be called", "label": "what is your name"}
+{"text_a": "can you tell me if germany issued any travel warnings", "label": "travel alert"}
+{"text_a": "what day is the z bill due", "label": "bill due"}
+{"text_a": "tell me your age please", "label": "how old are you"}
+{"text_a": "how much country of canada money would i get for $100", "label": "exchange rate"}
+{"text_a": "what is the due date of my att bill", "label": "bill due"}
+{"text_a": "can you put a block on my chase account right away", "label": "freeze account"}
+{"text_a": "how many lira can i get for 250 dollars", "label": "exchange rate"}
+{"text_a": "tell me how i can reset to factory settings", "label": "reset settings"}
+{"text_a": "how much can i expect to receive if i trade in 6 yens", "label": "exchange rate"}
+{"text_a": "please set my account as frozen", "label": "freeze account"}
+{"text_a": "how old would you be", "label": "how old are you"}
+{"text_a": "what do you want me to refer to you as", "label": "what is your name"}
+{"text_a": "how would you like me to refer to you", "label": "what is your name"}
+{"text_a": "cancel my reservation for dinner tonight", "label": "cancel reservation"}
+{"text_a": "what is the latest date that i can pay my direct tv bill this month", "label": "bill due"}
+{"text_a": "when should i pay my bill by", "label": "bill due"}
+{"text_a": "how old are you alexa", "label": "how old are you"}
+{"text_a": "do i need to get milk", "label": "shopping list"}
+{"text_a": "place a marker for me where i am on the map", "label": "current location"}
+{"text_a": "what's on my to-buy list", "label": "shopping list"}
+{"text_a": "would you please tell me my current gps coordinates", "label": "current location"}
+{"text_a": "do you know when my next electric bill is due", "label": "bill due"}
+{"text_a": "where am i right this moment", "label": "current location"}
+{"text_a": "what do i do to find my current location", "label": "current location"}
+{"text_a": "is the bill due today", "label": "bill due"}
+{"text_a": "is there a name that you preferred to be called by", "label": "what is your name"}
+{"text_a": "go ahead and go back to the original settings", "label": "reset settings"}
+{"text_a": "when is my mortgage payment due", "label": "bill due"}
+{"text_a": "i'd like to know what is on my shopping list", "label": "shopping list"}
+{"text_a": "show my location on the map", "label": "current location"}
+{"text_a": "how old are you, again", "label": "how old are you"}
+{"text_a": "i wanna know my current location", "label": "current location"}
+{"text_a": "state your name", "label": "what is your name"}
+{"text_a": "tell me about any travel alerts issued for germany", "label": "travel alert"}
+{"text_a": "please force my account to freeze", "label": "freeze account"}
+{"text_a": "can you please freeze my bank account", "label": "freeze account"}
+{"text_a": "did i remember to put milk in the shopping list", "label": "shopping list"}
+{"text_a": "tell me what my shopping list consists of", "label": "shopping list"}
+{"text_a": "what name should i use for you", "label": "what is your name"}
+{"text_a": "please delete the reservation for 3 people at outback", "label": "cancel reservation"}
+{"text_a": "tell me what's is on my shopping list", "label": "shopping list"}
+{"text_a": "whats your age range", "label": "how old are you"}
+{"text_a": "i am not in need of my reservation anymore", "label": "cancel reservation"}
+{"text_a": "how many pesos in one dollar us", "label": "exchange rate"}
+{"text_a": "what do i need to buy", "label": "shopping list"}
+{"text_a": "please reset your factory settings", "label": "reset settings"}
+{"text_a": "block my bank of america immdediately", "label": "freeze account"}
+{"text_a": "how safe is it to travel to guatemala right now and are there any alerts", "label": "travel alert"}
+{"text_a": "does my shopping list include apples right now", "label": "shopping list"}
+{"text_a": "go ahead and cancel the reservation i made for 6:00 pm at parc", "label": "cancel reservation"}
+{"text_a": "does russia have any travel alerts i should be aware of", "label": "travel alert"}
+{"text_a": "does my shopping list have pop tarts", "label": "shopping list"}
+{"text_a": "can you read the things to me that are on my shopping list", "label": "shopping list"}
+{"text_a": "may you stop a paymet on my account", "label": "freeze account"}
+{"text_a": "make the settings go back to the original", "label": "reset settings"}
+{"text_a": "please ask the bank to freeze my account", "label": "freeze account"}
+{"text_a": "when's your birthday", "label": "how old are you"}
+{"text_a": "remove my reservation at outback for timmy", "label": "cancel reservation"}
+{"text_a": "how do i check when my mortgage is next up for payment", "label": "bill due"}
+{"text_a": "scrap reservation at 4 for red robin", "label": "cancel reservation"}
+{"text_a": "if i go to baltimore will i be safe", "label": "travel alert"}
+{"text_a": "what does my shopping list consist of", "label": "shopping list"}
+{"text_a": "when's the next phone bill", "label": "bill due"}
+{"text_a": "tell me how many pesos equal 500 dollars", "label": "exchange rate"}
+{"text_a": "i would like to know my location", "label": "current location"}
+{"text_a": "could you freeze my account", "label": "freeze account"}
+{"text_a": "do a hard reset", "label": "reset settings"}
+{"text_a": "what do i have on my list for shopping", "label": "shopping list"}
+{"text_a": "can i call you by any name", "label": "what is your name"}
+{"text_a": "whens your birthday", "label": "how old are you"}
+{"text_a": "can you please put a stop on my bank account", "label": "freeze account"}
+{"text_a": "what day is the cable bill owed on", "label": "bill due"}
+{"text_a": "how can i tell what my current location is", "label": "current location"}
+{"text_a": "does my shopping list consist of chips", "label": "shopping list"}
+{"text_a": "i need to know how much 100 dollars is worth in euros", "label": "exchange rate"}
+{"text_a": "please go back to your factory settings", "label": "reset settings"}
+{"text_a": "can i safely travel to france or is it dangerous", "label": "travel alert"}
+{"text_a": "i want your name", "label": "what is your name"}
+{"text_a": "is it safe to travel to russia", "label": "travel alert"}
+{"text_a": "does the state department say anything about traveling to haiti", "label": "travel alert"}
+{"text_a": "can you tell me the address where i am right now", "label": "current location"}
+{"text_a": "can traveling to nepal be safe (what's safe in x)", "label": "travel alert"}
+{"text_a": "how many japanese yen are in a us dollar", "label": "exchange rate"}
+{"text_a": "freeze my account", "label": "freeze account"}
+{"text_a": "could i cancel my reservations", "label": "cancel reservation"}
+{"text_a": "do i have a big shopping list", "label": "shopping list"}
+{"text_a": "tell me the current location", "label": "current location"}
+{"text_a": "where am i located", "label": "current location"}
+{"text_a": "are there travel notifications for columbia", "label": "travel alert"}
+{"text_a": "can you go back to my original settings", "label": "reset settings"}
+{"text_a": "can you find my location on the map", "label": "current location"}
+{"text_a": "check travel alerts for kenya", "label": "travel alert"}
+{"text_a": "how can i get your attention", "label": "what is your name"}
+{"text_a": "please read my shopping list", "label": "shopping list"}
+{"text_a": "find my current location", "label": "current location"}
+{"text_a": "i have to cancel my reservation after all", "label": "cancel reservation"}
+{"text_a": "show me my shopping list", "label": "shopping list"}
+{"text_a": "do i pay my rent this week", "label": "bill due"}
+{"text_a": "read me everything on my shopping list", "label": "shopping list"}
+{"text_a": "what's the ultimate day for me to pay the internet bill", "label": "bill due"}
+{"text_a": "bring up my location", "label": "current location"}
+{"text_a": "put a hold on my account", "label": "freeze account"}
+{"text_a": "how do i find my location right now", "label": "current location"}
+{"text_a": "give me my location on the map", "label": "current location"}
+{"text_a": "did i put elbow noodles on the shopping list", "label": "shopping list"}
+{"text_a": "please turn my account to frozen", "label": "freeze account"}
+{"text_a": "i want to put you back to original settings", "label": "reset settings"}
+{"text_a": "how would you like me to call you", "label": "what is your name"}
+{"text_a": "block my chase account asap", "label": "freeze account"}
+{"text_a": "how old is al", "label": "how old are you"}
+{"text_a": "cancel my reservation for dinner", "label": "cancel reservation"}
+{"text_a": "where's your place of birth", "label": "how old are you"}
+{"text_a": "look up the exchange rate between dollars and euros", "label": "exchange rate"}
+{"text_a": "what potential hazards are there for going to spain", "label": "travel alert"}
+{"text_a": "go ahead and cancel my reservation for 5 at red robin", "label": "cancel reservation"}
+{"text_a": "what would your name be", "label": "what is your name"}
+{"text_a": "are there any new travel warnings for the us", "label": "travel alert"}
+{"text_a": "when is too late to pay my cable bill", "label": "bill due"}
+{"text_a": "is it safe in italy", "label": "travel alert"}
+{"text_a": "what do you prefer being called", "label": "what is your name"}
+{"text_a": "what your numerical digit to display as your age", "label": "how old are you"}
+{"text_a": "tell me the exchange rate between rubles and dollars", "label": "exchange rate"}
+{"text_a": "you must tell me your name", "label": "what is your name"}
+{"text_a": "cancel my reservation for 4 at red robin", "label": "cancel reservation"}
+{"text_a": "i want my account frozen", "label": "freeze account"}
+{"text_a": "what is the current exchange rate between mxn and eur", "label": "exchange rate"}
+{"text_a": "do you have a nickname", "label": "what is your name"}
+{"text_a": "i would like to cancel my reservations", "label": "cancel reservation"}
+{"text_a": "how many years old are you", "label": "how old are you"}
+{"text_a": "alter back to your orginal settings", "label": "reset settings"}
+{"text_a": "do i have toothpaste on my shopping list", "label": "shopping list"}
+{"text_a": "what's the due date for spectrum's bill", "label": "bill due"}
+{"text_a": "when do i need to pay my at&t bill", "label": "bill due"}
+{"text_a": "when is my cell phone due", "label": "bill due"}
+{"text_a": "what's my location", "label": "current location"}
+{"text_a": "can you tell me when my peco energy bill is due this month", "label": "bill due"}
+{"text_a": "tell me what to enter into my gps for my current location", "label": "current location"}
+{"text_a": "are you older than me", "label": "how old are you"}
+{"text_a": "where exactly am i", "label": "current location"}
+{"text_a": "could you cancel my reservation for winters at the palace tonight", "label": "cancel reservation"}
+{"text_a": "what name do you like to go by", "label": "what is your name"}
+{"text_a": "i want to see my location on the map", "label": "current location"}
+{"text_a": "cancel my 6:00 reservation at the cheesecake factory", "label": "cancel reservation"}
+{"text_a": "what does my shopping list entail", "label": "shopping list"}
+{"text_a": "cancel the reservation i made for 8 pm at black rock", "label": "cancel reservation"}
+{"text_a": "tell me how old you are", "label": "how old are you"}
+{"text_a": "i want you to reset your factory settings", "label": "reset settings"}
+{"text_a": "what name do you want me to use", "label": "what is your name"}
+{"text_a": "what's your age again", "label": "how old are you"}
+{"text_a": "what alerts are listed for traveling to paris", "label": "travel alert"}
+{"text_a": "your age please", "label": "how old are you"}
+{"text_a": "when do i have to pay my internet", "label": "bill due"}
+{"text_a": "how we stop my account", "label": "freeze account"}
+{"text_a": "please cancel the reservation at zephers for joe and myself right now", "label": "cancel reservation"}
+{"text_a": "does france have any travel alerts i should be aware of", "label": "travel alert"}
+{"text_a": "how do i find my present location right now", "label": "current location"}
+{"text_a": "how much is $1 usd in euros", "label": "exchange rate"}
+{"text_a": "do you have a name i can use", "label": "what is your name"}
+{"text_a": "read me my shopping list", "label": "shopping list"}
+{"text_a": "could you put a stop on my bank account, please", "label": "freeze account"}
+{"text_a": "what's the currency conversion between rubles and yen", "label": "exchange rate"}
+{"text_a": "can you show me my shopping list", "label": "shopping list"}
+{"text_a": "how soon before my catering bill is due", "label": "bill due"}
+{"text_a": "i am hoping you can put a stop on my bank account", "label": "freeze account"}
+{"text_a": "what's your birthday", "label": "how old are you"}
+{"text_a": "how do i activate you", "label": "what is your name"}
+{"text_a": "please allow my account to freeze", "label": "freeze account"}
+{"text_a": "how much is 100 dollars in euros", "label": "exchange rate"}
+{"text_a": "what can i get for 10 usd in cad", "label": "exchange rate"}
+{"text_a": "can you please put a block on my chase account quickly", "label": "freeze account"}
+{"text_a": "where do i find information on when the water bill is due", "label": "bill due"}
+{"text_a": "change back to your initial settings please", "label": "reset settings"}
+{"text_a": "i want to be switched back to my factory settings", "label": "reset settings"}
+{"text_a": "how many dollars is one mexican peso", "label": "exchange rate"}
+{"text_a": "ai, what is your name", "label": "what is your name"}
+{"text_a": "show me my location", "label": "current location"}
+{"text_a": "what time do i have to pay z bill", "label": "bill due"}
+{"text_a": "freeze my account immediately", "label": "freeze account"}
+{"text_a": "tell me your birthday", "label": "how old are you"}
+{"text_a": "i'd like to know when you were born", "label": "how old are you"}
+{"text_a": "tell the restaurant i cannot make it", "label": "cancel reservation"}
+{"text_a": "i am currently located in what town", "label": "current location"}
+{"text_a": "i need to know the dollar to peso conversion", "label": "exchange rate"}
+{"text_a": "do you have a birth date", "label": "how old are you"}
+{"text_a": "i would like you to cancel the dinner reservation for williams at the palace tonight", "label": "cancel reservation"}
+{"text_a": "im not gonna need the dinner reservation", "label": "cancel reservation"}
+{"text_a": "whats euros kroner in 25", "label": "exchange rate"}
+{"text_a": "can you tell me the ai's name", "label": "what is your name"}
+{"text_a": "i want to know how old you are", "label": "how old are you"}
+{"text_a": "reset the factory settings if possible", "label": "reset settings"}
+{"text_a": "can you notify the bank to put a stop on my account", "label": "freeze account"}
+{"text_a": "cancel tonight's dinner reservation", "label": "cancel reservation"}
+{"text_a": "what name do you prefer", "label": "what is your name"}
+{"text_a": "please put a hold on my retirement account right now", "label": "freeze account"}
+{"text_a": "how can i locate where i am", "label": "current location"}
+{"text_a": "i would like to know my current location", "label": "current location"}
+{"text_a": "please put a block on my regions account immediately", "label": "freeze account"}
+{"text_a": "block my citibank account right away", "label": "freeze account"}
+{"text_a": "how can i go about finding my location right now", "label": "current location"}
+{"text_a": "are there travel alerts in mexico", "label": "travel alert"}
+{"text_a": "cancel my reservation for dinner, please", "label": "cancel reservation"}
+{"text_a": "how many birthdays have you had", "label": "how old are you"}
+{"text_a": "give me your name so i can use you", "label": "what is your name"}
+{"text_a": "i need to lock my account right now", "label": "freeze account"}
+{"text_a": "what is the exchange to yen if i have 100 us dollars", "label": "exchange rate"}
+{"text_a": "i need to hear what's on my shopping list", "label": "shopping list"}
+{"text_a": "i need you to place a stop on my bank account, thank you", "label": "freeze account"}
+{"text_a": "may i ask your age", "label": "how old are you"}
+{"text_a": "will i be safe while traveling to lyon (will you be safe)", "label": "travel alert"}
+{"text_a": "what is the exchange rate between usd and british pounds", "label": "exchange rate"}
+{"text_a": "go back to factory settings", "label": "reset settings"}
+{"text_a": "whats the current exchange rate between usd and eur", "label": "exchange rate"}
+{"text_a": "is traveling to france safe", "label": "travel alert"}
+{"text_a": "i'd like to know my current location", "label": "current location"}
+{"text_a": "i need your name", "label": "what is your name"}
+{"text_a": "does my shopping list have tomato written on it", "label": "shopping list"}
+{"text_a": "dont allow any action on my account", "label": "freeze account"}
+{"text_a": "i'm lost, can you tell me where i am", "label": "current location"}
+{"text_a": "what is your given name", "label": "what is your name"}
+{"text_a": "can you now please go back to the original settings", "label": "reset settings"}
+{"text_a": "tell me the exchange rate between dollars and pesos", "label": "exchange rate"}
+{"text_a": "adjust settings back to original factory settings immediately", "label": "reset settings"}
+{"text_a": "what do you call yourself", "label": "what is your name"}
+{"text_a": "how many years have you been operating", "label": "how old are you"}
+{"text_a": "is garlic on my grocery list", "label": "shopping list"}
+{"text_a": "please put a block on my us bank account immediately", "label": "freeze account"}
+{"text_a": "i am needing to know your name", "label": "what is your name"}
+{"text_a": "the reservation i made is not required anymore", "label": "cancel reservation"}
+{"text_a": "what is your age again", "label": "how old are you"}
+{"text_a": "i no longer want my reservation for 5 at the loft cancel it please", "label": "cancel reservation"}
+{"text_a": "what are my coordinates", "label": "current location"}
+{"text_a": "usd to the euro exchanges at what right now", "label": "exchange rate"}
+{"text_a": "i need to put a freeze on my banking account", "label": "freeze account"}
+{"text_a": "how many pesos can i get for one dollar", "label": "exchange rate"}
+{"text_a": "how old were you on your last birthday", "label": "how old are you"}
+{"text_a": "what do i do to check when my next credit card payment is", "label": "bill due"}
+{"text_a": "im not going to dinner tonight", "label": "cancel reservation"}
+{"text_a": "is $30 usd more or less in canada", "label": "exchange rate"}
+{"text_a": "what year were you born in", "label": "how old are you"}
+{"text_a": "what is the exchange rate from pounds sterling to us dollars", "label": "exchange rate"}
+{"text_a": "what is you name", "label": "what is your name"}
+{"text_a": "does spain have any travel alerts i should be aware of", "label": "travel alert"}
+{"text_a": "how much time left to pay my bill", "label": "bill due"}
+{"text_a": "does france have any current travel alerts", "label": "travel alert"}
+{"text_a": "tell me your name", "label": "what is your name"}
+{"text_a": "i must know five dollars in yen and rubles", "label": "exchange rate"}
+{"text_a": "do you go by any nicknames", "label": "what is your name"}
+{"text_a": "i would like my account frozen", "label": "freeze account"}
+{"text_a": "what's your name anyway", "label": "what is your name"}
+{"text_a": "how do i locate when my gas bill is do", "label": "bill due"}
+{"text_a": "what age is the ai", "label": "how old are you"}
+{"text_a": "could you tell me when you were born", "label": "how old are you"}
+{"text_a": "how much is the exchange between usd and euros", "label": "exchange rate"}
+{"text_a": "freeze my bank account", "label": "freeze account"}
+{"text_a": "i have to cancel my reservation", "label": "cancel reservation"}
+{"text_a": "when do i need to pay my dte energy bill", "label": "bill due"}
+{"text_a": "my current location is what", "label": "current location"}
+{"text_a": "where am i located on the map", "label": "current location"}
+{"text_a": "what name should i call you", "label": "what is your name"}
+{"text_a": "how old did you just turn", "label": "how old are you"}
+{"text_a": "location currently, where", "label": "current location"}
+{"text_a": "can you cancel my dinner reservation", "label": "cancel reservation"}
+{"text_a": "find travel alerts for haiti", "label": "travel alert"}
+{"text_a": "please tell me how to find out when my rent is due", "label": "bill due"}
+{"text_a": "what's your bday", "label": "how old are you"}
+{"text_a": "can you tell me whats on my shopping list", "label": "shopping list"}
+{"text_a": "in the place i am what are my gps coordinates", "label": "current location"}
+{"text_a": "what could help me locate myself", "label": "current location"}
+{"text_a": "put a block on my amalgamated bank account right now", "label": "freeze account"}
+{"text_a": "i need to know where to locate when my gas bill is due", "label": "bill due"}
+{"text_a": "is it safe to travel to mexico", "label": "travel alert"}
+{"text_a": "could you please put a stop on my bank account", "label": "freeze account"}
+{"text_a": "remove my dinner reservation", "label": "cancel reservation"}
+{"text_a": "tell me the exchange rate between here and country b", "label": "exchange rate"}
+{"text_a": "tell me five dollars in yen and rubles", "label": "exchange rate"}
+{"text_a": "can you list my shopping list for me", "label": "shopping list"}
+{"text_a": "please tell me my current gps coordinates", "label": "current location"}
+{"text_a": "what name should i use when i call you", "label": "what is your name"}
+{"text_a": "i no longer want my reservation anymore", "label": "cancel reservation"}
+{"text_a": "change back to your factory settins", "label": "reset settings"}
+{"text_a": "how would you like to be referred to", "label": "what is your name"}
+{"text_a": "i need you to act swiftly and freeze all activity on my capital one checking", "label": "freeze account"}
+{"text_a": "i'd like a block on my charles schwab account immediately", "label": "freeze account"}
+{"text_a": "whats the due date for z bill", "label": "bill due"}
+{"text_a": "what are the travel alerts for the us", "label": "travel alert"}
+{"text_a": "dollar to pesos exchange rate", "label": "exchange rate"}
+{"text_a": "when is my electric bill due by", "label": "bill due"}
+{"text_a": "tell me what name to use to refer to you", "label": "what is your name"}
+{"text_a": "how do i find when my cable bill is due", "label": "bill due"}
+{"text_a": "revert to factory settings please", "label": "reset settings"}
+{"text_a": "get rid of my 4 pm reservation at the steakhouse please", "label": "cancel reservation"}
+{"text_a": "i need assistance with my current location", "label": "current location"}
+{"text_a": "ai, how long have you been working", "label": "how old are you"}
+{"text_a": "the reservation at zepher cancel joe from that", "label": "cancel reservation"}
+{"text_a": "how do i find my location right now, please", "label": "current location"}
+{"text_a": "go to default setting", "label": "reset settings"}
+{"text_a": "i really want my account frozen", "label": "freeze account"}
+{"text_a": "how old", "label": "how old are you"}
+{"text_a": "cancel my reservation for 6 pm at sidetracks", "label": "cancel reservation"}
+{"text_a": "what are today's travel advisories", "label": "travel alert"}
+{"text_a": "can you tell me what 100 british pounds equals in us dollars", "label": "exchange rate"}
+{"text_a": "i need to know what day i need to pay my water bill", "label": "bill due"}
+{"text_a": "how many dollars can i exchange for 5000 rubles", "label": "exchange rate"}
+{"text_a": "go back to the default settings please", "label": "reset settings"}
+{"text_a": "can you tell me how old the ai is", "label": "how old are you"}
+{"text_a": "what can you see on my shopping list", "label": "shopping list"}
+{"text_a": "please revert to the original settings", "label": "reset settings"}
+{"text_a": "when referring to you, what name should i use", "label": "what is your name"}
+{"text_a": "could you tell me your name", "label": "what is your name"}
+{"text_a": "show shopping list", "label": "shopping list"}
+{"text_a": "check maps for my location", "label": "current location"}
+{"text_a": "whats on my shopping list at the moment", "label": "shopping list"}
+{"text_a": "so please reset your factory settings", "label": "reset settings"}
+{"text_a": "how long do i have to pay the gas bill", "label": "bill due"}
+{"text_a": "is it safe to fly to russia", "label": "travel alert"}
+{"text_a": "i'd like to know what's on the shopping list", "label": "shopping list"}
+{"text_a": "you should reset your factory settings", "label": "reset settings"}
+{"text_a": "tell me what i have on my shopping list", "label": "shopping list"}
+{"text_a": "when is your birthday", "label": "how old are you"}
+{"text_a": "what date do i have to pay my bill", "label": "bill due"}
+{"text_a": "tell me the exchange rate of dollars to yen", "label": "exchange rate"}
+{"text_a": "the reservation i created is not necessary anymore", "label": "cancel reservation"}
+{"text_a": "how many dollars can i get for 20 yen", "label": "exchange rate"}
+{"text_a": "how much cad can i get with my one usd", "label": "exchange rate"}
+{"text_a": "can you tell me where i am", "label": "current location"}
+{"text_a": "what may i call you", "label": "what is your name"}
+{"text_a": "is new caledonia safer than other countries", "label": "travel alert"}
+{"text_a": "do i have tomato on the shopping list", "label": "shopping list"}
+{"text_a": "how many euros can i exchange for 200 yen", "label": "exchange rate"}
+{"text_a": "i need to hold off on my account", "label": "freeze account"}
+{"text_a": "i need to find out how i know my location right now", "label": "current location"}
+{"text_a": "go ahead and close the reservation", "label": "cancel reservation"}
+{"text_a": "please find the exact payment due date for my sprint phone bill", "label": "bill due"}
+{"text_a": "can you reset your factory settings", "label": "reset settings"}
+{"text_a": "does china have any travel alerts i should be aware of", "label": "travel alert"}
+{"text_a": "what travel alerts are in effect for the us", "label": "travel alert"}
+{"text_a": "please go back to the settings of the original", "label": "reset settings"}
+{"text_a": "i need you to block my chase account immediately", "label": "freeze account"}
+{"text_a": "mexico travel alerts", "label": "travel alert"}
+{"text_a": "get rid of my dinner reservation", "label": "cancel reservation"}
+{"text_a": "latitude and longitude please", "label": "current location"}
+{"text_a": "whats your name", "label": "what is your name"}
+{"text_a": "please go back to to factory settings now", "label": "reset settings"}
+{"text_a": "where are we located", "label": "current location"}
+{"text_a": "how old are you exactly", "label": "how old are you"}
+{"text_a": "can you tell me my shopping list items, please", "label": "shopping list"}
+{"text_a": "what is my current location that you see right now", "label": "current location"}
+{"text_a": "what's the currency conversion between usd and yen", "label": "exchange rate"}
+{"text_a": "what is the current going rate for exchanging dollars for pesos", "label": "exchange rate"}
+{"text_a": "does japan have any travel alerts i should be aware of", "label": "travel alert"}
+{"text_a": "tell me my current gps coordinates", "label": "current location"}
+{"text_a": "how old were you on your most recent birthday", "label": "how old are you"}
+{"text_a": "stop my account activity", "label": "freeze account"}
+{"text_a": "change to factory settings", "label": "reset settings"}
+{"text_a": "how do i find when my medical bill is due", "label": "bill due"}
+{"text_a": "would you tell me how old you are", "label": "how old are you"}
+{"text_a": "go to factory settings", "label": "reset settings"}
+{"text_a": "i need your to reset to factory settings", "label": "reset settings"}
+{"text_a": "were you born in the 80s", "label": "how old are you"}
+{"text_a": "i want to freeze my bank account", "label": "freeze account"}
+{"text_a": "what is the present exchange rate between usd and british pound", "label": "exchange rate"}
+{"text_a": "i'd like to reset to factory settings", "label": "reset settings"}
+{"text_a": "cancel my reservation for 5 at the loft", "label": "cancel reservation"}
+{"text_a": "give me all contents of my shopping list", "label": "shopping list"}
+{"text_a": "your name please", "label": "what is your name"}
+{"text_a": "i'd like to know what's on my shopping list", "label": "shopping list"}
+{"text_a": "how many dollars can i exchange for 10000 yen", "label": "exchange rate"}
+{"text_a": "can you cancel the reservation i have at 4 pm at ruth's", "label": "cancel reservation"}
+{"text_a": "i want you to reset to factory settings", "label": "reset settings"}
+{"text_a": "what name do you want to be called", "label": "what is your name"}
+{"text_a": "would you please cancel the reservations for dinner", "label": "cancel reservation"}

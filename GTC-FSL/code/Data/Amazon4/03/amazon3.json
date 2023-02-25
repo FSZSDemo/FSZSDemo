@@ -1,0 +1,11 @@
+{"task_name": "Amazon333", 
+"labels": {
+"8": {"instruction": "Here is a review of clothing, shoes and jewelry: \"", "counter_labels": []}, 
+"4": {"instruction": "Here is a review of beauty: \"", "counter_labels": []}, 
+"10": {"instruction": "Here is a review of electronics: \"", "counter_labels": []}, 
+"18": {"instruction": "Here is a review of patio, lawn and garden: \"", "counter_labels": []},
+"1": {"instruction": "Here is a review of Apps for Android: \"", "counter_labels": []},
+"16": {"instruction": "Here is a review of musical instruments: \"", "counter_labels": []},
+"2": {"instruction": "Here is a review of automotive: \"", "counter_labels": []},
+"22": {"instruction": "Here is a review of toys and games: \"", "counter_labels": []},
+"17": {"instruction": "Here is a review of office products: \"", "counter_labels": []}}}

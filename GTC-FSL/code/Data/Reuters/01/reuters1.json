@@ -1,0 +1,13 @@
+{"task_name": "Reuters1", 
+"labels": {
+"29": {"instruction": "Here is news about veg oil: \"", "counter_labels": []}, 
+"23": {"instruction": "Here is news about retail: \"", "counter_labels": []}, 
+"20": {"instruction": "Here is news about nat-gas (natural gas): \"", "counter_labels": []}, 
+"10": {"instruction": "Here is news about gnp (gross national product): \"", "counter_labels": []},
+"3": {"instruction": "Here is news about cocoa: \"", "counter_labels": []},
+"7": {"instruction": "Here is news about cpi (consumer price index): \"", "counter_labels": []}, 
+"18": {"instruction": "Here is news about money-fx (money foreign exchange): \"", "counter_labels": []},
+"17": {"instruction": "Here is news about livestock: \"", "counter_labels": []},
+"26": {"instruction": "Here is news about sugar: \"", "counter_labels": []},
+"2": {"instruction": "Here is news about bop (balance of payments): \"", "counter_labels": []},
+"14": {"instruction": "Here is news about ipi (industrial production index): \"", "counter_labels": []}}}

@@ -1,0 +1,13 @@
+{"task_name": "Reuters4", 
+"labels": {
+"12": {"instruction": "Here is news about grain: \"", "counter_labels": []}, 
+"18": {"instruction": "Here is news about money-fx (money foreign exchange): \"", "counter_labels": []}, 
+"30": {"instruction": "Here is news about wpi (wholesale price index): \"", "counter_labels": []}, 
+"3": {"instruction": "Here is news about cocoa: \"", "counter_labels": []},
+"26": {"instruction": "Here is news about sugar: \"", "counter_labels": []},
+"2": {"instruction": "Here is news about bop (balance of payments): \"", "counter_labels": []}, 
+"14": {"instruction": "Here is news about ipi (industrial production index): \"", "counter_labels": []},
+"4": {"instruction": "Here is news about coffee: \"", "counter_labels": []},
+"6": {"instruction": "Here is news about cotton: \"", "counter_labels": []},
+"11": {"instruction": "Here is news about gold: \"", "counter_labels": []},
+"7": {"instruction": "Here is news about cpi (consumer price index): \"", "counter_labels": []}}}

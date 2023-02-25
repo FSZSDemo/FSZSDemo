@@ -1,0 +1,11 @@
+{"task_name": "Amazon112", 
+"labels": {
+"14": {"instruction": "Here is a review of a book in kindle store: \"", "counter_labels": []}, 
+"10": {"instruction": "Here is a review of an electronic product: \"", "counter_labels": []}, 
+"6": {"instruction": "Here is a review of a CD or a vinyl record: \"", "counter_labels": []},
+"23": {"instruction": "Here is a review of a video game: \"", "counter_labels": []},
+"0": {"instruction": "Here is a review of Amazon Instant Video: \"", "counter_labels": []},
+"18": {"instruction": "Here is a review of patio, lawn and garden: \"", "counter_labels": []},
+"9": {"instruction": "Here is a review of digital music: \"", "counter_labels": []},
+"12": {"instruction": "Here is a review of a product about health and personal care: \"", "counter_labels": []},
+"16": {"instruction": "Here is a review of a musical instrument: \"", "counter_labels": []}}}

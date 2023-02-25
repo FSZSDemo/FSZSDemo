@@ -1,0 +1,54 @@
+{
+  "task_name": "CLINC0128",
+  "labels": {
+    "cancel reservation": {
+      "instruction": "If I want to cancel reservation, I will say: \"",
+      "counter_labels": []
+    },
+    "freeze account": {
+      "instruction": "If I want to freeze account, I will say: \"",
+      "counter_labels": []
+    },
+    "current location": {
+      "instruction": "If I want  current location, I will say: \"",
+      "counter_labels": []
+    },
+
+    "how old are you": {
+      "instruction": "If I want to know how old are you, I will say: \"",
+      "counter_labels": []
+    },
+
+    "what is your name": {
+      "instruction": "If I want to know what is your name, I will say: \"",
+      "counter_labels": []
+    },
+
+    "reset settings": {
+      "instruction": "If I want to reset settings, I will say: \"",
+      "counter_labels": []
+    },
+
+
+    "travel alert": {
+      "instruction": "If I want to know travel alert, I will say: \"",
+      "counter_labels": []
+    },
+
+    "bill due": {
+      "instruction": "If I want to bill due, I will say: \"",
+      "counter_labels": []
+    },
+
+    "exchange rate": {
+      "instruction": "If I want to get exchange rate, I will say: \"",
+      "counter_labels": []
+    },
+
+    "shopping list": {
+      "instruction": "If I want to get shopping list, I will say: \"",
+      "counter_labels": []
+    }
+
+  }
+}

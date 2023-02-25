@@ -1,0 +1,10 @@
+{"task_name": "New2033", 
+"labels": {
+"16": {"instruction": "Here is news about recreation.motorcycles: \"", "counter_labels": []}, 
+"3": {"instruction": "Here is news about talk.miscellaneous.politics: \"", "counter_labels": []}, 
+"13": {"instruction": "Here is news about science.electronics: \"", "counter_labels": []}, 
+"9": {"instruction": "Here is news about talk.miscellaneous.religion: \"", "counter_labels": []},
+"8": {"instruction": "Here is news about talk.topic.guns: \"", "counter_labels": []},
+"1": {"instruction": "Here is news about science.space: \"", "counter_labels": []}, 
+"17": {"instruction": "Here is news about talk.compuper.system.ibm.pc.hardware: \"", "counter_labels": []}}}
+

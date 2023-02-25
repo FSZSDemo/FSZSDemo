@@ -1,0 +1,13 @@
+{"task_name": "Reuters3", 
+"labels": {
+"25": {"instruction": "Here is news about ship: \"", "counter_labels": []}, 
+"15": {"instruction": "Here is news about iron-steel: \"", "counter_labels": []}, 
+"1": {"instruction": "Here is news about alum: \"", "counter_labels": []}, 
+"19": {"instruction": "Here is news about money-supply: \"", "counter_labels": []},
+"6": {"instruction": "Here is news about cotton: \"", "counter_labels": []},
+"13": {"instruction": "Here is news about interest: \"", "counter_labels": []}, 
+"24": {"instruction": "Here is news about rubber: \"", "counter_labels": []},
+"11": {"instruction": "Here is news about gold: \"", "counter_labels": []},
+"5": {"instruction": "Here is news about copper: \"", "counter_labels": []},
+"9": {"instruction": "Here is news about earn: \"", "counter_labels": []},
+"14": {"instruction": "Here is news about ipi (industrial production index): \"", "counter_labels": []}}}

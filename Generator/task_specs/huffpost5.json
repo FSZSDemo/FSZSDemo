@@ -1,0 +1,18 @@
+{"task_name": "huffpost555", 
+"labels": {
+"29": {"instruction": "A news headline about taste: \"", "counter_labels": []}, 
+"26": {"instruction": "A news headline about style: \"", "counter_labels": []}, 
+"22": {"instruction": "A news headline about weird news: \"", "counter_labels": []}, 
+"8": {"instruction": "A news headline about food and drink: \"", "counter_labels": []},
+"2": {"instruction": "A news headline about entertainment: \"", "counter_labels": []},
+"9": {"instruction": "A news headline about business: \"", "counter_labels": []}, 
+"21": {"instruction": "A news headline about media: \"", "counter_labels": []},
+"32": {"instruction": "A news headline about arts: \"", "counter_labels": []}, 
+"6": {"instruction": "A news headline about healthy living: \"", "counter_labels": []}, 
+"14": {"instruction": "A news headline about the parents: \"", "counter_labels": []}, 
+"5": {"instruction": "A news headline about parenting: \"", "counter_labels": []},
+"12": {"instruction": "A news headline about black voices: \"", "counter_labels": []},
+"0": {"instruction": "A news headline about politics: \"", "counter_labels": []},
+"23": {"instruction": "A news headline about green: \"", "counter_labels": []}, 
+"37": {"instruction": "A news headline about college: \"", "counter_labels": []}, 
+"16": {"instruction": "A news headline about weddings: \"", "counter_labels": []}}}

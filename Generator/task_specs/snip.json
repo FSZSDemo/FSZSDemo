@@ -1,0 +1,13 @@
+{
+  "task_name": "SNIP0128",
+  "labels": {
+    "add to playlist": {
+      "instruction": "If I want to add to playlist, I will say: \"",
+      "counter_labels": []
+    },
+    "rate book": {
+      "instruction": "If I want to rate book, I will say: \"",
+      "counter_labels": []
+    }
+    }
+}
